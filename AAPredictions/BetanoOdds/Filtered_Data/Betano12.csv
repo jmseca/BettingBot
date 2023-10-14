@@ -1,0 +1,11 @@
+League,Date,Time,HT,AT,ODDH,ODDD,ODDA,ODD_25+,ODD_25-,ODD_BthScore_Yes,ODD_BthScore_No,ODD_1X,ODD_12,ODD_X2,Scrape_Date,Scrape_Time
+Premiership,2020-08-16,1630,Livingston FC,Rangers,8.0,5.15,1.31,1.63,1.87,2.00,1.53,3.15,1.09,1.04,None,None
+Liga_Europa,2020-08-16,2000,Sevilha,Manchester United,3.24,3.36,2.53,None,None,None,None,None,None,None,2020-08-15 00:00:00,2345
+Liga_Europa,2020-08-17,2000,Inter de Milao,Shakhtar Donetsk,1.72,3.8,4.25,None,None,None,None,None,None,None,2020-08-15 00:00:00,2345
+Champions,2020-08-18,2000,RB Leipzig,PSG,4.0,3.8,1.75,None,None,None,None,None,None,None,2020-08-15 00:00:00,2346
+Champions,2020-08-19,2000,Lyon,Bayern Munique,11.0,6.15,1.21,None,None,None,None,None,None,None,2020-08-15 00:00:00,2346
+Premiership,2020-08-20,1930,FC St Johnstone,Aberdeen FC,2.64,3.0,2.72,2.37,1.38,2.00,1.55,1.4,1.28,1.42,None,None
+Premiership,2020-08-22,1500,St Mirren,Ross County,2.6,3.2,2.6,1.9,1.61,1.67,1.8,1.44,1.25,1.44,None,None
+Premiership,2020-08-22,1500,Motherwell FC,Hamilton Academical,1.44,4.05,7.25,1.67,1.8,1.80,1.67,1.06,1.16,2.6,None,None
+Premiership,2020-08-22,1500,Rangers,Kilmarnock FC,1.2,5.85,12.75,1.44,2.2,1.95,1.57,1.02,1.1,4.0,None,None
+Premiership,2020-08-22,1730,Dundee United,Celtic,10.0,5.3,1.26,1.53,2.0,1.95,1.57,3.5,1.12,1.03,None,None

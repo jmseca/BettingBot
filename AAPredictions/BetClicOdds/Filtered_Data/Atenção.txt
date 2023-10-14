@@ -1,0 +1,4 @@
+AS datas estão quase todas mal, pq eu devia correr o filter no dia em que faço scrape
+E não fiz isso
+
+Por isso, NÃO PODEMOS CONFIAR NESTAS DATAS!!!!!!!!!

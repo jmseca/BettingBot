@@ -1,0 +1,160 @@
+League,Date,Time,HT,AT,ODDH,ODDD,ODDA,ODD_25+,ODD_25-,ODD_BthScore_Yes,ODD_BthScore_No,ODD_1X,ODD_12,ODD_X2,SO,Scrape_Date,Scrape_Time
+Serie_A,2020-09-30,1700,Udinese,Spezia,1.78,3.4,4.55,1.88,1.67,1.78,1.75,1.16,None,1.95,None,2020-09-30,1300
+Serie_A,2020-09-30,1700,Benevento Calcio,Inter de Milao,9.5,5.25,1.33,1.42,2.35,1.67,1.88,3.15,None,1.04,None,2020-09-30,1300
+La_Liga,2020-09-30,1800,Huesca,Atletico de Madrid,6.75,3.95,1.53,1.91,1.65,2.02,1.57,2.40,None,1.08,None,2020-09-30,1255
+La_Liga,2020-09-30,1800,Villarreal,Alaves,1.47,4.35,6.75,1.83,1.75,1.95,1.63,1.08,None,2.54,None,2020-09-30,1255
+Serie_A,2020-09-30,1945,Lazio,Atalanta,2.58,3.7,2.52,1.42,2.35,1.36,2.54,1.47,None,1.45,None,2020-09-30,1300
+La_Liga,2020-09-30,2030,Real Madrid,Real Valladolid,1.22,6.5,11.75,1.47,2.2,2.05,1.55,1.02,None,4.0,None,2020-09-30,1255
+La_Liga,2020-09-30,2030,Eibar,Elche CF,1.7,3.5,4.95,2.20,1.47,2.13,1.5,1.14,None,2.05,None,2020-09-30,1255
+La_Liga,2020-10-01,1800,Athletic Bilbao,Cadiz CF,1.6,3.5,6.1,2.35,1.42,2.33,1.42,1.09,None,2.2,None,2020-09-30,1255
+La_Liga,2020-10-01,1800,Sevilha,Levante,1.45,4.25,6.55,1.55,2.05,1.67,1.87,1.07,None,2.56,None,2020-09-30,1255
+La_Liga,2020-10-01,2030,Celta de Vigo,Barcelona,5.55,4.25,1.5,1.53,2.11,1.61,1.95,2.40,None,1.11,None,2020-09-30,1255
+Primeira_Liga,2020-10-02,1900,Moreirense FC,Boavista FC,2.3,2.9,3.35,2.3,1.4,1.95,1.57,1.28,None,1.55,None,2020-09-30,1257
+Eredivisie,2020-10-02,1900,FC Utrecht,SC Heerenveen,1.8,4.0,3.65,1.38,2.33,1.38,2.33,1.24,None,1.88,None,2020-09-30,1241
+Bundesliga,2020-10-02,1930,1. FC Union Berlin,Mainz 05,2.25,3.3,3.0,1.72,1.83,1.57,2.02,1.33,None,1.57,None,2020-09-30,1244
+Premiership,2020-10-02,1945,Dundee United,Livingston FC,2.33,3.2,2.96,2.05,1.5,1.8,1.67,1.35,None,1.53,None,2020-09-30,1252
+Premiership,2020-10-02,1945,Aberdeen FC,St Mirren,1.5,4.25,5.6,1.78,1.7,1.9,1.61,1.11,None,2.4,None,2020-09-30,1252
+Premiership,2020-10-02,1945,Hibernian FC,Hamilton Academical,1.38,4.9,6.5,1.57,1.95,1.8,1.67,1.08,None,2.78,None,2020-09-30,1252
+Premiership,2020-10-02,1945,Kilmarnock FC,Motherwell FC,2.4,3.2,2.82,1.90,1.61,1.67,1.8,1.38,None,1.5,None,2020-09-30,1252
+Serie_A,2020-10-02,1945,Fiorentina,Sampdoria,1.72,3.75,4.3,1.65,1.91,1.63,1.95,1.18,None,2.0,None,2020-09-30,1300
+Championship,2020-10-02,1945,Coventry City,Bournemouth,3.45,3.15,2.11,1.87,1.63,1.67,1.8,1.65,None,1.26,None,2020-09-30,1248
+Ligue_1,2020-10-02,2000,PSG,Angers,1.12,7.9,16.5,1.28,2.7,2.0,1.55,-,None,5.35,None,2020-09-30,1247
+Primeira_Liga,2020-10-02,2115,Vitoria Guimaraes,FC Pacos Ferreira,1.72,3.4,4.95,2.02,1.53,1.91,1.6,1.14,None,2.02,None,2020-09-30,1257
+RFPL,2020-10-03,1200,FC Ufa,Rotor Volgograd,1.91,3.2,4.1,2.25,1.4,2.02,1.5,1.19,None,1.8,None,2020-09-30,1253
+La_Liga,2020-10-03,1200,Real Valladolid,Eibar,2.4,3.0,3.0,2.25,1.45,1.91,1.65,1.33,None,1.5,None,2020-09-30,1255
+Championship,2020-10-03,1230,Norwich City,Derby County,1.63,3.9,4.7,1.57,1.95,1.6,1.91,1.15,None,2.12,None,2020-09-30,1248
+Premier_League,2020-10-03,1230,Chelsea,Crystal Palace FC,1.4,4.45,6.9,1.53,2.1,1.7,1.85,1.06,None,2.7,None,2020-09-30,1303
+Serie_A,2020-10-03,1400,Sassuolo,FC Crotone,1.44,4.4,6.35,1.55,2.05,1.7,1.85,1.08,None,2.6,None,2020-09-30,1300
+Bundesliga,2020-10-03,1430,Werder Bremen,Arminia Bielefeld,2.16,3.35,3.15,1.67,1.88,1.53,2.1,1.31,None,1.61,None,2020-09-30,1244
+Bundesliga,2020-10-03,1430,Estugarda,Bayer Leverkusen,3.8,3.75,1.83,1.44,2.3,1.42,2.37,1.88,None,1.23,None,2020-09-30,1244
+Bundesliga,2020-10-03,1430,Colonia,Borussia Monchengladbach,3.5,3.75,1.9,1.53,2.1,1.47,2.3,1.80,None,1.26,None,2020-09-30,1244
+Bundesliga,2020-10-03,1430,Borussia Dortmund,Friburgo,1.28,5.4,9.0,1.36,2.52,1.65,1.91,1.03,None,3.4,None,2020-09-30,1244
+RFPL,2020-10-03,1430,Tambov,Arsenal Tula,3.05,3.05,2.37,2.10,1.47,1.8,1.65,1.50,None,1.33,None,2020-09-30,1253
+Bundesliga,2020-10-03,1430,Eintracht Frankfurt,Hoffenheim,2.3,3.4,2.86,1.4,2.4,1.33,2.62,1.36,None,1.55,None,2020-09-30,1244
+RFPL,2020-10-03,1430,Ural Sverdlovskaya Oblast,CSKA Moscovo,5.3,3.7,1.61,1.80,1.65,1.8,1.65,2.17,None,1.12,None,2020-09-30,1253
+Championship,2020-10-03,1500,Blackburn Rovers,Cardiff,2.18,3.2,3.25,1.85,1.65,1.65,1.83,1.30,None,1.61,None,2020-09-30,1248
+Championship,2020-10-03,1500,Sheffield Wednesday,Queens Park Rangers,2.0,3.25,3.7,1.80,1.67,1.65,1.85,1.23,None,1.72,None,2020-09-30,1248
+Championship,2020-10-03,1500,Rotherham,Huddersfield,2.4,3.0,3.05,2.05,1.5,1.75,1.72,1.33,None,1.5,None,2020-09-30,1248
+Championship,2020-10-03,1500,Nottingham Forest,Bristol City,2.4,3.2,2.86,2.02,1.53,1.78,1.7,1.36,None,1.5,None,2020-09-30,1248
+Championship,2020-10-03,1500,Reading,Watford,3.25,3.05,2.25,1.95,1.57,1.7,1.78,1.57,None,1.3,None,2020-09-30,1248
+Premier_League,2020-10-03,1500,Everton,Brighton,1.7,3.5,4.85,1.75,1.8,1.67,1.87,1.14,None,2.04,None,2020-09-30,1303
+Championship,2020-10-03,1500,Middlesbrough,Barnsley FC,2.17,3.25,3.2,1.95,1.57,1.72,1.75,1.30,None,1.61,None,2020-09-30,1248
+Championship,2020-10-03,1500,Swansea City,Millwall FC,2.3,3.05,3.15,2.19,1.44,1.9,1.61,1.31,None,1.55,None,2020-09-30,1248
+La_Liga,2020-10-03,1500,Atletico de Madrid,Villarreal,1.57,3.85,5.45,1.91,1.65,1.95,1.63,1.11,None,2.25,None,2020-09-30,1255
+Championship,2020-10-03,1500,Luton Town,Wycombe,1.75,3.45,4.5,1.83,1.65,1.75,1.72,1.17,None,1.95,None,2020-09-30,1248
+Eredivisie,2020-10-03,1530,Vitesse,Heracles Almelo,1.65,4.0,4.5,1.47,2.11,1.5,2.05,1.17,None,2.12,None,2020-09-30,1241
+Ligue_1,2020-10-03,1600,RC Lens,Saint-Etienne,2.13,3.25,3.3,2.00,1.53,1.78,1.7,1.28,None,1.63,None,2020-09-30,1247
+Primeira_Liga,2020-10-03,1600,CD Santa Clara,Gil Vicente FC,2.02,3.25,3.6,2.25,1.42,1.95,1.57,1.25,None,1.7,None,2020-09-30,1257
+RFPL,2020-10-03,1700,Spartak Moscovo,Zenit Sao Petersburgo,3.35,3.2,2.13,1.75,1.7,1.57,1.9,1.63,None,1.28,None,2020-09-30,1253
+La_Liga,2020-10-03,1730,Real Sociedad,Getafe,2.25,2.92,3.4,2.25,1.45,1.9,1.65,1.27,None,1.57,None,2020-09-30,1255
+La_Liga,2020-10-03,1730,Elche CF,Huesca,2.92,3.15,2.37,2.16,1.5,1.88,1.67,1.50,None,1.35,None,2020-09-30,1255
+Premier_League,2020-10-03,1730,Leeds United,Manchester City,7.6,5.1,1.33,1.3,2.78,1.47,2.2,3.05,None,1.05,None,2020-09-30,1303
+Bundesliga,2020-10-03,1730,RB Leipzig,FC Schalke 04,1.24,6.05,9.0,1.33,2.62,1.7,1.85,1.03,None,3.65,None,2020-09-30,1244
+Eredivisie,2020-10-03,1745,RKC Waalwijk,PEC Zwolle,3.0,3.6,2.13,1.53,2.0,1.47,2.15,1.65,None,1.33,None,2020-09-30,1241
+Primeira_Liga,2020-10-03,1830,FC Porto,CS Maritimo,1.15,7.05,14.25,1.57,1.95,2.5,1.33,1.02,None,4.7,None,2020-09-30,1257
+Eredivisie,2020-10-03,1900,VVV Venlo,Den Haag,1.95,3.55,3.5,1.61,1.9,1.53,2.02,1.26,None,1.75,None,2020-09-30,1241
+Serie_A,2020-10-03,1945,Udinese,AS Roma,4.33,3.75,1.72,1.60,2.0,1.57,2.02,2.00,None,1.18,None,2020-09-30,1300
+La_Liga,2020-10-03,2000,Valencia,Betis,2.72,3.1,2.58,2.00,1.6,1.72,1.83,1.44,None,1.4,None,2020-09-30,1255
+Premier_League,2020-10-03,2000,Newcastle,Burnley,2.37,3.0,3.1,2.13,1.5,1.83,1.72,1.32,None,1.5,None,2020-09-30,1303
+Eredivisie,2020-10-03,2000,FC Twente Enschede,FC Emmen,1.9,3.6,3.65,1.57,1.95,1.5,2.05,1.24,None,1.8,None,2020-09-30,1241
+Ligue_1,2020-10-03,2000,Nice,Nantes,2.35,3.15,2.96,2.00,1.55,1.75,1.72,1.33,None,1.53,None,2020-09-30,1247
+Primeira_Liga,2020-10-03,2100,CD Tondela,SC Braga,4.9,3.7,1.65,1.78,1.7,1.75,1.72,2.11,None,1.14,None,2020-09-30,1257
+La_Liga,2020-10-04,1100,CA Osasuna,Celta de Vigo,2.62,2.96,2.78,2.05,1.55,1.78,1.75,1.38,None,1.44,None,2020-09-30,1255
+Eredivisie,2020-10-04,1115,FC Groningen,Ajax,6.25,4.75,1.4,1.38,2.35,1.53,2.0,2.70,None,1.08,None,2020-09-30,1241
+Serie_A,2020-10-04,1130,Atalanta,Cagliari,1.25,5.75,9.5,1.3,2.76,1.6,2.0,1.03,None,3.55,None,2020-09-30,1300
+Premier_League,2020-10-04,1200,Southampton,West Brom,1.72,3.7,4.35,1.72,1.83,1.67,1.88,1.18,None,2.0,None,2020-09-30,1303
+Premiership,2020-10-04,1200,FC St Johnstone,Celtic,9.5,5.5,1.26,1.57,1.95,2.05,1.5,3.50,None,1.03,None,2020-09-30,1252
+Premier_League,2020-10-04,1200,Leicester,West Ham,1.63,3.95,4.7,1.55,2.05,1.57,2.02,1.16,None,2.13,None,2020-09-30,1303
+Ligue_1,2020-10-04,1200,Montpellier,Nimes,1.67,3.65,4.85,1.75,1.72,1.7,1.78,1.14,None,2.05,None,2020-09-30,1247
+RFPL,2020-10-04,1200,Lokomotiv Moscovo,FK Khimki,1.5,4.0,6.0,1.75,1.7,1.83,1.63,1.09,None,2.4,None,2020-09-30,1253
+La_Liga,2020-10-04,1300,Alaves,Athletic Bilbao,3.4,2.86,2.3,2.45,1.38,2.05,1.55,1.55,None,1.27,None,2020-09-30,1255
+Eredivisie,2020-10-04,1330,Sparta Rotterdam,AZ Alkmaar,4.4,3.95,1.67,1.50,2.05,1.53,2.04,2.10,None,1.17,None,2020-09-30,1241
+Eredivisie,2020-10-04,1330,Willem II Tilburg,Feyenoord,3.75,3.85,1.8,1.47,2.13,1.45,2.17,1.90,None,1.23,None,2020-09-30,1241
+Ligue_1,2020-10-04,1400,FC Metz,FC Lorient,2.2,3.2,3.15,2.16,1.45,1.88,1.61,1.31,None,1.57,None,2020-09-30,1247
+Premier_League,2020-10-04,1400,Wolverhampton,Fulham,1.5,3.95,6.05,1.95,1.63,2.05,1.55,1.09,None,2.37,None,2020-09-30,1303
+Championship,2020-10-04,1400,Brentford FC,Preston,1.67,3.75,4.55,1.75,1.72,1.72,1.75,1.16,None,2.05,None,2020-09-30,1248
+Premier_League,2020-10-04,1400,Arsenal,Sheffield United,1.55,3.85,5.75,1.83,1.72,1.85,1.7,1.10,None,2.3,None,2020-09-30,1303
+Serie_A,2020-10-04,1400,Benevento Calcio,Bolonha,2.72,3.45,2.37,1.61,1.95,1.5,2.18,1.50,None,1.4,None,2020-09-30,1300
+Ligue_1,2020-10-04,1400,Bordeus,Dijon,1.67,3.7,4.75,1.87,1.63,1.83,1.65,1.15,None,2.05,None,2020-09-30,1247
+Serie_A,2020-10-04,1400,Parma,Hellas Verona,2.86,3.0,2.52,1.95,1.63,1.67,1.87,1.45,None,1.36,None,2020-09-30,1300
+Ligue_1,2020-10-04,1400,Stade Brestois 29,Monaco,3.0,3.5,2.16,1.60,1.9,1.5,2.05,1.61,None,1.33,None,2020-09-30,1247
+Serie_A,2020-10-04,1400,Lazio,Inter de Milao,2.66,3.5,2.4,1.57,2.02,1.47,2.2,1.50,None,1.42,None,2020-09-30,1300
+Ligue_1,2020-10-04,1400,Estrasburgo,Lille,3.2,3.2,2.2,2.05,1.5,1.8,1.67,1.60,None,1.3,None,2020-09-30,1247
+RFPL,2020-10-04,1430,Rubin Kazan,FC Akhmat Grozny,2.05,3.1,3.7,1.91,1.57,1.7,1.75,1.23,None,1.7,None,2020-09-30,1253
+RFPL,2020-10-04,1430,PFC Sochi,Rostov,2.56,3.1,2.72,2.05,1.5,1.78,1.67,1.40,None,1.45,None,2020-09-30,1253
+Bundesliga,2020-10-04,1430,Wolfsburgo,Augsburgo,1.91,3.55,3.65,1.70,1.85,1.61,1.95,1.24,None,1.8,None,2020-09-30,1244
+Championship,2020-10-04,1500,Stoke City,Birmingham,2.16,3.1,3.4,2.11,1.47,1.83,1.65,1.27,None,1.61,None,2020-09-30,1248
+La_Liga,2020-10-04,1500,Levante,Real Madrid,5.75,4.3,1.47,1.45,2.25,1.55,2.05,2.45,None,1.1,None,2020-09-30,1255
+Premiership,2020-10-04,1500,Rangers,Ross County,1.1,8.0,21.0,1.42,2.25,2.45,1.35,-,None,5.8,None,2020-09-30,1252
+Primeira_Liga,2020-10-04,1530,CD Nacional Madeira,Belenenses SAD,2.25,3.05,3.25,2.13,1.47,1.85,1.65,1.30,None,1.57,None,2020-09-30,1257
+Eredivisie,2020-10-04,1545,PSV Eindhoven,Fortuna Sittard,1.18,6.55,12.5,1.32,2.56,1.78,1.7,1.02,None,4.3,None,2020-09-30,1241
+Ligue_1,2020-10-04,1600,Rennes,Stade Reims,1.67,3.55,5.0,2.00,1.53,1.95,1.57,1.13,None,2.05,None,2020-09-30,1247
+Premier_League,2020-10-04,1630,Manchester United,Tottenham,1.88,3.45,3.85,1.72,1.83,1.63,1.95,1.22,None,1.83,None,2020-09-30,1303
+Bundesliga,2020-10-04,1700,Bayern Munique,Hertha Berlin,1.14,7.7,14.25,1.2,3.35,1.67,1.88,1.02,None,5.0,None,2020-09-30,1244
+Serie_A,2020-10-04,1700,AC Milao,Spezia,1.22,5.8,11.5,1.45,2.25,1.91,1.65,1.02,None,3.85,None,2020-09-30,1300
+La_Liga,2020-10-04,1730,Cadiz CF,Granada CF,2.86,2.86,2.62,2.4,1.4,2.0,1.6,1.44,None,1.36,None,2020-09-30,1255
+RFPL,2020-10-04,1800,Dinamo Moscovo,Krasnodar,2.76,3.25,2.45,1.91,1.57,1.7,1.75,1.47,None,1.38,None,2020-09-30,1253
+Primeira_Liga,2020-10-04,1830,SL Benfica,SC Farense,1.1,8.5,18.0,1.35,2.45,2.17,1.45,-,None,5.75,None,2020-09-30,1257
+Primeira_Liga,2020-10-04,1830,Famalicao,Rio Ave FC,2.82,3.15,2.45,1.83,1.65,1.63,1.87,1.47,None,1.38,None,2020-09-30,1257
+Premier_League,2020-10-04,1915,Aston Villa,Liverpool,8.0,5.15,1.31,1.47,2.2,1.75,1.8,3.15,None,1.04,None,2020-09-30,1303
+Serie_A,2020-10-04,1945,Juventus,Napoles,1.83,3.55,3.95,1.80,1.75,1.72,1.83,1.20,None,1.88,None,2020-09-30,1300
+La_Liga,2020-10-04,2000,Barcelona,Sevilha,1.55,4.1,5.3,1.47,2.2,1.53,2.12,1.12,None,2.3,None,2020-09-30,1255
+Ligue_1,2020-10-04,2000,Lyon,Marselha,1.78,3.6,4.2,1.80,1.67,1.72,1.75,1.19,None,1.91,None,2020-09-30,1247
+Primeira_Liga,2020-10-04,2100,Portimonense,Sporting CP,3.85,3.45,1.88,1.75,1.72,1.65,1.85,1.80,None,1.22,None,2020-09-30,1257
+Championship,2020-10-16,1945,Derby County,Watford,3.15,3.25,2.2,None,None,None,None,None,None,None,None,2020-09-30,1248
+Serie_A,2020-10-17,1400,Napoles,Atalanta,2.37,3.65,2.6,1.45,2.25,1.4,2.4,1.44,None,1.5,None,2020-09-30,1300
+Bundesliga,2020-10-17,1430,Friburgo,Werder Bremen,2.25,3.3,3.0,1.80,1.75,1.63,1.95,1.33,None,1.57,None,2020-09-30,1244
+Bundesliga,2020-10-17,1430,Augsburgo,RB Leipzig,4.8,4.25,1.57,1.4,2.4,1.45,2.25,2.25,None,1.15,None,2020-09-30,1244
+Bundesliga,2020-10-17,1430,Mainz 05,Bayer Leverkusen,4.55,3.9,1.65,1.38,2.45,1.4,2.4,2.10,None,1.16,None,2020-09-30,1244
+Bundesliga,2020-10-17,1430,Hertha Berlin,Estugarda,2.05,3.4,3.35,1.50,2.16,1.42,2.35,1.28,None,1.67,None,2020-09-30,1244
+Bundesliga,2020-10-17,1430,Hoffenheim,Borussia Dortmund,3.7,3.8,1.83,1.36,2.54,1.35,2.58,1.88,None,1.23,None,2020-09-30,1244
+Championship,2020-10-17,1500,Blackburn Rovers,Nottingham Forest,2.25,3.35,2.96,None,None,None,None,None,None,None,None,2020-09-30,1248
+Championship,2020-10-17,1500,Brentford FC,Coventry City,1.6,3.8,5.25,None,None,None,None,None,None,None,None,2020-09-30,1248
+Championship,2020-10-17,1500,Middlesbrough,Reading,2.05,3.3,3.45,None,None,None,None,None,None,None,None,2020-09-30,1248
+Championship,2020-10-17,1500,Luton Town,Stoke City,2.96,3.25,2.3,None,None,None,None,None,None,None,None,2020-09-30,1248
+Championship,2020-10-17,1500,Wycombe,Millwall FC,4.7,3.4,1.75,None,None,None,None,None,None,None,None,2020-09-30,1248
+Championship,2020-10-17,1500,Bournemouth,Queens Park Rangers,1.83,3.5,4.05,None,None,None,None,None,None,None,None,2020-09-30,1248
+Championship,2020-10-17,1500,Barnsley FC,Bristol City,2.4,3.25,2.82,None,None,None,None,None,None,None,None,2020-09-30,1248
+Championship,2020-10-17,1500,Birmingham,Sheffield Wednesday,2.45,3.3,2.72,None,None,None,None,None,None,None,None,2020-09-30,1248
+Championship,2020-10-17,1500,Swansea City,Huddersfield,2.11,3.25,3.35,None,None,None,None,None,None,None,None,2020-09-30,1248
+Championship,2020-10-17,1500,Rotherham,Norwich City,3.7,3.35,1.95,None,None,None,None,None,None,None,None,2020-09-30,1248
+Premier_League,2020-10-17,1600,Chelsea,Southampton,1.5,4.1,5.85,1.42,2.33,1.5,2.17,1.10,None,2.37,None,2020-09-30,1303
+Premier_League,2020-10-17,1600,Everton,Liverpool,4.9,3.7,1.65,1.57,2.02,1.57,2.02,2.10,None,1.14,None,2020-09-30,1303
+Premier_League,2020-10-17,1600,Leicester,Aston Villa,1.55,3.9,5.6,1.55,2.05,1.6,2.0,1.11,None,2.3,None,2020-09-30,1303
+Premier_League,2020-10-17,1600,Leeds United,Wolverhampton,2.74,3.25,2.45,2.00,1.6,1.75,1.8,1.47,None,1.4,None,2020-09-30,1303
+Premier_League,2020-10-17,1600,Crystal Palace FC,Brighton,2.4,3.2,2.82,2.05,1.55,1.8,1.75,1.38,None,1.5,None,2020-09-30,1303
+Premier_League,2020-10-17,1600,Manchester City,Arsenal,1.38,4.55,7.25,1.36,2.52,1.53,2.12,1.06,None,2.8,None,2020-09-30,1303
+Premier_League,2020-10-17,1600,West Brom,Burnley,2.56,3.15,2.68,2.02,1.57,1.75,1.8,1.42,None,1.45,None,2020-09-30,1303
+Premier_League,2020-10-17,1600,Sheffield United,Fulham,1.87,3.35,4.05,2.02,1.57,1.85,1.7,1.20,None,1.83,None,2020-09-30,1303
+Premier_League,2020-10-17,1600,Newcastle,Manchester United,5.85,3.9,1.53,1.65,1.91,1.7,1.85,2.35,None,1.1,None,2020-09-30,1303
+Serie_A,2020-10-17,1700,Inter de Milao,AC Milao,1.83,3.65,3.85,1.65,1.91,1.6,2.0,1.22,None,1.88,None,2020-09-30,1300
+Serie_A,2020-10-17,1700,Sampdoria,Lazio,4.45,3.75,1.7,1.63,1.95,1.6,2.0,2.04,None,1.17,None,2020-09-30,1300
+Bundesliga,2020-10-17,1730,Arminia Bielefeld,Bayern Munique,11.0,6.35,1.2,1.26,2.96,1.63,1.95,4.05,None,1.02,None,2020-09-30,1244
+Eredivisie,2020-10-17,1745,Ajax,SC Heerenveen,1.1,8.5,19.0,None,None,None,None,None,None,None,None,2020-09-30,1241
+Eredivisie,2020-10-17,1900,Heracles Almelo,RKC Waalwijk,1.42,4.35,6.75,None,None,None,None,None,None,None,None,2020-09-30,1241
+Eredivisie,2020-10-17,1900,Willem II Tilburg,FC Twente Enschede,1.91,3.6,3.6,None,None,None,None,None,None,None,None,2020-09-30,1241
+Bundesliga,2020-10-17,1930,Borussia Monchengladbach,Wolfsburgo,2.12,3.4,3.2,1.57,2.02,1.47,2.2,1.30,None,1.63,None,2020-09-30,1244
+Serie_A,2020-10-17,1945,FC Crotone,Juventus,9.0,5.4,1.28,1.50,2.16,1.88,1.67,3.35,None,1.04,None,2020-09-30,1300
+Eredivisie,2020-10-17,2000,AZ Alkmaar,VVV Venlo,1.23,5.9,10.0,None,None,None,None,None,None,None,None,2020-09-30,1241
+Eredivisie,2020-10-18,1115,Feyenoord,Sparta Rotterdam,1.23,5.9,10.0,None,None,None,None,None,None,None,None,2020-09-30,1241
+Serie_A,2020-10-18,1130,Bolonha,Sassuolo,2.67,3.35,2.45,1.50,2.13,1.42,2.37,1.47,None,1.42,None,2020-09-30,1300
+Championship,2020-10-18,1200,Preston,Cardiff,2.3,3.25,2.96,None,None,None,None,None,None,None,None,2020-09-30,1248
+Eredivisie,2020-10-18,1330,Den Haag,Vitesse,3.6,3.6,1.91,None,None,None,None,None,None,None,None,2020-09-30,1241
+Eredivisie,2020-10-18,1330,FC Emmen,Fortuna Sittard,2.05,3.5,3.25,None,None,None,None,None,None,None,None,2020-09-30,1241
+Serie_A,2020-10-18,1400,Torino,Cagliari,2.4,3.15,2.86,1.75,1.8,1.57,2.02,1.36,None,1.5,None,2020-09-30,1300
+Bundesliga,2020-10-18,1430,Colonia,Eintracht Frankfurt,2.54,3.35,2.58,1.45,2.25,1.36,2.54,1.44,None,1.45,None,2020-09-30,1244
+Eredivisie,2020-10-18,1545,FC Groningen,FC Utrecht,3.05,3.35,2.2,None,None,None,None,None,None,None,None,2020-09-30,1241
+Eredivisie,2020-10-18,1545,PEC Zwolle,PSV Eindhoven,6.75,4.35,1.42,None,None,None,None,None,None,None,None,2020-09-30,1241
+Bundesliga,2020-10-18,1700,FC Schalke 04,1. FC Union Berlin,2.35,3.3,2.86,1.88,1.67,1.7,1.85,1.36,None,1.53,None,2020-09-30,1244
+Serie_A,2020-10-18,1700,Udinese,Parma,2.35,3.25,2.9,1.78,1.75,1.6,2.0,1.36,None,1.53,None,2020-09-30,1300
+Serie_A,2020-10-18,1945,AS Roma,Benevento Calcio,1.27,5.0,11.0,1.55,2.05,1.95,1.61,1.02,None,3.45,None,2020-09-30,1300
+Primeira_Liga,2020-10-20,2000,SC Farense,Famalicao,3.55,3.45,1.95,1.75,1.72,1.65,1.85,1.75,None,1.25,None,2020-09-30,1257
+Primeira_Liga,2020-10-20,2000,Boavista FC,Vitoria Guimaraes,3.2,3.2,2.2,2.05,1.5,1.8,1.67,1.57,None,1.31,None,2020-09-30,1257
+Primeira_Liga,2020-10-20,2000,Sporting CP,FC Porto,3.05,3.3,2.25,1.83,1.65,1.65,1.83,1.57,None,1.33,None,2020-09-30,1257
+Primeira_Liga,2020-10-20,2000,Gil Vicente FC,CD Tondela,2.25,3.25,3.05,2.13,1.47,1.87,1.63,1.33,None,1.55,None,2020-09-30,1257
+Primeira_Liga,2020-10-20,2000,CS Maritimo,Portimonense,2.3,3.15,3.05,2.05,1.5,1.8,1.67,1.33,None,1.55,None,2020-09-30,1257
+Primeira_Liga,2020-10-20,2000,SC Braga,CD Nacional Madeira,1.35,4.75,7.75,1.55,2.0,1.8,1.67,1.05,None,2.94,None,2020-09-30,1257
+Primeira_Liga,2020-10-20,2000,FC Pacos Ferreira,CD Santa Clara,2.54,3.3,2.6,2.05,1.5,1.8,1.67,1.44,None,1.45,None,2020-09-30,1257
+Primeira_Liga,2020-10-20,2000,Belenenses SAD,Moreirense FC,2.35,3.2,2.92,2.05,1.5,1.83,1.65,1.36,None,1.53,None,2020-09-30,1257
+Primeira_Liga,2020-10-20,2000,Rio Ave FC,SL Benfica,5.75,4.55,1.45,1.38,2.33,1.5,2.05,2.52,None,1.1,None,2020-09-30,1257
+La_Liga,2020-10-25,2000,Barcelona,Real Madrid,2.35,3.6,2.65,1.47,2.2,1.42,2.37,1.42,None,1.53,None,2020-09-30,1255

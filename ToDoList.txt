@@ -1,0 +1,38 @@
+TO DO LIST
+
+1. juntar as odds aos ficheiros de excel
+2. criar função para ir ver as odds -> parece ser impossível, parece que vamos ter de ir buscar info aos ficheiros antigos
+
+-----------------------------------------------------------------------------------
+3. Criar uma opção no Ada_Boost para fazer random das perguntas, como no random_forest
+Assim, demorava menos tempo e , se calhar, não havia overfitting dos dados
+
+4. Ver se o Ada_Boost, juntando apenas épocas da mesma liga, resulta melhor 
+(tipos de ligas são diferentes, umas são mais atacantes e outras não)
+
+_____________________________________________________________________________________
+TO SEE
+
+1. a função de sklearn para colocar os dados tds na mesma ordem
+2. No vídeo do Raj sobre soccer predictions, ele falou sobre funções do pandas/sklearn que podem dar jeito
+3. No vídeo do Raj, ele também usou uma função para melhorar um método específico de ML
+4. XGBoost em Python (e RandomForests/Gradient Boost/AdaBoost) - ver qual deles se adapta melhor a um modelo
+
+______________________________________________________________________________________
+MODELOS(Por fazer)
+
+1. Modelo Won/NotWon (Geral e para cada liga)
+
+2. Modelo que prevê surpresas (L jogos abaixo de 1.6 e L/D jogos abixos 1.4
+
+3. Modelo Won/NotWon para odss superiores a 1.6
+
+4. Modelo BothScore
+
+5. Modelo +2.5
+
+6. Modelo DV
+
+7. Modelos Won/NotWon, mas com 3 hipótese (W/D/L)
+
+8. Modelo Draw/NotDraw

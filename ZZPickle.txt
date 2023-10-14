@@ -1,0 +1,5 @@
+Pickle Files 
+
+
+1.ALPHA.pickle - Tem Modelos ALPHA
+- Ada14_first (tem o primeiro modelo ALPHA que eu fiz (para a Odd 1.4))

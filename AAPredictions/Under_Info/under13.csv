@@ -1,0 +1,100 @@
+web-scraper-order,web-scraper-start-url,Games,Games-href,HomeTeam,AwayTeam,League,Date,HGoals,AGoals,HxG,AxG,HShots,AShots,HST,AST,HDEEP,ADEEP,HPPDA,APPDA,HxPTS,AxPTS
+1601767211-57,https://understat.com/league/EPL,311.960.44,https://understat.com/match/14472,Newcastle United,Burnley,EPL,Oct 03 2020,3,1,1.96,0.44,10,7,5,3,4,10,20.75,9.42,2.61,0.25
+1601767145-49,https://understat.com/league/EPL,113.190.94,https://understat.com/match/14111,Tottenham,Newcastle United,EPL,Sep 27 2020,1,1,3.19,0.94,23,6,12,1,6,4,9.68,35.7,2.75,0.16
+1601767411-80,https://understat.com/league/La_liga,010.550.26,https://understat.com/match/14164,Athletic Club,Cadiz,La liga,Oct 01 2020,0,1,0.55,0.26,13,3,4,1,5,4,4.4,11.57,1.55,0.94
+1601767228-59,https://understat.com/league/EPL,422.341.17,https://understat.com/match/14468,Everton,Brighton,EPL,Oct 03 2020,4,2,2.34,1.17,11,11,6,3,10,7,9.06,9.17,2.26,0.53
+1601767061-40,https://understat.com/league/Bundesliga,403.260.22,https://understat.com/match/15164,RasenBallsport Leipzig,Schalke 04,Bundesliga,Oct 03 2020,4,0,3.26,0.22,21,5,7,1,10,0,4.04,42.67,2.94,0.04
+1601767195-55,https://understat.com/league/EPL,130.732.08,https://understat.com/match/14105,Wolverhampton Wanderers,Manchester City,EPL,Sep 21 2020,1,3,0.73,2.08,10,14,1,9,3,9,30.71,7.6,0.42,2.41
+1601767578-99,https://understat.com/league/Ligue_1,612.910.94,https://understat.com/match/15806,Paris Saint Germain,Angers,Ligue 1,Oct 02 2020,6,1,2.91,0.94,18,8,12,2,15,2,10.39,33.22,2.59,0.29
+1601767186-54,https://understat.com/league/EPL,232.981.58,https://understat.com/match/14106,Brighton,Manchester United,EPL,Sep 26 2020,2,3,2.98,1.58,18,7,5,3,10,6,6.64,11.13,2.34,0.48
+1601766818-13,https://understat.com/league/RFPL,101.591.70,https://understat.com/match/14248,Khimki,Dinamo Moscow,RFPL,Sep 28 2020,1,0,1.59,1.7,12,26,4,9,8,12,12.17,7.28,1.31,1.42
+1601766727-2,https://understat.com/league/RFPL,011.382.01,https://understat.com/match/14246,CSKA Moscow,Lokomotiv Moscow,RFPL,Sep 27 2020,0,1,1.38,2.01,21,15,4,6,11,12,13.67,10.58,0.89,1.86
+1601767460-86,https://understat.com/league/La_liga,010.590.84,https://understat.com/match/14170,Real Sociedad,Valencia,La liga,Sep 29 2020,0,1,0.59,0.84,11,9,3,5,12,4,7.19,11.33,1.01,1.61
+1601766861-17,https://understat.com/league/Serie_A,101.352.15,https://understat.com/match/14129,Verona,Udinese,Serie A,Sep 27 2020,1,0,1.35,2.15,13,22,2,5,5,5,5.81,7.3,0.82,1.95
+1601766987-31,https://understat.com/league/Bundesliga,110.920.41,https://understat.com/match/14190,Freiburg,Wolfsburg,Bundesliga,Sep 27 2020,1,1,0.92,0.41,19,8,7,2,2,6,7.83,11.17,1.79,0.83
+1601767153-50,https://understat.com/league/EPL,011.531.47,https://understat.com/match/14110,Sheffield United,Leeds,EPL,Sep 27 2020,0,1,1.53,1.47,15,17,5,9,11,2,11.55,8.94,1.45,1.28
+1601767569-98,https://understat.com/league/Ligue_1,202.130.09,https://understat.com/match/15807,Lens,Saint-Etienne,Ligue 1,Oct 03 2020,2,0,2.13,0.09,13,2,5,1,8,0,3.1,22.0,2.86,0.08
+1601766936-26,https://understat.com/league/Serie_A,122.032.18,https://understat.com/match/15446,Fiorentina,Sampdoria,Serie A,Oct 02 2020,1,2,2.03,2.18,22,18,5,8,5,6,8.21,12.48,1.28,1.48
+1601767111-46,https://understat.com/league/Bundesliga,402.070.19,https://understat.com/match/15158,Union Berlin,Mainz 05,Bundesliga,Oct 02 2020,4,0,2.07,0.19,11,5,7,0,1,2,11.08,13.35,2.72,0.17
+1601766961-29,https://understat.com/league/Serie_A,251.254.53,https://understat.com/match/14133,Benevento,Inter,Serie A,Sep 30 2020,2,5,1.25,4.53,11,18,6,8,2,12,21.35,7.32,0.06,2.9
+1601767495-89,https://understat.com/league/Ligue_1,110.371.37,https://understat.com/match/14221,Nimes,Lens,Ligue 1,Sep 27 2020,1,1,0.37,1.37,13,15,4,6,5,6,12.5,10.59,0.52,2.22
+1601767094-44,https://understat.com/league/Bundesliga,100.351.02,https://understat.com/match/15160,Werder Bremen,Arminia Bielefeld,Bundesliga,Oct 03 2020,1,0,0.35,1.02,7,10,2,5,5,7,20.58,7.7,0.65,2.03
+1601767544-95,https://understat.com/league/Ligue_1,030.201.37,https://understat.com/match/14215,Saint-Etienne,Rennes,Ligue 1,Sep 26 2020,0,3,0.2,1.37,6,10,4,6,4,4,18.39,11.48,0.36,2.4
+1601767244-61,https://understat.com/league/EPL,312.741.18,https://understat.com/match/14115,Liverpool,Arsenal,EPL,Sep 28 2020,3,1,2.74,1.18,21,4,8,3,11,3,8.83,35.86,2.43,0.4
+1601766853-16,https://understat.com/league/Serie_A,602.340.27,https://understat.com/match/14128,Napoli,Genoa,Serie A,Sep 27 2020,6,0,2.34,0.27,18,6,9,0,6,2,12.84,37.92,2.74,0.16
+1601767378-76,https://understat.com/league/La_liga,000.610.20,https://understat.com/match/14816,Atletico Madrid,Villarreal,La liga,Oct 03 2020,0,0,0.61,0.2,13,6,0,2,8,7,10.77,15.14,1.71,0.8
+1601767452-85,https://understat.com/league/La_liga,300.910.44,https://understat.com/match/14167,Getafe,Real Betis,La liga,Sep 29 2020,3,0,0.91,0.44,8,10,4,2,1,3,13.84,3.58,1.81,0.83
+1601767553-96,https://understat.com/league/Ligue_1,202.090.66,https://understat.com/match/14214,Lille,Nantes,Ligue 1,Sep 25 2020,2,0,2.09,0.66,12,12,4,7,9,2,8.0,10.1,2.49,0.35
+1601767427-82,https://understat.com/league/La_liga,011.060.38,https://understat.com/match/14166,Eibar,Elche,La liga,Sep 30 2020,0,1,1.06,0.38,12,5,4,2,6,4,4.0,12.8,2.13,0.57
+1601767353-73,https://understat.com/league/La_liga,020.481.88,https://understat.com/match/14822,Valencia,Real Betis,La liga,Oct 03 2020,0,2,0.48,1.88,5,17,2,8,3,7,9.85,8.1,0.35,2.47
+1601767303-67,https://understat.com/league/La_liga,120.330.51,https://understat.com/match/14158,Eibar,Athletic Club,La liga,Sep 27 2020,1,2,0.33,0.51,7,9,1,5,0,5,5.89,7.39,1.05,1.44
+1601767203-56,https://understat.com/league/EPL,100.810.85,https://understat.com/match/14104,Aston Villa,Sheffield United,EPL,Sep 21 2020,1,0,0.81,0.85,18,4,2,1,17,2,4.45,17.64,1.16,1.46
+1601767295-66,https://understat.com/league/La_liga,613.601.31,https://understat.com/match/14155,Atletico Madrid,Granada,La liga,Sep 27 2020,6,1,3.6,1.31,17,11,10,6,14,4,6.93,9.9,2.7,0.2
+1601767045-38,https://understat.com/league/Bundesliga,141.042.97,https://understat.com/match/14183,Mainz 05,VfB Stuttgart,Bundesliga,Sep 26 2020,1,4,1.04,2.97,12,15,2,7,3,8,11.26,9.88,0.26,2.62
+1601767503-90,https://understat.com/league/Ligue_1,321.561.41,https://understat.com/match/14220,Monaco,Strasbourg,Ligue 1,Sep 27 2020,3,2,1.56,1.41,11,11,5,5,6,3,9.09,16.1,1.46,1.25
+1601766752-5,https://understat.com/league/RFPL,111.031.39,https://understat.com/match/14243,PFC Sochi,FC Krasnodar,RFPL,Sep 26 2020,1,1,1.03,1.39,7,26,2,9,1,17,16.73,4.64,1.1,1.59
+1601766944-27,https://understat.com/league/Serie_A,141.801.90,https://understat.com/match/14135,Lazio,Atalanta,Serie A,Sep 30 2020,1,4,1.8,1.9,14,10,6,6,9,6,8.07,16.91,1.31,1.44
+1601766969-30,https://understat.com/league/Serie_A,412.051.24,https://understat.com/match/14132,Bologna,Parma Calcio 1913,Serie A,Sep 28 2020,4,1,2.05,1.24,12,9,8,3,7,3,7.36,10.57,1.96,0.81
+1601766810-12,https://understat.com/league/RFPL,000.920.23,https://understat.com/match/14297,FC Ufa,FC Rotor Volgograd,RFPL,Oct 03 2020,0,0,0.92,0.23,13,6,4,0,2,4,8.64,16.77,1.98,0.64
+1601767137-48,https://understat.com/league/EPL,251.452.87,https://understat.com/match/14112,Manchester City,Leicester,EPL,Sep 27 2020,2,5,1.45,2.87,16,7,5,7,5,3,5.33,25.08,0.42,2.43
+1601767037-37,https://understat.com/league/Bundesliga,201.451.53,https://understat.com/match/14184,Augsburg,Borussia Dortmund,Bundesliga,Sep 26 2020,2,0,1.45,1.53,6,18,4,6,2,13,27.94,5.05,1.32,1.4
+1601767170-52,https://understat.com/league/EPL,330.912.36,https://understat.com/match/14108,West Bromwich Albion,Chelsea,EPL,Sep 26 2020,3,3,0.91,2.36,9,22,3,10,3,12,40.82,4.52,0.41,2.42
+1601767419-81,https://understat.com/league/La_liga,102.650.54,https://understat.com/match/14169,Real Madrid,Real Valladolid,La liga,Sep 30 2020,1,0,2.65,0.54,15,11,5,5,9,2,11.21,17.74,2.76,0.16
+1601766777-8,https://understat.com/league/RFPL,101.140.85,https://understat.com/match/14240,Dinamo Moscow,FK Akhmat,RFPL,Sep 21 2020,1,0,1.14,0.85,22,10,3,4,10,5,5.48,11.5,1.57,1.12
+1601767004-33,https://understat.com/league/Bundesliga,131.683.10,https://understat.com/match/14188,Schalke 04,Werder Bremen,Bundesliga,Sep 26 2020,1,3,1.68,3.1,17,17,4,7,3,4,3.95,9.47,0.49,2.34
+1601767478-87,https://understat.com/league/Ligue_1,020.213.94,https://understat.com/match/14223,Reims,Paris Saint Germain,Ligue 1,Sep 27 2020,0,2,0.21,3.94,8,21,3,7,6,26,26.77,11.2,0.03,2.96
+1601767236-60,https://understat.com/league/EPL,402.510.10,https://understat.com/match/14467,Chelsea,Crystal Palace,EPL,Oct 03 2020,4,0,2.51,0.1,17,4,6,0,5,2,4.45,25.88,2.93,0.04
+1601767129-47,https://understat.com/league/EPL,403.060.39,https://understat.com/match/14113,West Ham,Wolverhampton Wanderers,EPL,Sep 27 2020,4,0,3.06,0.39,15,11,7,2,1,4,21.76,8.19,2.87,0.08
+1601767028-36,https://understat.com/league/Bundesliga,100.161.37,https://understat.com/match/14185,Arminia Bielefeld,FC Cologne,Bundesliga,Sep 26 2020,1,0,0.16,1.37,7,12,2,2,1,10,10.96,13.1,0.26,2.56
+1601767078-42,https://understat.com/league/Bundesliga,402.830.45,https://understat.com/match/15162,Borussia Dortmund,Freiburg,Bundesliga,Oct 03 2020,4,0,2.83,0.45,16,6,7,2,15,0,8.26,23.86,2.85,0.09
+1601767528-93,https://understat.com/league/Ligue_1,001.180.65,https://understat.com/match/14217,Bordeaux,Nice,Ligue 1,Sep 27 2020,0,0,1.18,0.65,18,13,5,2,5,9,17.71,10.26,1.82,0.87
+1601767053-39,https://understat.com/league/Bundesliga,131.561.62,https://understat.com/match/14182,Hertha Berlin,Eintracht Frankfurt,Bundesliga,Sep 25 2020,1,3,1.56,1.62,12,11,6,3,3,6,13.44,15.8,1.31,1.39
+1601766785-9,https://understat.com/league/RFPL,111.721.85,https://understat.com/match/14300,Spartak Moscow,Zenit St. Petersburg,RFPL,Oct 03 2020,1,1,1.72,1.85,13,22,4,11,3,10,9.05,12.79,1.28,1.4
+1601767336-71,https://understat.com/league/La_liga,110.311.11,https://understat.com/match/14161,Valencia,SD Huesca,La liga,Sep 26 2020,1,1,0.31,1.11,5,17,2,4,3,3,11.63,4.83,0.6,2.07
+1601767435-83,https://understat.com/league/La_liga,312.660.62,https://understat.com/match/14172,Villarreal,Alaves,La liga,Sep 30 2020,3,1,2.66,0.62,10,8,6,3,6,3,7.47,10.88,2.79,0.13
+1601767270-63,https://understat.com/league/La_liga,131.102.21,https://understat.com/match/14159,Cadiz,Sevilla,La liga,Sep 27 2020,1,3,1.1,2.21,12,14,5,5,3,13,31.31,3.43,0.64,2.15
+1601767394-78,https://understat.com/league/La_liga,030.570.93,https://understat.com/match/14165,Celta Vigo,Barcelona,La liga,Oct 01 2020,0,3,0.57,0.93,10,7,3,4,5,7,7.65,11.28,0.92,1.72
+1601767328-70,https://understat.com/league/La_liga,031.243.37,https://understat.com/match/14163,Elche,Real Sociedad,La liga,Sep 26 2020,0,3,1.24,3.37,5,27,2,7,2,13,23.64,7.62,0.23,2.66
+1601766836-14,https://understat.com/league/Serie_A,222.821.91,https://understat.com/match/14131,Roma,Juventus,Serie A,Sep 27 2020,2,2,2.82,1.91,11,8,5,3,6,3,13.38,9.24,2.05,0.73
+1601767086-43,https://understat.com/league/Bundesliga,110.801.70,https://understat.com/match/15161,VfB Stuttgart,Bayer Leverkusen,Bundesliga,Oct 03 2020,1,1,0.8,1.7,12,15,3,6,5,4,12.43,7.9,0.66,2.1
+1601767561-97,https://understat.com/league/Ligue_1,211.971.14,https://understat.com/match/15808,Nice,Nantes,Ligue 1,Oct 03 2020,2,1,1.97,1.14,18,11,7,1,11,3,3.6,32.71,2.0,0.74
+1601767536-94,https://understat.com/league/Ligue_1,110.861.11,https://understat.com/match/14216,Marseille,Metz,Ligue 1,Sep 26 2020,1,1,0.86,1.11,17,14,3,3,7,0,5.32,18.95,1.13,1.56
+1601766845-15,https://understat.com/league/Serie_A,020.112.43,https://understat.com/match/14130,Crotone,AC Milan,Serie A,Sep 27 2020,0,2,0.11,2.43,5,16,0,6,5,6,9.38,9.73,0.05,2.91
+1601766903-22,https://understat.com/league/Serie_A,240.772.47,https://understat.com/match/14123,Torino,Atalanta,Serie A,Sep 26 2020,2,4,0.77,2.47,7,19,4,7,3,14,11.72,10.8,0.35,2.49
+1601767279-64,https://understat.com/league/La_liga,403.510.24,https://understat.com/match/14156,Barcelona,Villarreal,La liga,Sep 27 2020,4,0,3.51,0.24,17,5,9,1,17,6,14.95,19.15,2.95,0.03
+1601766953-28,https://understat.com/league/Serie_A,021.870.81,https://understat.com/match/14134,Udinese,Spezia,Serie A,Sep 30 2020,0,2,1.87,0.81,13,4,3,2,11,0,14.13,12.94,2.21,0.56
+1601767020-35,https://understat.com/league/Bundesliga,111.480.77,https://understat.com/match/14186,Borussia M.Gladbach,Union Berlin,Bundesliga,Sep 26 2020,1,1,1.48,0.77,14,14,6,2,1,3,11.05,14.18,1.96,0.78
+1601766878-19,https://understat.com/league/Serie_A,431.702.25,https://understat.com/match/14126,Inter,Fiorentina,Serie A,Sep 26 2020,4,3,1.7,2.25,20,10,7,4,17,9,5.22,24.21,0.99,1.79
+1601767444-84,https://understat.com/league/La_liga,000.631.79,https://understat.com/match/14168,SD Huesca,Atletico Madrid,La liga,Sep 30 2020,0,0,0.63,1.79,9,16,3,2,3,11,15.43,8.91,0.49,2.31
+1601767252-62,https://understat.com/league/EPL,030.532.03,https://understat.com/match/14114,Fulham,Aston Villa,EPL,Sep 28 2020,0,3,0.53,2.03,16,12,3,5,5,10,5.96,9.3,0.37,2.46
+1601767486-88,https://understat.com/league/Ligue_1,110.300.82,https://understat.com/match/14222,Lorient,Lyon,Ligue 1,Sep 27 2020,1,1,0.3,0.82,4,19,2,6,4,11,17.95,12.33,0.78,1.82
+1601767345-72,https://understat.com/league/La_liga,000.871.31,https://understat.com/match/14154,Alaves,Getafe,La liga,Sep 26 2020,0,0,0.87,1.31,9,11,0,4,3,2,6.43,8.69,0.97,1.74
+1601767312-68,https://understat.com/league/La_liga,130.722.99,https://understat.com/match/14160,Osasuna,Levante,La liga,Sep 27 2020,1,3,0.72,2.99,8,11,4,5,1,8,9.87,6.0,0.13,2.79
+1601766911-23,https://understat.com/league/Serie_A,202.940.83,https://understat.com/match/14122,AC Milan,Bologna,Serie A,Sep 21 2020,2,0,2.94,0.83,17,13,5,4,6,3,9.26,13.5,2.67,0.23
+1601767361-74,https://understat.com/league/La_liga,000.191.70,https://understat.com/match/14824,Elche,SD Huesca,La liga,Oct 03 2020,0,0,0.19,1.7,2,18,0,4,0,12,10.39,7.72,0.24,2.6
+1601767511-91,https://understat.com/league/Ligue_1,321.122.36,https://understat.com/match/14219,Angers,Brest,Ligue 1,Sep 27 2020,3,2,1.12,2.36,12,14,5,6,3,7,8.5,7.75,0.54,2.27
+1601766744-4,https://understat.com/league/RFPL,230.791.78,https://understat.com/match/14244,Arsenal Tula,FC Rostov,RFPL,Sep 27 2020,2,3,0.79,1.78,15,8,4,5,4,1,4.0,10.93,0.56,2.22
+1601766718-1,https://understat.com/league/RFPL,130.763.13,https://understat.com/match/14247,FC Rotor Volgograd,Rubin Kazan,RFPL,Sep 27 2020,1,3,0.76,3.13,7,27,2,7,4,15,22.92,4.89,0.16,2.75
+1601766802-11,https://understat.com/league/RFPL,112.190.35,https://understat.com/match/14298,FC Tambov,Arsenal Tula,RFPL,Oct 03 2020,1,1,2.19,0.35,16,11,6,5,8,3,7.16,10.73,2.71,0.19
+1601767386-77,https://understat.com/league/La_liga,121.091.69,https://understat.com/match/14823,Real Valladolid,Eibar,La liga,Oct 03 2020,1,2,1.09,1.69,9,11,3,5,3,2,8.0,7.68,0.79,1.9
+1601766928-25,https://understat.com/league/Serie_A,411.861.59,https://understat.com/match/15447,Sassuolo,Crotone,Serie A,Oct 03 2020,4,1,1.86,1.59,7,15,4,6,4,13,8.35,9.74,1.6,1.11
+1601766735-3,https://understat.com/league/RFPL,202.690.19,https://understat.com/match/14245,FK Akhmat,Ural,RFPL,Sep 27 2020,2,0,2.69,0.19,19,4,6,2,8,2,5.43,12.82,2.92,0.05
+1601767320-69,https://understat.com/league/La_liga,231.413.86,https://understat.com/match/14157,Real Betis,Real Madrid,La liga,Sep 26 2020,2,3,1.41,3.86,15,11,5,4,5,7,15.68,10.25,0.19,2.73
+1601767070-41,https://understat.com/league/Bundesliga,213.570.77,https://understat.com/match/15163,Eintracht Frankfurt,Hoffenheim,Bundesliga,Oct 03 2020,2,1,3.57,0.77,16,12,8,4,10,6,12.27,17.6,2.88,0.08
+1601767162-51,https://understat.com/league/EPL,010.350.71,https://understat.com/match/14109,Burnley,Southampton,EPL,Sep 26 2020,0,1,0.35,0.71,9,5,2,1,9,6,8.21,13.75,0.87,1.71
+1601767103-45,https://understat.com/league/Bundesliga,130.242.06,https://understat.com/match/15159,FC Cologne,Borussia M.Gladbach,Bundesliga,Oct 03 2020,1,3,0.24,2.06,8,15,2,11,2,12,12.94,7.06,0.16,2.73
+1601766995-32,https://understat.com/league/Bundesliga,412.521.17,https://understat.com/match/14189,Hoffenheim,Bayern Munich,Bundesliga,Sep 27 2020,4,1,2.52,1.17,17,16,8,4,6,11,13.12,5.82,2.31,0.52
+1601767287-65,https://understat.com/league/La_liga,111.521.08,https://understat.com/match/14162,Real Valladolid,Celta Vigo,La liga,Sep 27 2020,1,1,1.52,1.08,10,5,4,1,3,3,4.08,6.58,1.73,0.96
+1601767178-53,https://understat.com/league/EPL,120.442.27,https://understat.com/match/14107,Crystal Palace,Everton,EPL,Sep 26 2020,1,2,0.44,2.27,8,10,1,5,4,3,12.03,7.3,0.19,2.7
+1601766920-24,https://understat.com/league/Serie_A,011.670.76,https://understat.com/match/15449,Udinese,Roma,Serie A,Oct 03 2020,0,1,1.67,0.76,10,13,4,3,2,4,16.11,8.1,2.11,0.65
+1601767219-58,https://understat.com/league/EPL,112.571.42,https://understat.com/match/14469,Leeds,Manchester City,EPL,Oct 03 2020,1,1,2.57,1.42,12,23,7,2,5,10,7.83,11.38,2.16,0.66
+1601766895-21,https://understat.com/league/Serie_A,020.921.99,https://understat.com/match/14124,Cagliari,Lazio,Serie A,Sep 26 2020,0,2,0.92,1.99,9,16,2,6,0,8,11.15,13.85,0.53,2.25
+1601766794-10,https://understat.com/league/RFPL,020.310.97,https://understat.com/match/14299,Ural,CSKA Moscow,RFPL,Oct 03 2020,0,2,0.31,0.97,8,12,1,3,6,12,9.35,28.22,0.68,1.96
+1601766870-18,https://understat.com/league/Serie_A,141.292.65,https://understat.com/match/14127,Spezia,Sassuolo,Serie A,Sep 27 2020,1,4,1.29,2.65,12,17,5,6,6,16,27.94,7.26,0.53,2.28
+1601766768-7,https://understat.com/league/RFPL,020.510.65,https://understat.com/match/14241,FC Tambov,Spartak Moscow,RFPL,Sep 26 2020,0,2,0.51,0.65,9,15,2,4,6,2,12.35,6.5,1.14,1.44
+1601767369-75,https://understat.com/league/La_liga,302.200.32,https://understat.com/match/14821,Real Sociedad,Getafe,La liga,Oct 03 2020,3,0,2.2,0.32,11,5,6,1,1,1,4.35,7.27,2.74,0.16
+1601767402-79,https://understat.com/league/La_liga,101.050.38,https://understat.com/match/14171,Sevilla,Levante,La liga,Oct 01 2020,1,0,1.05,0.38,16,3,2,1,8,0,6.5,13.08,1.95,0.71
+1601767519-92,https://understat.com/league/Ligue_1,221.612.31,https://understat.com/match/14218,Dijon,Montpellier,Ligue 1,Sep 27 2020,2,2,1.61,2.31,15,14,6,5,7,6,9.67,8.84,0.89,1.88
+1601766886-20,https://understat.com/league/Serie_A,231.361.27,https://understat.com/match/14125,Sampdoria,Benevento,Serie A,Sep 26 2020,2,3,1.36,1.27,9,14,3,5,2,5,14.43,8.31,1.43,1.25
+1601767012-34,https://understat.com/league/Bundesliga,110.911.20,https://understat.com/match/14187,Bayer Leverkusen,RasenBallsport Leipzig,Bundesliga,Sep 26 2020,1,1,0.91,1.2,11,7,4,2,5,3,6.77,12.48,1.08,1.59
+1601766760-6,https://understat.com/league/RFPL,602.820.46,https://understat.com/match/14242,Zenit St. Petersburg,FC Ufa,RFPL,Sep 26 2020,6,0,2.82,0.46,23,6,8,4,16,5,31.57,32.27,2.79,0.13

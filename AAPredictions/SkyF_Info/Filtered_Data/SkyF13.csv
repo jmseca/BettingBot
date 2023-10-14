@@ -1,0 +1,161 @@
+AT,Date,HT,League,Time
+Bournemouth,2020-11-03,Sheffield Wednesday,Championship,1900
+Millwall,2020-11-03,Norwich City,Championship,1900
+Swansea City,2020-11-03,Brentford,Championship,1900
+Bristol City,2020-11-03,Huddersfield Town,Championship,1900
+Middlesbrough,2020-11-03,Blackburn Rovers,Championship,1945
+Barnsley,2020-11-03,Cardiff City,Championship,1945
+Torino,2020-11-04,Genoa,Serie_A,1600
+Preston North End,2020-11-04,Reading,Championship,1900
+Stoke City,2020-11-04,Watford,Championship,1900
+Luton Town,2020-11-04,Rotherham United,Championship,1945
+Queens Park Rangers,2020-11-04,Derby County,Championship,1945
+Coventry City,2020-11-04,Nottingham Forest,Championship,1945
+Wycombe Wanderers,2020-11-04,Birmingham City,Championship,1945
+Burnley,2020-11-06,Brighton and Hove Albion,Premier_League,1730
+Bristol City,2020-11-06,Cardiff City,Championship,1800
+PEC Zwolle,2020-11-06,Fortuna Sittard,Eredivisie,1900
+Cologne,2020-11-06,Werder Bremen,Bundesliga,1930
+Udinese,2020-11-06,Sassuolo,Serie_A,1945
+Dundee United,2020-11-06,St Mirren,Premiership,1945
+Kilmarnock,2020-11-06,St. Johnstone,Premiership,1945
+Livingston,2020-11-06,Ross County,Premiership,1945
+Hibernian,2020-11-06,Aberdeen,Premiership,1945
+Newcastle United,2020-11-06,Southampton,Premier_League,2000
+Marseille,2020-11-06,Strasbourg,Ligue_1,2000
+Celta Vigo,2020-11-06,Elche,La_Liga,2000
+Manchester United,2020-11-07,Everton,Premier_League,1230
+Stoke City,2020-11-07,Reading,Championship,1230
+Eibar,2020-11-07,SD Huesca,La_Liga,1300
+Sampdoria,2020-11-07,Cagliari,Serie_A,1400
+Eintracht Frankfurt,2020-11-07,Stuttgart,Bundesliga,1430
+Schalke,2020-11-07,Mainz,Bundesliga,1430
+SC Freiburg,2020-11-07,RB Leipzig,Bundesliga,1430
+Hertha Berlin,2020-11-07,FC Augsburg,Bundesliga,1430
+Arminia Bielefeld,2020-11-07,1. FC Union Berlin,Bundesliga,1430
+Leeds United,2020-11-07,Crystal Palace,Premier_League,1500
+Luton Town,2020-11-07,Huddersfield Town,Championship,1500
+Swansea City,2020-11-07,Norwich City,Championship,1500
+Middlesbrough,2020-11-07,Brentford,Championship,1500
+Barnsley,2020-11-07,Derby County,Championship,1500
+Queens Park Rangers,2020-11-07,Blackburn Rovers,Championship,1500
+Bournemouth,2020-11-07,Birmingham City,Championship,1500
+Real Betis,2020-11-07,Barcelona,La_Liga,1515
+FC Twente,2020-11-07,ADO Den Haag,Eredivisie,1530
+Montpellier,2020-11-07,Bordeaux,Ligue_1,1600
+Spezia,2020-11-07,Benevento,Serie_A,1700
+Sheffield United,2020-11-07,Chelsea,Premier_League,1730
+Bayern Munich,2020-11-07,Borussia Dortmund,Bundesliga,1730
+Osasuna,2020-11-07,Sevilla,La_Liga,1730
+Heracles Almelo,2020-11-07,VVV-Venlo,Eredivisie,1745
+Fiorentina,2020-11-07,Parma,Serie_A,1945
+Fulham,2020-11-07,West Ham United,Premier_League,2000
+Sparta Rotterdam,2020-11-07,RKC Waalwijk,Eredivisie,2000
+Rennes,2020-11-07,Paris Saint-Germain,Ligue_1,2000
+Cadiz,2020-11-07,Atletico Madrid,La_Liga,2000
+Ajax,2020-11-08,FC Utrecht,Eredivisie,1115
+Juventus,2020-11-08,Lazio,Serie_A,1130
+Tottenham Hotspur,2020-11-08,West Bromwich Albion,Premier_League,1200
+Lille,2020-11-08,Brest,Ligue_1,1200
+Celtic,2020-11-08,Motherwell,Premiership,1200
+Villarreal,2020-11-08,Getafe,La_Liga,1300
+Groningen,2020-11-08,Feyenoord,Eredivisie,1330
+Emmen,2020-11-08,Vitesse Arnhem,Eredivisie,1330
+Reims,2020-11-08,RC Lens,Ligue_1,1400
+Dijon,2020-11-08,Metz,Ligue_1,1400
+Angers,2020-11-08,Nimes,Ligue_1,1400
+Nantes,2020-11-08,Lorient,Ligue_1,1400
+Inter Milan,2020-11-08,Atalanta,Serie_A,1400
+Crotone,2020-11-08,Torino,Serie_A,1400
+Roma,2020-11-08,Genoa,Serie_A,1400
+Wolverhampton Wanderers,2020-11-08,Leicester City,Premier_League,1400
+Hoffenheim,2020-11-08,Wolfsburg,Bundesliga,1430
+Hamilton Academical,2020-11-08,Rangers,Premiership,1500
+Granada,2020-11-08,Real Sociedad,La_Liga,1515
+AZ Alkmaar,2020-11-08,Heerenveen,Eredivisie,1545
+Monaco,2020-11-08,Nice,Ligue_1,1600
+Liverpool,2020-11-08,Manchester City,Premier_League,1630
+Napoli,2020-11-08,Bologna,Serie_A,1700
+M'gladbach,2020-11-08,Bayer Leverkusen,Bundesliga,1700
+Athletic Bilbao,2020-11-08,Real Valladolid,La_Liga,1730
+Alaves,2020-11-08,Levante,La_Liga,1730
+Willem II,2020-11-08,PSV Eindhoven,Eredivisie,1900
+Aston Villa,2020-11-08,Arsenal,Premier_League,1915
+Verona,2020-11-08,AC Milan,Serie_A,1945
+St Etienne,2020-11-08,Lyon,Ligue_1,2000
+Real Madrid,2020-11-08,Valencia,La_Liga,2000
+Bordeaux,2020-11-20,Rennes,Ligue_1,1800
+Paris Saint-Germain,2020-11-20,Monaco,Ligue_1,2000
+SD Huesca,2020-11-20,Osasuna,La_Liga,2000
+Chelsea,2020-11-21,Newcastle United,Premier_League,1230
+Elche,2020-11-21,Levante,La_Liga,1300
+Lazio,2020-11-21,Crotone,Serie_A,1400
+FC Augsburg,2020-11-21,M'gladbach,Bundesliga,1430
+Wolfsburg,2020-11-21,Schalke,Bundesliga,1430
+Stuttgart,2020-11-21,Hoffenheim,Bundesliga,1430
+Werder Bremen,2020-11-21,Bayern Munich,Bundesliga,1430
+Bayer Leverkusen,2020-11-21,Arminia Bielefeld,Bundesliga,1430
+Southampton,2020-11-21,Wolverhampton Wanderers,Premier_League,1500
+Motherwell,2020-11-21,St. Johnstone,Premiership,1500
+St Mirren,2020-11-21,Livingston,Premiership,1500
+Ross County,2020-11-21,Kilmarnock,Premiership,1500
+Hamilton Academical,2020-11-21,Dundee United,Premiership,1500
+Celtic,2020-11-21,Hibernian,Premiership,1500
+West Bromwich Albion,2020-11-21,Manchester United,Premier_League,1500
+Leicester City,2020-11-21,Liverpool,Premier_League,1500
+Everton,2020-11-21,Fulham,Premier_League,1500
+Brighton and Hove Albion,2020-11-21,Aston Villa,Premier_League,1500
+Crystal Palace,2020-11-21,Burnley,Premier_League,1500
+Real Madrid,2020-11-21,Villarreal,La_Liga,1515
+St Etienne,2020-11-21,Brest,Ligue_1,1600
+Atalanta,2020-11-21,Spezia,Serie_A,1700
+Manchester City,2020-11-21,Tottenham Hotspur,Premier_League,1730
+RB Leipzig,2020-11-21,Eintracht Frankfurt,Bundesliga,1730
+Celta Vigo,2020-11-21,Sevilla,La_Liga,1730
+VVV-Venlo,2020-11-21,Willem II,Eredivisie,1745
+Vitesse Arnhem,2020-11-21,Groningen,Eredivisie,1900
+Emmen,2020-11-21,AZ Alkmaar,Eredivisie,1900
+Borussia Dortmund,2020-11-21,Hertha Berlin,Bundesliga,1930
+Cagliari,2020-11-21,Juventus,Serie_A,1945
+Nice,2020-11-21,Marseille,Ligue_1,2000
+FC Utrecht,2020-11-21,PEC Zwolle,Eredivisie,2000
+Barcelona,2020-11-21,Atletico Madrid,La_Liga,2000
+Heracles Almelo,2020-11-22,Ajax,Eredivisie,1115
+Benevento,2020-11-22,Fiorentina,Serie_A,1130
+Metz,2020-11-22,Nantes,Ligue_1,1200
+Aberdeen,2020-11-22,Rangers,Premiership,1200
+Getafe,2020-11-22,Eibar,La_Liga,1300
+ADO Den Haag,2020-11-22,Sparta Rotterdam,Eredivisie,1330
+Feyenoord,2020-11-22,Fortuna Sittard,Eredivisie,1330
+West Ham United,2020-11-22,Sheffield United,Premier_League,1400
+Nimes,2020-11-22,Reims,Ligue_1,1400
+Strasbourg,2020-11-22,Montpellier,Ligue_1,1400
+RC Lens,2020-11-22,Dijon,Ligue_1,1400
+Parma,2020-11-22,Roma,Serie_A,1400
+Torino,2020-11-22,Inter Milan,Serie_A,1400
+Sassuolo,2020-11-22,Verona,Serie_A,1400
+Bologna,2020-11-22,Sampdoria,Serie_A,1400
+Mainz,2020-11-22,SC Freiburg,Bundesliga,1430
+Real Sociedad,2020-11-22,Cadiz,La_Liga,1515
+PSV Eindhoven,2020-11-22,FC Twente,Eredivisie,1545
+Heerenveen,2020-11-22,RKC Waalwijk,Eredivisie,1545
+Lyon,2020-11-22,Angers,Ligue_1,1600
+Arsenal,2020-11-22,Leeds United,Premier_League,1630
+1. FC Union Berlin,2020-11-22,Cologne,Bundesliga,1700
+Genoa,2020-11-22,Udinese,Serie_A,1700
+Real Valladolid,2020-11-22,Granada,La_Liga,1730
+Lorient,2020-11-22,Lille,Ligue_1,2000
+Valencia,2020-11-22,Alaves,La_Liga,2000
+Real Betis,2020-11-23,Athletic Bilbao,La_Liga,2000
+St. Johnstone,2020-11-24,Hibernian,Premiership,1900
+Aberdeen,2020-11-25,Hamilton Academical,Premiership,1900
+RKC Waalwijk,2020-11-27,FC Twente,Eredivisie,1900
+Werder Bremen,2020-11-27,Wolfsburg,Bundesliga,1930
+Eintracht Frankfurt,2020-11-28,1. FC Union Berlin,Bundesliga,1430
+Ajax,2020-11-28,Emmen,Eredivisie,1745
+Aberdeen,2020-12-05,St Mirren,Premiership,1500
+Hibernian,2020-12-05,Motherwell,Premiership,1500
+Kilmarnock,2020-12-05,Hamilton Academical,Premiership,1500
+Dundee United,2020-12-05,Livingston,Premiership,1500
+Rangers,2020-12-06,Ross County,Premiership,1200
+St. Johnstone,2020-12-06,Celtic,Premiership,1500

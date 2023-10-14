@@ -1,0 +1,399 @@
+﻿web-scraper-order,web-scraper-start-url,Games,Games-href,League,Date,HomeTeam,AwayTeam,ODDH,ODDD,ODDA,ODD_25+,ODD_25-,Tag25,ODD_15+,ODD_15-,Tag15,ODD_35+,ODD_35-,Tag35,ODD_BthScore_Yes,ODD_BthScore_No,TagBS,ODD_1X,ODD_12,ODD_X2,Tag1X,Tag12,TagX2,Current_Date,SOdds
+"1604186593-71","https://www.betano.pt/sport/futebol/russia/premier-liga/17098r/","FK Khimki
+              
+                Zenit São Petersburgo","https://www.betano.pt/odds/fk-khimki-zenit-sao-petersburgo/6684736/","Premier Liga","Domingo, 1 Novembro 2020 11:00","FK Khimki","Zenit São Petersburgo","5.85","4.35","1.44","1.50","2.02","Mais de2.5","1.13","3.65","Mais de1.5","2.30","1.38","Mais de3.5","1.65","1.80","Ambas Equipas Marcam (Sim/Não)","2.58","1.13","1.09","1X","12","2X","Sábado, 31 Outubro 2020 23:21","null"
+"1604186912-108","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Cagliari
+              
+                Sampdoria","https://www.betano.pt/odds/cagliari-sampdoria/6910872/","Série A","Sábado, 7 Novembro 2020 14:00","Cagliari","Sampdoria","2.76","3.55","2.30","1.50","2.18","Mais de2.5","1.14","3.95","Mais de1.5","2.20","1.47","Mais de3.5","1.40","2.40","Ambas Equipas Marcam (Sim/Não)","1.55","1.22","1.38","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186206-26","https://www.betano.pt/sport/futebol/alemanha/bundesliga/216r/","Friburgo
+              
+                Bayer Leverkusen","https://www.betano.pt/odds/friburgo-bayer-leverkusen/6710250/","Bundesliga","Domingo, 1 Novembro 2020 14:30","Friburgo","Bayer Leverkusen","3.40","3.45","2.02","1.57","2.02","Mais de2.5","1.17","3.65","Mais de1.5","2.40","1.40","Mais de3.5","1.50","2.19","Ambas Equipas Marcam (Sim/Não)","1.72","1.24","1.27","1X","12","2X","Sábado, 31 Outubro 2020 23:15","null"
+"1604186872-103","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","AC Milão
+              
+                Hellas Verona","https://www.betano.pt/odds/ac-milao-hellas-verona/6910875/","Série A","Domingo, 8 Novembro 2020 19:45","AC Milão","Hellas Verona","1.50","4.33","5.50","1.50","2.16","Mais de2.5","1.14","4.00","Mais de1.5","2.25","1.45","Mais de3.5","1.61","1.95","Ambas Equipas Marcam (Sim/Não)","1.11","1.15","2.45","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186538-64","https://www.betano.pt/sport/futebol/russia/premier-liga/17098r/","FK Khimki
+              
+                Rubin Kazan","https://www.betano.pt/odds/fk-khimki-rubin-kazan/6748000/","Premier Liga","Domingo, 8 Novembro 2020 11:00","FK Khimki","Rubin Kazan","3.35","3.20","2.05","1.85","1.61","Mais de2.5","1.26","2.72","Mais de1.5","3.05","1.20","Mais de3.5","1.67","1.78","Ambas Equipas Marcam (Sim/Não)","1.67","1.24","1.27","1X","12","2X","Sábado, 31 Outubro 2020 23:21","null"
+"1604186724-86","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Celta de Vigo
+              
+                Real Sociedad","https://www.betano.pt/odds/celta-de-vigo-real-sociedad/6828739/","LaLiga","Domingo, 1 Novembro 2020 15:00","Celta de Vigo","Real Sociedad","2.96","3.05","2.40","2.05","1.55","Mais de2.5","1.35","2.58","Mais de1.5","3.60","1.17","Mais de3.5","1.78","1.75","Ambas Equipas Marcam (Sim/Não)","1.50","1.28","1.35","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604186777-92","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","Vitória Guimarães
+              
+                Sporting CP","https://www.betano.pt/odds/vitoria-guimaraes-sporting-cp/6930466/","Primeira Liga","Sábado, 7 Novembro 2020 20:30","Vitória Guimarães","Sporting CP","3.20","3.20","2.20","1.75","1.72","Mais de2.5","1.23","2.94","Mais de1.5","2.84","1.25","Mais de3.5","1.60","1.91","Ambas Equipas Marcam (Sim/Não)","1.60","1.25","1.30","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604186746-88","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","SL Benfica
+              
+                SC Braga","https://www.betano.pt/odds/sl-benfica-sc-braga/6930471/","Primeira Liga","Domingo, 8 Novembro 2020 20:00","SL Benfica","SC Braga","1.61","4.15","4.60","2.05","1.50","Mais de3.5","1.10","4.15","Mais de1.5","1.42","2.25","Mais de2.5","1.45","2.17","Ambas Equipas Marcam (Sim/Não)","1.16","1.15","2.18","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604186831-99","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","Sporting CP
+              
+                CD Tondela","https://www.betano.pt/odds/sporting-cp-cd-tondela/6879518/","Primeira Liga","Domingo, 1 Novembro 2020 20:00","Sporting CP","CD Tondela","1.42","4.33","6.70","1.75","1.72","Mais de2.5","1.21","3.10","Mais de1.5","2.86","1.25","Mais de3.5","1.95","1.57","Ambas Equipas Marcam (Sim/Não)","1.07","1.14","2.63","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604186290-36","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Estrasburgo
+              
+                Marselha","https://www.betano.pt/odds/estrasburgo-marselha/6751311/","Ligue 1","Sexta-feira, 6 Novembro 2020 20:00","Estrasburgo","Marselha","2.65","3.20","2.56","1.90","1.60","Mais de2.5","1.28","2.70","Mais de1.5","3.25","1.19","Mais de3.5","1.67","1.80","Ambas Equipas Marcam (Sim/Não)","1.44","1.26","1.42","1X","12","2X","Sábado, 31 Outubro 2020 23:16","null"
+"1604187114-133","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Aston Villa
+              
+                Southampton","https://www.betano.pt/odds/aston-villa-southampton/6457870/","Premier League","Domingo, 1 Novembro 2020 12:00","Aston Villa","Southampton","2.40","3.40","2.70","1.57","2.04","Mais de2.5","1.17","3.65","Mais de1.5","2.37","1.42","Mais de3.5","1.45","2.25","Ambas Equipas Marcam (Sim/Não)","1.40","1.24","1.50","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186428-52","https://www.betano.pt/sport/futebol/inglaterra/championship/2r/","Sheffield Wednesday
+              
+                Bournemouth","https://www.betano.pt/odds/sheffield-wednesday-bournemouth/6704634/","Championship","Terça-feira, 3 Novembro 2020 19:00","Sheffield Wednesday","Bournemouth","3.25","2.96","2.19","1.90","1.60","Mais de2.5","1.28","2.70","Mais de1.5","3.15","1.20","Mais de3.5","1.67","1.80","Ambas Equipas Marcam (Sim/Não)","1.57","1.28","1.28","1X","12","2X","Sábado, 31 Outubro 2020 23:19","null"
+"1604186275-34","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","PSG
+              
+                Rennes","https://www.betano.pt/odds/psg-rennes/6751297/","Ligue 1","Sábado, 7 Novembro 2020 20:00","PSG","Rennes","1.18","6.45","12.85","-","2.98","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:16","null"
+"1604186944-112","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Sampdoria
+              
+                Génova","https://www.betano.pt/odds/sampdoria-genova/6850079/","Série A","Domingo, 1 Novembro 2020 19:45","Sampdoria","Génova","1.88","3.50","3.80","1.72","1.83","Mais de2.5","1.22","3.20","Mais de1.5","2.76","1.30","Mais de3.5","1.63","1.95","Ambas Equipas Marcam (Sim/Não)","1.22","1.23","1.80","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186373-45","https://www.betano.pt/sport/futebol/inglaterra/championship/2r/","Nottingham Forest
+              
+                Coventry City","https://www.betano.pt/odds/nottingham-forest-coventry-city/6713849/","Championship","Quarta-feira, 4 Novembro 2020 19:45","Nottingham Forest","Coventry City","1.70","3.35","4.65","1.83","1.65","Mais de2.5","1.26","2.80","Mais de1.5","3.05","1.22","Mais de3.5","1.75","1.72","Ambas Equipas Marcam (Sim/Não)","1.15","1.22","2.00","1X","12","2X","Sábado, 31 Outubro 2020 23:19","null"
+"1604186562-67","https://www.betano.pt/sport/futebol/russia/premier-liga/17098r/","Ural Sverdlovskaya Oblast
+              
+                Spartak Moscovo","https://www.betano.pt/odds/ural-sverdlovskaya-oblast-spartak-moscovo/6737722/","Premier Liga","Sábado, 7 Novembro 2020 11:00","Ural Sverdlovskaya Oblast","Spartak Moscovo","5.25","2.96","1.75","1.90","1.57","Mais de2.5","1.27","2.68","Mais de1.5","3.05","1.20","Mais de3.5","1.75","1.70","Ambas Equipas Marcam (Sim/Não)","1.91","1.28","1.12","1X","12","2X","Sábado, 31 Outubro 2020 23:21","null"
+"1604186762-90","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","SC Farense
+              
+                Boavista FC","https://www.betano.pt/odds/sc-farense-boavista-fc/6930469/","Primeira Liga","Domingo, 8 Novembro 2020 15:00","SC Farense","Boavista FC","2.58","2.98","2.80","2.02","1.53","Mais de2.5","1.32","2.54","Mais de1.5","3.40","1.17","Mais de3.5","1.72","1.75","Ambas Equipas Marcam (Sim/Não)","1.38","1.30","1.44","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604186341-42","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Dijon
+              
+                FC Lorient","https://www.betano.pt/odds/dijon-fc-lorient/6686762/","Ligue 1","Domingo, 1 Novembro 2020 14:00","Dijon","FC Lorient","2.98","3.35","2.25","1.75","1.72","Mais de2.5","1.23","2.96","Mais de1.5","2.90","1.24","Mais de3.5","1.61","1.90","Ambas Equipas Marcam (Sim/Não)","1.57","1.24","1.33","1X","12","2X","Sábado, 31 Outubro 2020 23:16","null"
+"1604186298-37","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Lille
+              
+                Lyon","https://www.betano.pt/odds/lille-lyon/6686770/","Ligue 1","Domingo, 1 Novembro 2020 20:00","Lille","Lyon","2.65","3.20","2.56","1.75","1.72","Mais de2.5","1.24","2.92","Mais de1.5","2.86","1.25","Mais de3.5","1.57","1.95","Ambas Equipas Marcam (Sim/Não)","1.45","1.26","1.42","1X","12","2X","Sábado, 31 Outubro 2020 23:16","null"
+"1604186840-100","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","Gil Vicente FC
+              
+                Vitória Guimarães","https://www.betano.pt/odds/gil-vicente-fc-vitoria-guimaraes/6879517/","Primeira Liga","Domingo, 1 Novembro 2020 17:30","Gil Vicente FC","Vitória Guimarães","3.20","2.96","2.33","2.15","1.47","Mais de2.5","1.38","2.37","Mais de1.5","3.75","1.13","Mais de3.5","1.83","1.65","Ambas Equipas Marcam (Sim/Não)","1.53","1.28","1.30","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604186333-41","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Stade Reims
+              
+                Estrasburgo","https://www.betano.pt/odds/stade-reims-estrasburgo/6686763/","Ligue 1","Domingo, 1 Novembro 2020 14:00","Stade Reims","Estrasburgo","2.37","3.15","2.94","1.95","1.57","Mais de2.5","1.31","2.58","Mais de1.5","3.40","1.17","Mais de3.5","1.72","1.75","Ambas Equipas Marcam (Sim/Não)","1.35","1.26","1.53","1X","12","2X","Sábado, 31 Outubro 2020 23:16","null"
+"1604186880-104","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Bolonha
+              
+                Nápoles","https://www.betano.pt/odds/bolonha-napoles/6910874/","Série A","Domingo, 8 Novembro 2020 17:00","Bolonha","Nápoles","4.45","4.00","1.65","2.11","1.53","Mais de3.5","1.12","4.20","Mais de1.5","1.44","2.30","Mais de2.5","1.45","2.25","Ambas Equipas Marcam (Sim/Não)","2.10","1.18","1.17","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186323-40","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Nimes
+              
+                FC Metz","https://www.betano.pt/odds/nimes-fc-metz/6686767/","Ligue 1","Domingo, 1 Novembro 2020 14:00","Nimes","FC Metz","2.56","3.15","2.68","1.95","1.57","Mais de2.5","1.30","2.62","Mais de1.5","3.30","1.18","Mais de3.5","1.72","1.75","Ambas Equipas Marcam (Sim/Não)","1.42","1.27","1.45","1X","12","2X","Sábado, 31 Outubro 2020 23:16","null"
+"1604186816-97","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","Boavista FC
+              
+                SL Benfica","https://www.betano.pt/odds/boavista-fc-sl-benfica/6879520/","Primeira Liga","Segunda-feira, 2 Novembro 2020 21:00","Boavista FC","SL Benfica","10.00","5.35","1.26","2.04","1.53","Mais de3.5","1.10","4.10","Mais de1.5","1.42","2.25","Mais de2.5","1.75","1.72","Ambas Equipas Marcam (Sim/Não)","3.50","1.12","1.03","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604186043-7","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","VVV Venlo
+              
+                Heracles Almelo","https://www.betano.pt/odds/vvv-venlo-heracles-almelo/6741232/","Eredivisie","Sábado, 7 Novembro 2020 17:45","VVV Venlo","Heracles Almelo","2.40","3.30","2.76","1.33","1.44","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:13","null"
+"1604186475-57","https://www.betano.pt/sport/futebol/escocia/premiership/1647r/","FC St Johnstone
+              
+                Kilmarnock FC","https://www.betano.pt/odds/fc-st-johnstone-kilmarnock-fc/6732449/","Premiership","Sexta-feira, 6 Novembro 2020 19:45","FC St Johnstone","Kilmarnock FC","2.11","3.15","3.25","1.90","1.60","Mais de2.5","1.28","2.68","Mais de1.5","3.20","1.19","Mais de3.5","1.70","1.78","Ambas Equipas Marcam (Sim/Não)","1.28","1.25","1.63","1X","12","2X","Sábado, 31 Outubro 2020 23:20","null"
+"1604186220-27","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Lyon
+              
+                Saint-Étienne","https://www.betano.pt/odds/lyon-saint-etienne/6752148/","Ligue 1","Domingo, 8 Novembro 2020 20:00","Lyon","Saint-Étienne","1.38","4.35","7.95","-","2.60","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:16","null"
+"1604186132-17","https://www.betano.pt/sport/futebol/alemanha/bundesliga/216r/","Borussia Dortmund
+              
+                Bayern Munique","https://www.betano.pt/odds/borussia-dortmund-bayern-munique/6886186/","Bundesliga","Sábado, 7 Novembro 2020 17:30","Borussia Dortmund","Bayern Munique","4.20","4.10","1.67","1.75","1.80","Mais de3.5","1.07","5.20","Mais de1.5","1.30","2.80","Mais de2.5","1.32","2.70","Ambas Equipas Marcam (Sim/Não)","2.05","1.17","1.19","1X","12","2X","Sábado, 31 Outubro 2020 23:15","null"
+"1604185998-1","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","PSV Eindhoven
+              
+                Willem II Tilburg","https://www.betano.pt/odds/psv-eindhoven-willem-ii-tilburg/6749134/","Eredivisie","Domingo, 8 Novembro 2020 19:00","PSV Eindhoven","Willem II Tilburg","1.30","4.80","10.00","-","2.60","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:13","null"
+"1604186936-111","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Hellas Verona
+              
+                Benevento Calcio","https://www.betano.pt/odds/hellas-verona-benevento-calcio/6850080/","Série A","Segunda-feira, 2 Novembro 2020 19:45","Hellas Verona","Benevento Calcio","2.00","3.35","3.55","1.70","1.85","Mais de2.5","1.22","3.25","Mais de1.5","2.68","1.32","Mais de3.5","1.57","2.02","Ambas Equipas Marcam (Sim/Não)","1.25","1.25","1.72","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186013-3","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","Feyenoord
+              
+                FC Groningen","https://www.betano.pt/odds/feyenoord-fc-groningen/6750037/","Eredivisie","Domingo, 8 Novembro 2020 13:30","Feyenoord","FC Groningen","1.38","4.40","7.75","1.02","2.60","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:13","null"
+"1604186068-10","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","AZ Alkmaar
+              
+                RKC Waalwijk","https://www.betano.pt/odds/az-alkmaar-rkc-waalwijk/6677744/","Eredivisie","Domingo, 1 Novembro 2020 19:00","AZ Alkmaar","RKC Waalwijk","1.24","6.00","9.50","1.87","1.63","Mais de3.5","1.06","4.75","Mais de1.5","1.32","2.54","Mais de2.5","1.67","1.80","Ambas Equipas Marcam (Sim/Não)","1.03","1.10","3.65","1X","12","2X","Sábado, 31 Outubro 2020 23:13","null"
+"1604186499-60","https://www.betano.pt/sport/futebol/escocia/premiership/1647r/","Kilmarnock FC
+              
+                Rangers","https://www.betano.pt/odds/kilmarnock-fc-rangers/6674945/","Premiership","Domingo, 1 Novembro 2020 12:00","Kilmarnock FC","Rangers","9.50","5.15","1.25","1.57","1.95","Mais de2.5","1.16","3.50","Mais de1.5","2.45","1.35","Mais de3.5","2.05","1.50","Ambas Equipas Marcam (Sim/Não)","3.50","1.12","1.03","1X","12","2X","Sábado, 31 Outubro 2020 23:20","null"
+"1604186181-23","https://www.betano.pt/sport/futebol/alemanha/bundesliga/216r/","Werder Bremen
+              
+                Colónia","https://www.betano.pt/odds/werder-bremen-colonia/6886180/","Bundesliga","Sexta-feira, 6 Novembro 2020 19:30","Werder Bremen","Colónia","2.20","3.40","3.00","1.57","2.04","Mais de2.5","1.17","3.65","Mais de1.5","2.40","1.40","Mais de3.5","1.45","2.25","Ambas Equipas Marcam (Sim/Não)","1.33","1.24","1.60","1X","12","2X","Sábado, 31 Outubro 2020 23:15","null"
+"1604186157-20","https://www.betano.pt/sport/futebol/alemanha/bundesliga/216r/","Augsburgo
+              
+                Hertha Berlin","https://www.betano.pt/odds/augsburgo-hertha-berlin/6886183/","Bundesliga","Sábado, 7 Novembro 2020 14:30","Augsburgo","Hertha Berlin","2.58","3.40","2.50","1.57","2.02","Mais de2.5","1.17","3.60","Mais de1.5","2.40","1.40","Mais de3.5","1.47","2.20","Ambas Equipas Marcam (Sim/Não)","1.47","1.24","1.45","1X","12","2X","Sábado, 31 Outubro 2020 23:15","null"
+"1604187085-129","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Fulham
+              
+                West Brom","https://www.betano.pt/odds/fulham-west-brom/6493643/","Premier League","Segunda-feira, 2 Novembro 2020 17:30","Fulham","West Brom","2.33","3.20","2.96","1.90","1.65","Mais de2.5","1.28","2.84","Mais de1.5","3.20","1.22","Mais de3.5","1.67","1.87","Ambas Equipas Marcam (Sim/Não)","1.35","1.27","1.53","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186057-9","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","Fortuna Sittard
+              
+                PEC Zwolle","https://www.betano.pt/odds/fortuna-sittard-pec-zwolle/6732094/","Eredivisie","Sexta-feira, 6 Novembro 2020 19:00","Fortuna Sittard","PEC Zwolle","2.30","3.45","2.82","1.33","1.47","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:13","null"
+"1604186653-77","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Getafe
+              
+                Villarreal","https://www.betano.pt/odds/getafe-villarreal/6903490/","LaLiga","Domingo, 8 Novembro 2020 13:00","Getafe","Villarreal","2.45","2.96","2.98","1.44","2.30","Mais de1.5","2.30","1.44","Mais de2.5","4.20","1.12","Mais de3.5","1.95","1.63","Ambas Equipas Marcam (Sim/Não)","1.33","1.31","1.47","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604186444-54","https://www.betano.pt/sport/futebol/inglaterra/championship/2r/","Huddersfield
+              
+                Bristol City","https://www.betano.pt/odds/huddersfield-bristol-city/6704632/","Championship","Terça-feira, 3 Novembro 2020 19:00","Huddersfield","Bristol City","2.63","3.00","2.58","1.95","1.57","Mais de2.5","1.31","2.60","Mais de1.5","3.30","1.18","Mais de3.5","1.70","1.78","Ambas Equipas Marcam (Sim/Não)","1.42","1.27","1.42","1X","12","2X","Sábado, 31 Outubro 2020 23:19","null"
+"1604186085-12","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","FC Emmen
+              
+                Feyenoord","https://www.betano.pt/odds/fc-emmen-feyenoord/6685631/","Eredivisie","Domingo, 1 Novembro 2020 13:30","FC Emmen","Feyenoord","4.70","4.05","1.61","2.11","1.47","Mais de3.5","1.11","4.00","Mais de1.5","1.44","2.20","Mais de2.5","1.47","2.13","Ambas Equipas Marcam (Sim/Não)","2.18","1.16","1.15","1X","12","2X","Sábado, 31 Outubro 2020 23:13","null"
+"1604186148-19","https://www.betano.pt/sport/futebol/alemanha/bundesliga/216r/","Mainz 05
+              
+                FC Schalke 04","https://www.betano.pt/odds/mainz-05-fc-schalke-04/6886184/","Bundesliga","Sábado, 7 Novembro 2020 14:30","Mainz 05","FC Schalke 04","2.19","3.30","3.10","1.65","1.91","Mais de2.5","1.20","3.35","Mais de1.5","2.56","1.35","Mais de3.5","1.53","2.12","Ambas Equipas Marcam (Sim/Não)","1.32","1.25","1.61","1X","12","2X","Sábado, 31 Outubro 2020 23:15","null"
+"1604187006-119","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Manchester City
+              
+                Liverpool","https://www.betano.pt/odds/manchester-city-liverpool/6457878/","Premier League","Domingo, 8 Novembro 2020 16:30","Manchester City","Liverpool","1.91","3.95","3.30","2.05","1.55","Mais de3.5","1.10","4.55","Mais de1.5","1.42","2.37","Mais de2.5","1.40","2.40","Ambas Equipas Marcam (Sim/Não)","1.28","1.18","1.78","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186381-46","https://www.betano.pt/sport/futebol/inglaterra/championship/2r/","Derby County
+              
+                Queens Park Rangers","https://www.betano.pt/odds/derby-county-queens-park-rangers/6713848/","Championship","Quarta-feira, 4 Novembro 2020 19:45","Derby County","Queens Park Rangers","2.25","3.15","2.92","1.87","1.63","Mais de2.5","1.27","2.76","Mais de1.5","3.10","1.21","Mais de3.5","1.65","1.83","Ambas Equipas Marcam (Sim/Não)","1.35","1.25","1.53","1X","12","2X","Sábado, 31 Outubro 2020 23:19","null"
+"1604186467-56","https://www.betano.pt/sport/futebol/escocia/premiership/1647r/","Motherwell FC
+              
+                Celtic","https://www.betano.pt/odds/motherwell-fc-celtic/6732445/","Premiership","Domingo, 8 Novembro 2020 12:00","Motherwell FC","Celtic","9.75","5.00","1.28","1.50","2.05","Mais de2.5","1.14","3.65","Mais de1.5","2.25","1.42","Mais de3.5","1.83","1.65","Ambas Equipas Marcam (Sim/Não)","3.30","1.14","1.03","1X","12","2X","Sábado, 31 Outubro 2020 23:20","null"
+"1604186483-58","https://www.betano.pt/sport/futebol/escocia/premiership/1647r/","Ross County
+              
+                Livingston FC","https://www.betano.pt/odds/ross-county-livingston-fc/6732448/","Premiership","Sexta-feira, 6 Novembro 2020 19:45","Ross County","Livingston FC","2.98","3.20","2.20","1.91","1.60","Mais de2.5","1.28","2.72","Mais de1.5","3.25","1.19","Mais de3.5","1.70","1.78","Ambas Equipas Marcam (Sim/Não)","1.57","1.25","1.33","1X","12","2X","Sábado, 31 Outubro 2020 23:20","null"
+"1604187061-126","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Southampton
+              
+                Newcastle","https://www.betano.pt/odds/southampton-newcastle/6457879/","Premier League","Sexta-feira, 6 Novembro 2020 20:00","Southampton","Newcastle","1.75","3.75","4.10","1.65","1.91","Mais de2.5","1.19","3.45","Mais de1.5","2.63","1.33","Mais de3.5","1.63","1.95","Ambas Equipas Marcam (Sim/Não)","1.20","1.20","1.95","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186365-44","https://www.betano.pt/sport/futebol/inglaterra/championship/2r/","Rotherham
+              
+                Luton Town","https://www.betano.pt/odds/rotherham-luton-town/6713850/","Championship","Quarta-feira, 4 Novembro 2020 19:45","Rotherham","Luton Town","2.25","2.90","3.20","2.02","1.53","Mais de2.5","1.32","2.54","Mais de1.5","3.40","1.17","Mais de3.5","1.72","1.75","Ambas Equipas Marcam (Sim/Não)","1.28","1.30","1.55","1X","12","2X","Sábado, 31 Outubro 2020 23:19","null"
+"1604186198-25","https://www.betano.pt/sport/futebol/alemanha/bundesliga/216r/","Hertha Berlin
+              
+                Wolfsburgo","https://www.betano.pt/odds/hertha-berlin-wolfsburgo/6710251/","Bundesliga","Domingo, 1 Novembro 2020 17:00","Hertha Berlin","Wolfsburgo","2.54","3.30","2.60","1.65","1.91","Mais de2.5","1.20","3.35","Mais de1.5","2.60","1.35","Mais de3.5","1.50","2.13","Ambas Equipas Marcam (Sim/Não)","1.44","1.25","1.45","1X","12","2X","Sábado, 31 Outubro 2020 23:15","null"
+"1604186661-78","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Atlético de Madrid
+              
+                Cádiz CF","https://www.betano.pt/odds/atletico-de-madrid-cadiz-cf/6903489/","LaLiga","Sábado, 7 Novembro 2020 20:00","Atlético de Madrid","Cádiz CF","1.38","4.20","8.50","2.25","1.45","Mais de2.5","1.40","2.40","Mais de1.5","4.10","1.13","Mais de3.5","2.66","1.33","Ambas Equipas Marcam (Sim/Não)","1.04","1.20","2.80","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604186960-114","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","AS Roma
+              
+                Fiorentina","https://www.betano.pt/odds/as-roma-fiorentina/6850077/","Série A","Domingo, 1 Novembro 2020 17:00","AS Roma","Fiorentina","1.75","3.90","3.90","2.10","1.53","Mais de3.5","1.12","4.25","Mais de1.5","1.44","2.30","Mais de2.5","1.42","2.33","Ambas Equipas Marcam (Sim/Não)","1.22","1.18","1.95","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186857-102","https://www.betano.pt/sport/futebol/eua/mls/195161/","","","","","","","","","","","","","","","","","","","","","","","","","","","","Sábado, 31 Outubro 2020 23:27",""
+"1604186967-115","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Torino
+              
+                Lázio","https://www.betano.pt/odds/torino-lazio/6850076/","Série A","Domingo, 1 Novembro 2020 14:00","Torino","Lázio","2.63","3.45","2.45","1.55","2.05","Mais de2.5","1.16","3.75","Mais de1.5","2.35","1.42","Mais de3.5","1.45","2.25","Ambas Equipas Marcam (Sim/Não)","1.47","1.24","1.42","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186350-43","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Saint-Étienne
+              
+                Montpellier","https://www.betano.pt/odds/saint-etienne-montpellier/6686766/","Ligue 1","Domingo, 1 Novembro 2020 12:00","Saint-Étienne","Montpellier","2.25","3.30","2.98","1.75","1.72","Mais de2.5","1.23","2.96","Mais de1.5","2.86","1.25","Mais de3.5","1.60","1.91","Ambas Equipas Marcam (Sim/Não)","1.35","1.24","1.55","1X","12","2X","Sábado, 31 Outubro 2020 23:16","null"
+"1604186250-31","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","FC Lorient
+              
+                Nantes","https://www.betano.pt/odds/fc-lorient-nantes/6751306/","Ligue 1","Domingo, 8 Novembro 2020 14:00","FC Lorient","Nantes","2.37","3.15","2.92","1.30","1.45","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:16","null"
+"1604186997-118","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Arsenal
+              
+                Aston Villa","https://www.betano.pt/odds/arsenal-aston-villa/6422369/","Premier League","Domingo, 8 Novembro 2020 19:15","Arsenal","Aston Villa","1.67","3.80","4.60","1.55","2.05","Mais de2.5","1.16","3.70","Mais de1.5","2.35","1.42","Mais de3.5","1.55","2.05","Ambas Equipas Marcam (Sim/Não)","1.16","1.20","2.05","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186491-59","https://www.betano.pt/sport/futebol/escocia/premiership/1647r/","Aberdeen FC
+              
+                Hibernian FC","https://www.betano.pt/odds/aberdeen-fc-hibernian-fc/6732444/","Premiership","Sexta-feira, 6 Novembro 2020 19:45","Aberdeen FC","Hibernian FC","2.02","3.40","3.20","1.91","1.60","Mais de2.5","1.28","2.72","Mais de1.5","3.30","1.18","Mais de3.5","1.75","1.72","Ambas Equipas Marcam (Sim/Não)","1.28","1.22","1.67","1X","12","2X","Sábado, 31 Outubro 2020 23:20","null"
+"1604186928-110","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Génova
+              
+                Torino","https://www.betano.pt/odds/genova-torino/6912561/","Série A","Quarta-feira, 4 Novembro 2020 16:00","Génova","Torino","2.60","3.25","2.58","1.70","1.85","Mais de2.5","1.22","3.20","Mais de1.5","2.72","1.31","Mais de3.5","1.55","2.05","Ambas Equipas Marcam (Sim/Não)","1.45","1.26","1.44","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186554-66","https://www.betano.pt/sport/futebol/russia/premier-liga/17098r/","Arsenal Tula
+              
+                Rotor Volgograd","https://www.betano.pt/odds/arsenal-tula-rotor-volgograd/6739045/","Premier Liga","Sábado, 7 Novembro 2020 13:30","Arsenal Tula","Rotor Volgograd","1.78","3.35","4.15","2.05","1.50","Mais de2.5","1.33","2.45","Mais de1.5","3.60","1.13","Mais de3.5","1.91","1.57","Ambas Equipas Marcam (Sim/Não)","1.18","1.22","1.91","1X","12","2X","Sábado, 31 Outubro 2020 23:21","null"
+"1604186630-74","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Real Valladolid
+              
+                Athletic Bilbao","https://www.betano.pt/odds/real-valladolid-athletic-bilbao/6903493/","LaLiga","Domingo, 8 Novembro 2020 17:30","Real Valladolid","Athletic Bilbao","3.05","2.86","2.50","1.47","2.20","Mais de1.5","2.45","1.38","Mais de2.5","4.55","1.10","Mais de3.5","2.02","1.57","Ambas Equipas Marcam (Sim/Não)","1.47","1.33","1.33","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604187054-125","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Everton
+              
+                Manchester United","https://www.betano.pt/odds/everton-manchester-united/6457871/","Premier League","Sábado, 7 Novembro 2020 12:30","Everton","Manchester United","2.70","3.40","2.40","1.63","1.95","Mais de2.5","1.19","3.45","Mais de1.5","2.52","1.36","Mais de3.5","1.50","2.15","Ambas Equipas Marcam (Sim/Não)","1.50","1.24","1.40","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186028-5","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","FC Utrecht
+              
+                Ajax","https://www.betano.pt/odds/fc-utrecht-ajax/6748114/","Eredivisie","Domingo, 8 Novembro 2020 11:15","FC Utrecht","Ajax","4.40","3.90","1.67","1.95","1.13","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:13","null"
+"1604186141-18","https://www.betano.pt/sport/futebol/alemanha/bundesliga/216r/","Estugarda
+              
+                Eintracht Frankfurt","https://www.betano.pt/odds/estugarda-eintracht-frankfurt/6886185/","Bundesliga","Sábado, 7 Novembro 2020 14:30","Estugarda","Eintracht Frankfurt","2.50","3.55","2.50","2.05","1.55","Mais de3.5","1.12","4.25","Mais de1.5","1.42","2.33","Mais de2.5","1.36","2.54","Ambas Equipas Marcam (Sim/Não)","1.47","1.23","1.47","1X","12","2X","Sábado, 31 Outubro 2020 23:15","null"
+"1604186006-2","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","SC Heerenveen
+              
+                AZ Alkmaar","https://www.betano.pt/odds/sc-heerenveen-az-alkmaar/6742413/","Eredivisie","Domingo, 8 Novembro 2020 15:45","SC Heerenveen","AZ Alkmaar","3.05","3.55","2.13","1.57","1.28","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:13","null"
+"1604186282-35","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Bordéus
+              
+                Montpellier","https://www.betano.pt/odds/bordeus-montpellier/6751299/","Ligue 1","Sábado, 7 Novembro 2020 16:00","Bordéus","Montpellier","2.33","3.05","3.10","1.27","1.47","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:16","null"
+"1604186173-22","https://www.betano.pt/sport/futebol/alemanha/bundesliga/216r/","RB Leipzig
+              
+                Friburgo","https://www.betano.pt/odds/rb-leipzig-friburgo/6886181/","Bundesliga","Sábado, 7 Novembro 2020 14:30","RB Leipzig","Friburgo","1.28","5.20","9.00","2.10","1.53","Mais de3.5","1.12","4.25","Mais de1.5","1.44","2.30","Mais de2.5","1.72","1.83","Ambas Equipas Marcam (Sim/Não)","1.03","1.14","3.30","1X","12","2X","Sábado, 31 Outubro 2020 23:15","null"
+"1604186035-6","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","RKC Waalwijk
+              
+                Sparta Rotterdam","https://www.betano.pt/odds/rkc-waalwijk-sparta-rotterdam/6749135/","Eredivisie","Sábado, 7 Novembro 2020 20:00","RKC Waalwijk","Sparta Rotterdam","2.40","3.30","2.76","1.33","1.44","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:13","null"
+"1604186920-109","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Sassuolo
+              
+                Udinese","https://www.betano.pt/odds/sassuolo-udinese/6910871/","Série A","Sexta-feira, 6 Novembro 2020 19:45","Sassuolo","Udinese","1.75","3.90","3.95","2.12","1.53","Mais de3.5","1.12","4.20","Mais de1.5","1.45","2.25","Mais de2.5","1.44","2.30","Ambas Equipas Marcam (Sim/Não)","1.21","1.18","1.95","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186050-8","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","Den Haag
+              
+                FC Twente Enschede","https://www.betano.pt/odds/den-haag-fc-twente-enschede/6740216/","Eredivisie","Sábado, 7 Novembro 2020 15:30","Den Haag","FC Twente Enschede","3.05","3.55","2.13","1.57","1.28","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:13","null"
+"1604186678-80","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Barcelona
+              
+                Bétis","https://www.betano.pt/odds/barcelona-betis/6903487/","LaLiga","Sábado, 7 Novembro 2020 15:15","Barcelona","Bétis","1.36","4.90","7.10","2.17","1.50","Mais de3.5","1.12","4.20","Mais de1.5","1.45","2.25","Mais de2.5","1.67","1.88","Ambas Equipas Marcam (Sim/Não)","1.06","1.12","2.90","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604187029-122","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Chelsea
+              
+                Sheffield United","https://www.betano.pt/odds/chelsea-sheffield-united/6457877/","Premier League","Sábado, 7 Novembro 2020 17:30","Chelsea","Sheffield United","1.38","4.80","6.85","1.53","2.10","Mais de2.5","1.14","3.90","Mais de1.5","2.37","1.42","Mais de3.5","1.78","1.75","Ambas Equipas Marcam (Sim/Não)","1.07","1.12","2.84","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186731-87","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Bétis
+              
+                Elche CF","https://www.betano.pt/odds/betis-elche-cf/6828738/","LaLiga","Domingo, 1 Novembro 2020 13:00","Bétis","Elche CF","1.44","4.25","6.80","1.75","1.80","Mais de2.5","1.22","3.20","Mais de1.5","2.86","1.28","Mais de3.5","1.95","1.63","Ambas Equipas Marcam (Sim/Não)","1.07","1.16","2.60","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604186076-11","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","PSV Eindhoven
+              
+                Den Haag","https://www.betano.pt/odds/psv-eindhoven-den-haag/6684399/","Eredivisie","Domingo, 1 Novembro 2020 15:45","PSV Eindhoven","Den Haag","1.18","6.65","12.00","1.83","1.65","Mais de3.5","1.06","4.80","Mais de1.5","1.32","2.56","Mais de2.5","1.80","1.67","Ambas Equipas Marcam (Sim/Não)","1.02","1.08","4.25","1X","12","2X","Sábado, 31 Outubro 2020 23:13","null"
+"1604186769-91","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","CD Nacional Madeira
+              
+                Gil Vicente FC","https://www.betano.pt/odds/cd-nacional-madeira-gil-vicente-fc/6930467/","Primeira Liga","Domingo, 8 Novembro 2020 15:00","CD Nacional Madeira","Gil Vicente FC","2.30","3.20","3.00","1.90","1.60","Mais de2.5","1.28","2.70","Mais de1.5","3.25","1.19","Mais de3.5","1.70","1.78","Ambas Equipas Marcam (Sim/Não)","1.33","1.26","1.55","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604186264-33","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Stade Brestois 29
+              
+                Lille","https://www.betano.pt/odds/stade-brestois-29-lille/6751302/","Ligue 1","Domingo, 8 Novembro 2020 12:00","Stade Brestois 29","Lille","3.90","3.35","1.91","1.70","1.17","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:16","null"
+"1604186404-49","https://www.betano.pt/sport/futebol/inglaterra/championship/2r/","Watford
+              
+                Stoke City","https://www.betano.pt/odds/watford-stoke-city/6713851/","Championship","Quarta-feira, 4 Novembro 2020 19:00","Watford","Stoke City","2.05","3.05","3.55","1.44","2.20","Mais de1.5","2.33","1.38","Mais de2.5","4.25","1.09","Mais de3.5","2.02","1.53","Ambas Equipas Marcam (Sim/Não)","1.24","1.28","1.65","1X","12","2X","Sábado, 31 Outubro 2020 23:19","null"
+"1604186904-107","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Benevento Calcio
+              
+                Spezia","https://www.betano.pt/odds/benevento-calcio-spezia/6912562/","Série A","Sábado, 7 Novembro 2020 17:00","Benevento Calcio","Spezia","2.02","3.55","3.30","1.53","2.10","Mais de2.5","1.16","3.75","Mais de1.5","2.30","1.44","Mais de3.5","1.45","2.25","Ambas Equipas Marcam (Sim/Não)","1.28","1.22","1.70","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186638-75","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Levante
+              
+                Alavés","https://www.betano.pt/odds/levante-alaves/6903492/","LaLiga","Domingo, 8 Novembro 2020 17:30","Levante","Alavés","2.20","3.25","3.15","1.95","1.63","Mais de2.5","1.31","2.74","Mais de1.5","3.35","1.20","Mais de3.5","1.75","1.80","Ambas Equipas Marcam (Sim/Não)","1.31","1.27","1.57","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604186242-30","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","FC Metz
+              
+                Dijon","https://www.betano.pt/odds/fc-metz-dijon/6751307/","Ligue 1","Domingo, 8 Novembro 2020 14:00","FC Metz","Dijon","1.85","3.30","4.20","1.15","1.75","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:16","null"
+"1604186686-81","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Huesca
+              
+                Eibar","https://www.betano.pt/odds/huesca-eibar/6903486/","LaLiga","Sábado, 7 Novembro 2020 13:00","Huesca","Eibar","2.05","3.05","3.75","1.47","2.20","Mais de1.5","2.45","1.38","Mais de2.5","4.60","1.10","Mais de3.5","2.10","1.53","Ambas Equipas Marcam (Sim/Não)","1.23","1.30","1.67","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604186228-28","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Nice
+              
+                Mónaco","https://www.betano.pt/odds/nice-monaco/6751308/","Ligue 1","Domingo, 8 Novembro 2020 16:00","Nice","Mónaco","2.72","3.40","2.40","1.45","1.35","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:16","null"
+"1604186101-14","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","Heracles Almelo
+              
+                FC Utrecht","https://www.betano.pt/odds/heracles-almelo-fc-utrecht/6683042/","Eredivisie","Domingo, 1 Novembro 2020 11:15","Heracles Almelo","FC Utrecht","3.30","3.70","1.95","1.50","2.05","Mais de2.5","1.13","3.75","Mais de1.5","2.30","1.40","Mais de3.5","1.45","2.17","Ambas Equipas Marcam (Sim/Não)","1.72","1.19","1.28","1X","12","2X","Sábado, 31 Outubro 2020 23:13","null"
+"1604186701-83","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Villarreal
+              
+                Real Valladolid","https://www.betano.pt/odds/villarreal-real-valladolid/6828741/","LaLiga","Segunda-feira, 2 Novembro 2020 20:00","Villarreal","Real Valladolid","1.60","3.75","5.35","1.80","1.75","Mais de2.5","1.25","3.05","Mais de1.5","3.00","1.26","Mais de3.5","1.83","1.72","Ambas Equipas Marcam (Sim/Não)","1.12","1.20","2.20","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604186669-79","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Sevilha
+              
+                CA Osasuna","https://www.betano.pt/odds/sevilha-ca-osasuna/6903488/","LaLiga","Sábado, 7 Novembro 2020 17:30","Sevilha","CA Osasuna","1.61","3.65","5.45","2.20","1.47","Mais de2.5","1.38","2.45","Mais de1.5","3.95","1.14","Mais de3.5","2.17","1.50","Ambas Equipas Marcam (Sim/Não)","1.11","1.22","2.17","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604187046-124","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Crystal Palace FC
+              
+                Leeds United","https://www.betano.pt/odds/crystal-palace-fc-leeds-united/6493635/","Premier League","Sábado, 7 Novembro 2020 15:00","Crystal Palace FC","Leeds United","2.98","3.25","2.30","1.88","1.67","Mais de2.5","1.28","2.86","Mais de1.5","3.20","1.22","Mais de3.5","1.67","1.87","Ambas Equipas Marcam (Sim/Não)","1.55","1.27","1.33","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186420-51","https://www.betano.pt/sport/futebol/inglaterra/championship/2r/","Blackburn Rovers
+              
+                Middlesbrough","https://www.betano.pt/odds/blackburn-rovers-middlesbrough/6704629/","Championship","Terça-feira, 3 Novembro 2020 19:45","Blackburn Rovers","Middlesbrough","2.17","3.10","3.15","1.95","1.57","Mais de2.5","1.30","2.62","Mais de1.5","3.30","1.18","Mais de3.5","1.72","1.75","Ambas Equipas Marcam (Sim/Não)","1.30","1.26","1.60","1X","12","2X","Sábado, 31 Outubro 2020 23:19","null"
+"1604186708-84","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Valência
+              
+                Getafe","https://www.betano.pt/odds/valencia-getafe/6828740/","LaLiga","Domingo, 1 Novembro 2020 20:00","Valência","Getafe","3.20","2.86","2.40","1.50","2.15","Mais de1.5","2.52","1.36","Mais de2.5","4.70","1.09","Mais de3.5","2.05","1.55","Ambas Equipas Marcam (Sim/Não)","1.50","1.33","1.31","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604186306-38","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Mónaco
+              
+                Bordéus","https://www.betano.pt/odds/monaco-bordeus/6686761/","Ligue 1","Domingo, 1 Novembro 2020 16:00","Mónaco","Bordéus","1.78","3.75","4.00","1.61","1.90","Mais de2.5","1.17","3.40","Mais de1.5","2.52","1.33","Mais de3.5","1.57","1.95","Ambas Equipas Marcam (Sim/Não)","1.20","1.19","1.91","1X","12","2X","Sábado, 31 Outubro 2020 23:16","null"
+"1604186617-73","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Valência
+              
+                Real Madrid","https://www.betano.pt/odds/valencia-real-madrid/6903494/","LaLiga","Domingo, 8 Novembro 2020 20:00","Valência","Real Madrid","5.20","4.15","1.55","1.55","2.05","Mais de2.5","1.16","3.75","Mais de1.5","2.40","1.40","Mais de3.5","1.63","1.95","Ambas Equipas Marcam (Sim/Não)","2.30","1.17","1.12","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604186093-13","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","Sparta Rotterdam
+              
+                SC Heerenveen","https://www.betano.pt/odds/sparta-rotterdam-sc-heerenveen/6684398/","Eredivisie","Domingo, 1 Novembro 2020 13:30","Sparta Rotterdam","SC Heerenveen","2.56","3.60","2.45","1.50","2.05","Mais de2.5","1.14","3.70","Mais de1.5","2.30","1.40","Mais de3.5","1.44","2.20","Ambas Equipas Marcam (Sim/Não)","1.50","1.20","1.45","1X","12","2X","Sábado, 31 Outubro 2020 23:13","null"
+"1604186888-105","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Torino
+              
+                FC Crotone","https://www.betano.pt/odds/torino-fc-crotone/6910873/","Série A","Domingo, 8 Novembro 2020 14:00","Torino","FC Crotone","2.05","3.45","3.30","1.67","1.88","Mais de2.5","1.20","3.35","Mais de1.5","2.64","1.33","Mais de3.5","1.55","2.05","Ambas Equipas Marcam (Sim/Não)","1.28","1.24","1.67","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186436-53","https://www.betano.pt/sport/futebol/inglaterra/championship/2r/","Norwich City
+              
+                Millwall FC","https://www.betano.pt/odds/norwich-city-millwall-fc/6704633/","Championship","Terça-feira, 3 Novembro 2020 19:00","Norwich City","Millwall FC","1.90","3.35","3.65","1.83","1.65","Mais de2.5","1.25","2.84","Mais de1.5","3.05","1.22","Mais de3.5","1.70","1.78","Ambas Equipas Marcam (Sim/Não)","1.23","1.22","1.78","1X","12","2X","Sábado, 31 Outubro 2020 23:19","null"
+"1604186530-63","https://www.betano.pt/sport/futebol/russia/premier-liga/17098r/","CSKA Moscovo
+              
+                Rostov","https://www.betano.pt/odds/cska-moscovo-rostov/6749136/","Premier Liga","Domingo, 8 Novembro 2020 13:30","CSKA Moscovo","Rostov","1.67","3.40","4.80","2.00","1.53","Mais de2.5","1.31","2.52","Mais de1.5","3.45","1.15","Mais de3.5","1.91","1.57","Ambas Equipas Marcam (Sim/Não)","1.14","1.21","2.05","1X","12","2X","Sábado, 31 Outubro 2020 23:21","null"
+"1604186577-69","https://www.betano.pt/sport/futebol/russia/premier-liga/17098r/","Tambov
+              
+                Dinamo Moscovo","https://www.betano.pt/odds/tambov-dinamo-moscovo/6684726/","Premier Liga","Domingo, 1 Novembro 2020 16:00","Tambov","Dinamo Moscovo","4.90","3.35","1.67","2.04","1.50","Mais de2.5","1.33","2.45","Mais de1.5","3.55","1.14","Mais de3.5","1.95","1.55","Ambas Equipas Marcam (Sim/Não)","2.02","1.23","1.13","1X","12","2X","Sábado, 31 Outubro 2020 23:21","null"
+"1604186824-98","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","SC Braga
+              
+                Famalicão","https://www.betano.pt/odds/sc-braga-famalicao/6879519/","Primeira Liga","Segunda-feira, 2 Novembro 2020 18:45","SC Braga","Famalicão","1.38","4.70","7.00","2.10","1.47","Mais de3.5","1.11","4.00","Mais de1.5","1.44","2.20","Mais de2.5","1.61","1.90","Ambas Equipas Marcam (Sim/Não)","1.06","1.11","2.82","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604186808-96","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","Belenenses SAD
+              
+                Rio Ave FC","https://www.betano.pt/odds/belenenses-sad-rio-ave-fc/6930462/","Primeira Liga","Sexta-feira, 6 Novembro 2020 20:30","Belenenses SAD","Rio Ave FC","2.70","3.25","2.50","1.83","1.65","Mais de2.5","1.25","2.84","Mais de1.5","3.05","1.22","Mais de3.5","1.65","1.85","Ambas Equipas Marcam (Sim/Não)","1.47","1.24","1.40","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604186785-93","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","Famalicão
+              
+                CS Marítimo","https://www.betano.pt/odds/famalicao-cs-maritimo/6930465/","Primeira Liga","Sábado, 7 Novembro 2020 18:00","Famalicão","CS Marítimo","2.37","3.15","2.94","1.67","1.80","Mais de2.5","1.20","3.15","Mais de1.5","2.62","1.30","Mais de3.5","1.53","2.04","Ambas Equipas Marcam (Sim/Não)","1.35","1.26","1.50","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604186396-48","https://www.betano.pt/sport/futebol/inglaterra/championship/2r/","Reading
+              
+                Preston","https://www.betano.pt/odds/reading-preston/6713892/","Championship","Quarta-feira, 4 Novembro 2020 19:00","Reading","Preston","2.62","2.76","2.82","1.95","1.57","Mais de2.5","1.30","2.63","Mais de1.5","3.25","1.19","Mais de3.5","1.67","1.80","Ambas Equipas Marcam (Sim/Não)","1.36","1.33","1.42","1X","12","2X","Sábado, 31 Outubro 2020 23:19","null"
+"1604187100-131","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Manchester United
+              
+                Arsenal
+                SO","https://www.betano.pt/odds/manchester-united-arsenal/6422372/","Premier League","Domingo, 1 Novembro 2020 16:30","Manchester United","Arsenal","2.13","3.79","3.72","1.63","1.95","Mais de2.5","1.19","3.45","Mais de1.5","2.54","1.36","Mais de3.5","1.53","2.11","Ambas Equipas Marcam (Sim/Não)","1.27","1.24","1.70","1X","12","2X","Sábado, 31 Outubro 2020 23:29","SO"
+"1604186800-95","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","CD Tondela
+              
+                CD Santa Clara","https://www.betano.pt/odds/cd-tondela-cd-santa-clara/6930464/","Primeira Liga","Sábado, 7 Novembro 2020 15:00","CD Tondela","CD Santa Clara","2.40","3.25","2.82","1.95","1.57","Mais de2.5","1.30","2.63","Mais de1.5","3.40","1.17","Mais de3.5","1.75","1.72","Ambas Equipas Marcam (Sim/Não)","1.38","1.25","1.50","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604187022-121","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","West Ham
+              
+                Fulham","https://www.betano.pt/odds/west-ham-fulham/6493647/","Premier League","Sábado, 7 Novembro 2020 20:00","West Ham","Fulham","1.91","3.60","3.60","1.72","1.83","Mais de2.5","1.21","3.30","Mais de1.5","2.80","1.30","Mais de3.5","1.65","1.91","Ambas Equipas Marcam (Sim/Não)","1.25","1.22","1.80","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186850-101","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","Portimonense
+              
+                CD Santa Clara","https://www.betano.pt/odds/portimonense-cd-santa-clara/6879516/","Primeira Liga","Domingo, 1 Novembro 2020 15:00","Portimonense","CD Santa Clara","2.16","3.05","3.45","2.02","1.53","Mais de2.5","1.33","2.52","Mais de1.5","3.45","1.16","Mais de3.5","1.78","1.70","Ambas Equipas Marcam (Sim/Não)","1.27","1.27","1.61","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604186754-89","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","FC Porto
+              
+                Portimonense","https://www.betano.pt/odds/fc-porto-portimonense/6930470/","Primeira Liga","Domingo, 8 Novembro 2020 17:30","FC Porto","Portimonense","1.20","6.15","11.75","2.05","1.50","Mais de3.5","1.10","4.15","Mais de1.5","1.42","2.25","Mais de2.5","1.91","1.60","Ambas Equipas Marcam (Sim/Não)","1.02","1.09","4.00","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604187092-130","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Tottenham
+              
+                Brighton","https://www.betano.pt/odds/tottenham-brighton/6457874/","Premier League","Domingo, 1 Novembro 2020 19:15","Tottenham","Brighton","1.61","3.85","5.00","1.60","2.00","Mais de2.5","1.18","3.55","Mais de1.5","2.45","1.38","Mais de3.5","1.60","2.00","Ambas Equipas Marcam (Sim/Não)","1.14","1.20","2.16","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186793-94","https://www.betano.pt/sport/futebol/portugal/primeira-liga/17083/","Moreirense FC
+              
+                FC Paços Ferreira","https://www.betano.pt/odds/moreirense-fc-fc-pacos-ferreira/6930463/","Primeira Liga","Sábado, 7 Novembro 2020 15:30","Moreirense FC","FC Paços Ferreira","2.30","3.00","3.20","2.10","1.47","Mais de2.5","1.36","2.40","Mais de1.5","3.65","1.14","Mais de3.5","1.80","1.67","Ambas Equipas Marcam (Sim/Não)","1.30","1.28","1.55","1X","12","2X","Sábado, 31 Outubro 2020 23:25","null"
+"1604186451-55","https://www.betano.pt/sport/futebol/inglaterra/championship/2r/","Brentford FC
+              
+                Swansea City","https://www.betano.pt/odds/brentford-fc-swansea-city/6704630/","Championship","Terça-feira, 3 Novembro 2020 19:00","Brentford FC","Swansea City","1.95","3.30","3.45","1.87","1.63","Mais de2.5","1.26","2.80","Mais de1.5","3.10","1.21","Mais de3.5","1.70","1.78","Ambas Equipas Marcam (Sim/Não)","1.25","1.23","1.72","1X","12","2X","Sábado, 31 Outubro 2020 23:19","null"
+"1604186546-65","https://www.betano.pt/sport/futebol/russia/premier-liga/17098r/","Tambov
+              
+                FC Akhmat Grozny","https://www.betano.pt/odds/tambov-fc-akhmat-grozny/6740423/","Premier Liga","Sábado, 7 Novembro 2020 16:00","Tambov","FC Akhmat Grozny","3.60","2.96","2.05","1.95","1.55","Mais de2.5","1.30","2.58","Mais de1.5","3.20","1.18","Mais de3.5","1.70","1.75","Ambas Equipas Marcam (Sim/Não)","1.65","1.28","1.24","1X","12","2X","Sábado, 31 Outubro 2020 23:21","null"
+"1604186514-61","https://www.betano.pt/sport/futebol/russia/premier-liga/17098r/","Dinamo Moscovo
+              
+                Lokomotiv Moscovo","https://www.betano.pt/odds/dinamo-moscovo-lokomotiv-moscovo/6750099/","Premier Liga","Domingo, 8 Novembro 2020 16:00","Dinamo Moscovo","Lokomotiv Moscovo","2.37","2.80","3.10","2.18","1.42","Mais de2.5","1.38","2.30","Mais de1.5","3.80","1.12","Mais de3.5","1.83","1.63","Ambas Equipas Marcam (Sim/Não)","1.30","1.32","1.50","1X","12","2X","Sábado, 31 Outubro 2020 23:21","null"
+"1604186315-39","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Angers
+              
+                Nice","https://www.betano.pt/odds/angers-nice/6686769/","Ligue 1","Domingo, 1 Novembro 2020 14:00","Angers","Nice","2.20","3.20","3.20","1.87","1.63","Mais de2.5","1.27","2.76","Mais de1.5","3.10","1.21","Mais de3.5","1.65","1.83","Ambas Equipas Marcam (Sim/Não)","1.31","1.26","1.57","1X","12","2X","Sábado, 31 Outubro 2020 23:16","null"
+"1604186125-16","https://www.betano.pt/sport/futebol/alemanha/bundesliga/216r/","Wolfsburgo
+              
+                Hoffenheim","https://www.betano.pt/odds/wolfsburgo-hoffenheim/6886188/","Bundesliga","Domingo, 8 Novembro 2020 14:30","Wolfsburgo","Hoffenheim","2.13","3.35","3.20","1.55","2.05","Mais de2.5","1.16","3.75","Mais de1.5","2.30","1.44","Mais de3.5","1.45","2.25","Ambas Equipas Marcam (Sim/Não)","1.30","1.25","1.63","1X","12","2X","Sábado, 31 Outubro 2020 23:15","null"
+"1604186190-24","https://www.betano.pt/sport/futebol/alemanha/bundesliga/216r/","Hoffenheim
+              
+                1. FC Union Berlin","https://www.betano.pt/odds/hoffenheim-1-fc-union-berlin/6710252/","Bundesliga","Segunda-feira, 2 Novembro 2020 19:30","Hoffenheim","1. FC Union Berlin","1.91","3.55","3.65","1.55","2.05","Mais de2.5","1.16","3.75","Mais de1.5","2.33","1.42","Mais de3.5","1.47","2.20","Ambas Equipas Marcam (Sim/Não)","1.24","1.23","1.80","1X","12","2X","Sábado, 31 Outubro 2020 23:15","null"
+"1604186586-70","https://www.betano.pt/sport/futebol/russia/premier-liga/17098r/","Rotor Volgograd
+              
+                CSKA Moscovo","https://www.betano.pt/odds/rotor-volgograd-cska-moscovo/6684730/","Premier Liga","Domingo, 1 Novembro 2020 13:30","Rotor Volgograd","CSKA Moscovo","6.55","4.30","1.40","1.72","1.72","Mais de2.5","1.21","3.00","Mais de1.5","2.82","1.24","Mais de3.5","1.95","1.55","Ambas Equipas Marcam (Sim/Não)","2.68","1.13","1.07","1X","12","2X","Sábado, 31 Outubro 2020 23:21","null"
+"1604186388-47","https://www.betano.pt/sport/futebol/inglaterra/championship/2r/","Birmingham
+              
+                Wycombe","https://www.betano.pt/odds/birmingham-wycombe/6713847/","Championship","Quarta-feira, 4 Novembro 2020 19:45","Birmingham","Wycombe","1.70","3.25","4.95","1.95","1.57","Mais de2.5","1.30","2.62","Mais de1.5","3.30","1.18","Mais de3.5","1.85","1.65","Ambas Equipas Marcam (Sim/Não)","1.13","1.24","2.00","1X","12","2X","Sábado, 31 Outubro 2020 23:19","null"
+"1604186570-68","https://www.betano.pt/sport/futebol/russia/premier-liga/17098r/","PFC Sochi
+              
+                FC Ufa","https://www.betano.pt/odds/pfc-sochi-fc-ufa/6730576/","Premier Liga","Sexta-feira, 6 Novembro 2020 16:00","PFC Sochi","FC Ufa","1.57","3.25","6.35","1.44","2.14","Mais de1.5","2.35","1.36","Mais de2.5","4.25","1.08","Mais de3.5","2.30","1.38","Ambas Equipas Marcam (Sim/Não)","1.07","1.25","2.19","1X","12","2X","Sábado, 31 Outubro 2020 23:21","null"
+"1604186646-76","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Real Sociedad
+              
+                Granada CF","https://www.betano.pt/odds/real-sociedad-granada-cf/6903491/","LaLiga","Domingo, 8 Novembro 2020 15:15","Real Sociedad","Granada CF","1.80","3.55","4.10","1.80","1.75","Mais de2.5","1.25","3.05","Mais de1.5","2.96","1.26","Mais de3.5","1.70","1.85","Ambas Equipas Marcam (Sim/Não)","1.20","1.23","1.90","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604186165-21","https://www.betano.pt/sport/futebol/alemanha/bundesliga/216r/","1. FC Union Berlin
+              
+                Arminia Bielefeld","https://www.betano.pt/odds/1-fc-union-berlin-arminia-bielefeld/6886182/","Bundesliga","Sábado, 7 Novembro 2020 14:30","1. FC Union Berlin","Arminia Bielefeld","1.91","3.55","3.65","1.70","1.85","Mais de2.5","1.21","3.30","Mais de1.5","2.76","1.30","Mais de3.5","1.63","1.95","Ambas Equipas Marcam (Sim/Não)","1.24","1.22","1.78","1X","12","2X","Sábado, 31 Outubro 2020 23:15","null"
+"1604186116-15","https://www.betano.pt/sport/futebol/alemanha/bundesliga/216r/","Bayer Leverkusen
+              
+                Borussia Mönchengladbach","https://www.betano.pt/odds/bayer-leverkusen-borussia-monchengladbach/6886187/","Bundesliga","Domingo, 8 Novembro 2020 17:00","Bayer Leverkusen","Borussia Mönchengladbach","2.19","3.25","3.15","1.57","2.02","Mais de2.5","1.17","3.65","Mais de1.5","2.40","1.40","Mais de3.5","1.47","2.20","Ambas Equipas Marcam (Sim/Não)","1.31","1.26","1.60","1X","12","2X","Sábado, 31 Outubro 2020 23:15","null"
+"1604186975-116","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Spezia
+              
+                Juventus","https://www.betano.pt/odds/spezia-juventus/6850075/","Série A","Domingo, 1 Novembro 2020 14:00","Spezia","Juventus","8.50","5.10","1.31","1.50","2.15","Mais de2.5","1.14","3.95","Mais de1.5","2.25","1.45","Mais de3.5","1.83","1.72","Ambas Equipas Marcam (Sim/Não)","3.20","1.14","1.04","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604187107-132","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Newcastle
+              
+                Everton","https://www.betano.pt/odds/newcastle-everton/6457868/","Premier League","Domingo, 1 Novembro 2020 14:00","Newcastle","Everton","3.45","3.30","2.05","1.75","1.80","Mais de2.5","1.23","3.15","Mais de1.5","2.82","1.28","Mais de3.5","1.61","1.95","Ambas Equipas Marcam (Sim/Não)","1.70","1.25","1.27","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186257-32","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","RC Lens
+              
+                Stade Reims","https://www.betano.pt/odds/rc-lens-stade-reims/6751305/","Ligue 1","Domingo, 8 Novembro 2020 14:00","RC Lens","Stade Reims","2.00","3.25","3.65","1.20","1.63","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:16","null"
+"1604187037-123","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","West Brom
+              
+                Tottenham","https://www.betano.pt/odds/west-brom-tottenham/6493641/","Premier League","Sábado, 7 Novembro 2020 15:00","West Brom","Tottenham","5.85","4.05","1.50","1.61","1.95","Mais de2.5","1.18","3.55","Mais de1.5","2.45","1.38","Mais de3.5","1.67","1.88","Ambas Equipas Marcam (Sim/Não)","2.40","1.17","1.10","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186235-29","https://www.betano.pt/sport/futebol/franca/ligue-1/215r/","Nimes
+              
+                Angers","https://www.betano.pt/odds/nimes-angers/6751310/","Ligue 1","Domingo, 8 Novembro 2020 14:00","Nimes","Angers","2.40","3.20","2.86","1.31","1.45","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:16","null"
+"1604187014-120","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Leicester
+              
+                Wolverhampton","https://www.betano.pt/odds/leicester-wolverhampton/6422370/","Premier League","Domingo, 8 Novembro 2020 14:00","Leicester","Wolverhampton","2.18","3.10","3.35","2.02","1.57","Mais de2.5","1.33","2.63","Mais de1.5","3.50","1.18","Mais de3.5","1.78","1.75","Ambas Equipas Marcam (Sim/Não)","1.28","1.28","1.61","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186693-82","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Elche CF
+              
+                Celta de Vigo","https://www.betano.pt/odds/elche-cf-celta-de-vigo/6903485/","LaLiga","Sexta-feira, 6 Novembro 2020 20:00","Elche CF","Celta de Vigo","3.15","3.00","2.33","1.44","2.30","Mais de1.5","2.35","1.42","Mais de2.5","4.30","1.11","Mais de3.5","1.95","1.61","Ambas Equipas Marcam (Sim/Não)","1.53","1.31","1.31","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604186982-117","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Udinese
+              
+                AC Milão","https://www.betano.pt/odds/udinese-ac-milao/6850074/","Série A","Domingo, 1 Novembro 2020 11:30","Udinese","AC Milão","4.20","3.70","1.75","1.57","2.02","Mais de2.5","1.17","3.60","Mais de1.5","2.45","1.38","Mais de3.5","1.55","2.05","Ambas Equipas Marcam (Sim/Não)","1.95","1.21","1.18","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186896-106","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Parma
+              
+                Fiorentina","https://www.betano.pt/odds/parma-fiorentina/6912563/","Série A","Sábado, 7 Novembro 2020 19:45","Parma","Fiorentina","3.40","3.65","1.95","1.50","2.13","Mais de2.5","1.15","3.85","Mais de1.5","2.25","1.45","Mais de3.5","1.45","2.25","Ambas Equipas Marcam (Sim/Não)","1.75","1.21","1.27","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604186021-4","https://www.betano.pt/sport/futebol/holanda/eredivisie/17067r/","Vitesse
+              
+                FC Emmen","https://www.betano.pt/odds/vitesse-fc-emmen/6742883/","Eredivisie","Domingo, 8 Novembro 2020 13:30","Vitesse","FC Emmen","1.38","4.40","7.75","1.02","2.60","1X","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","Sábado, 31 Outubro 2020 23:13","null"
+"1604186953-113","https://www.betano.pt/sport/futebol/italia/serie-a/1635/","Nápoles
+              
+                Sassuolo","https://www.betano.pt/odds/napoles-sassuolo/6850078/","Série A","Domingo, 1 Novembro 2020 17:00","Nápoles","Sassuolo","1.40","4.90","6.15","1.80","1.75","Mais de3.5","1.07","5.15","Mais de1.5","1.31","2.72","Mais de2.5","1.45","2.25","Ambas Equipas Marcam (Sim/Não)","1.09","1.11","2.74","1X","12","2X","Sábado, 31 Outubro 2020 23:27","null"
+"1604187069-127","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Brighton
+              
+                Burnley","https://www.betano.pt/odds/brighton-burnley/6457876/","Premier League","Sexta-feira, 6 Novembro 2020 17:30","Brighton","Burnley","1.83","3.45","4.10","1.80","1.75","Mais de2.5","1.25","3.05","Mais de1.5","2.92","1.27","Mais de3.5","1.67","1.87","Ambas Equipas Marcam (Sim/Não)","1.20","1.23","1.87","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"
+"1604186602-72","https://www.betano.pt/sport/futebol/russia/premier-liga/17098r/","FC Ufa
+              
+                Ural Sverdlovskaya Oblast","https://www.betano.pt/odds/fc-ufa-ural-sverdlovskaya-oblast/6684731/","Premier Liga","Domingo, 1 Novembro 2020 09:00","FC Ufa","Ural Sverdlovskaya Oblast","2.63","2.74","2.82","1.47","2.10","Mais de1.5","2.45","1.33","Mais de2.5","4.40","1.07","Mais de3.5","2.00","1.53","Ambas Equipas Marcam (Sim/Não)","1.36","1.33","1.42","1X","12","2X","Sábado, 31 Outubro 2020 23:21","null"
+"1604186522-62","https://www.betano.pt/sport/futebol/russia/premier-liga/17098r/","Zenit São Petersburgo
+              
+                Krasnodar","https://www.betano.pt/odds/zenit-sao-petersburgo-krasnodar/6750098/","Premier Liga","Domingo, 8 Novembro 2020 16:00","Zenit São Petersburgo","Krasnodar","1.72","3.40","4.45","1.65","1.80","Mais de2.5","1.19","3.15","Mais de1.5","2.56","1.30","Mais de3.5","1.57","1.90","Ambas Equipas Marcam (Sim/Não)","1.16","1.21","1.95","1X","12","2X","Sábado, 31 Outubro 2020 23:21","null"
+"1604186412-50","https://www.betano.pt/sport/futebol/inglaterra/championship/2r/","Cardiff
+              
+                Barnsley FC","https://www.betano.pt/odds/cardiff-barnsley-fc/6704631/","Championship","Terça-feira, 3 Novembro 2020 19:45","Cardiff","Barnsley FC","2.10","3.20","3.20","1.87","1.63","Mais de2.5","1.27","2.78","Mais de1.5","3.10","1.21","Mais de3.5","1.67","1.80","Ambas Equipas Marcam (Sim/Não)","1.28","1.24","1.63","1X","12","2X","Sábado, 31 Outubro 2020 23:19","null"
+"1604186716-85","https://www.betano.pt/sport/futebol/espanha/laliga/5/","Granada CF
+              
+                Levante","https://www.betano.pt/odds/granada-cf-levante/6830252/","LaLiga","Domingo, 1 Novembro 2020 17:30","Granada CF","Levante","2.25","3.15","3.15","2.00","1.60","Mais de2.5","1.32","2.67","Mais de1.5","3.45","1.19","Mais de3.5","1.75","1.80","Ambas Equipas Marcam (Sim/Não)","1.31","1.28","1.57","1X","12","2X","Sábado, 31 Outubro 2020 23:23","null"
+"1604187077-128","https://www.betano.pt/sport/futebol/inglaterra/premier-league/1/","Leeds United
+              
+                Leicester","https://www.betano.pt/odds/leeds-united-leicester/6685617/","Premier League","Segunda-feira, 2 Novembro 2020 20:00","Leeds United","Leicester","2.45","3.40","2.62","1.65","1.91","Mais de2.5","1.20","3.40","Mais de1.5","2.60","1.35","Mais de3.5","1.53","2.12","Ambas Equipas Marcam (Sim/Não)","1.42","1.24","1.47","1X","12","2X","Sábado, 31 Outubro 2020 23:29","null"

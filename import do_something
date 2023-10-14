@@ -1,0 +1,21 @@
+import do_something
+import time
+import multiprocessing as mp
+
+#if __name__=="__main__":
+start_time = time.time()
+p1=mp.Process(target=do_something,args=[2])
+p2=mp.Process(target=do_something,args=[2])
+p1.start()
+p2.start()
+p1.join()
+p2.join()
+print("--- %s seconds ---" % (time.time() - start_time))
+
+
+
+
+
+
+
+

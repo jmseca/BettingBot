@@ -1,0 +1,36 @@
+League,Date,Time,HT,AT,ODDH,ODDD,ODDA,ODD_25+,ODD_25-,ODD_BthScore_Yes,ODD_BthScore_No,ODD_1X,ODD_12,ODD_X2,Scrape_Date,Scrape_Time
+Serie_A,2020-07-28,1830,Parma,Atalanta,6.25,5.2,1.47,1.35,2.72,1.47,2.2,2.58,1.12,1.11,2020-07-28,1511
+Serie_A,2020-07-28,2045,Inter de Milao,Napoles,2.13,3.88,3.63,1.63,2.0,1.50,2.13,1.28,1.23,1.7,2020-07-28,1511
+MLS,2020-07-29,100,Columbus Crew,Minnesota United,2.0,3.45,3.45,None,None,None,None,None,None,None,2020-07-28,1510
+MLS,2020-07-29,330,Portland Timbers,FC Cincinnati,1.75,3.75,4.15,None,None,None,None,None,None,None,2020-07-28,1510
+Serie_A,2020-07-29,1830,Sampdoria,AC Milao,5.05,4.0,1.57,1.53,2.1,1.55,2.05,2.20,1.18,1.14,2020-07-28,1511
+Serie_A,2020-07-29,1830,Hellas Verona,Spal,1.5,4.35,5.4,1.53,2.1,1.65,1.91,1.12,1.15,2.4,2020-07-28,1511
+Serie_A,2020-07-29,1830,Lazio,Brescia Calcio,1.17,7.35,11.5,1.22,3.2,1.67,1.88,1.02,1.08,4.45,2020-07-28,1511
+Serie_A,2020-07-29,1830,Sassuolo,Genova,2.25,3.45,2.9,1.50,2.14,1.42,2.35,1.36,1.23,1.57,2020-07-28,1511
+Serie_A,2020-07-29,1830,Udinese,US Lecce,2.18,3.55,2.94,1.50,2.14,1.44,2.3,1.35,1.22,1.61,2020-07-28,1511
+Championship,2020-07-29,1945,Brentford FC,Swansea City,1.55,4.0,5.45,None,None,None,None,None,None,None,2020-07-28,1506
+Serie_A,2020-07-29,2045,Torino,AS Roma,4.55,4.15,1.61,1.45,2.25,1.50,2.19,2.16,1.17,1.17,2020-07-28,1511
+Serie_A,2020-07-29,2045,Fiorentina,Bolonha,2.0,3.5,3.45,1.55,2.05,1.47,2.2,1.27,1.23,1.72,2020-07-28,1511
+Serie_A,2020-07-29,2045,Cagliari,Juventus,5.3,4.0,1.55,1.55,2.05,1.60,2.0,2.25,1.17,1.12,2020-07-28,1511
+Championship,2020-07-30,1945,Fulham,Cardiff,2.0,3.35,3.55,None,None,None,None,None,None,None,2020-07-28,1506
+MLS,2020-07-31,100,Philadelphia Union,Sporting Kansas City,3.05,3.75,2.05,None,None,None,None,None,None,None,2020-07-28,1510
+Premiership,2020-08-01,1230,Aberdeen FC,Rangers,6.65,4.4,1.42,1.60,1.9,1.75,1.72,2.64,1.14,1.07,2020-07-28,1507
+Premiership,2020-08-01,1500,Hibernian FC,Kilmarnock FC,2.05,3.35,3.35,1.85,1.65,1.67,1.8,1.28,1.24,1.67,2020-07-28,1507
+Premiership,2020-08-01,1500,Dundee United,FC St Johnstone,2.72,3.05,2.6,2.02,1.53,1.72,1.75,1.44,1.27,1.4,2020-07-28,1507
+Premiership,2020-08-01,1500,St Mirren,Livingston FC,2.9,3.15,2.4,2.02,1.53,1.75,1.72,1.50,1.26,1.36,2020-07-28,1507
+Premiership,2020-08-02,1630,Celtic,Hamilton Academical,1.09,9.0,20.5,1.28,2.67,2.20,1.44,-,1.04,6.2,2020-07-28,1507
+Premiership,2020-08-03,1945,Ross County,Motherwell FC,3.0,3.35,2.25,1.83,1.65,1.65,1.83,1.57,1.24,1.33,2020-07-28,1507
+Liga_Europa,2020-08-05,1755,FC Copenhagen,Istanbul Basaksehir,2.2,3.2,3.15,None,None,None,None,None,None,None,2020-07-28,1508
+Liga_Europa,2020-08-05,1755,Shakhtar Donetsk,Wolfsburgo,2.4,3.4,2.7,None,None,None,None,None,None,None,2020-07-28,1508
+Liga_Europa,2020-08-05,2000,Inter de Milao,Getafe,1.95,3.3,3.8,None,None,None,None,None,None,None,2020-07-28,1508
+Liga_Europa,2020-08-05,2000,Manchester United,Linz,1.28,5.45,8.5,None,None,None,None,None,None,None,2020-07-28,1508
+Liga_Europa,2020-08-06,1755,Sevilha,AS Roma,2.15,3.2,3.3,None,None,None,None,None,None,None,2020-07-28,1508
+Liga_Europa,2020-08-06,1755,Bayer Leverkusen,Rangers,1.67,3.85,4.5,None,None,None,None,None,None,None,2020-07-28,1508
+Liga_Europa,2020-08-06,2000,Basileia,Eintracht Frankfurt,2.5,3.4,2.58,None,None,None,None,None,None,None,2020-07-28,1508
+Liga_Europa,2020-08-06,2000,Wolverhampton,Olympiacos,1.8,3.35,4.45,None,None,None,None,None,None,None,2020-07-28,1508
+Champions,2020-08-07,2000,Manchester City,Real Madrid,1.67,4.2,4.05,None,None,None,None,None,None,None,2020-07-28,1509
+Champions,2020-08-07,2000,Juventus,Lyon,1.4,4.55,6.7,None,None,None,None,None,None,None,2020-07-28,1509
+Champions,2020-08-08,2000,Bayern Munique,Chelsea,1.55,4.25,5.1,None,None,None,None,None,None,None,2020-07-28,1509
+Champions,2020-08-08,2000,Barcelona,Napoles,1.6,3.75,5.35,None,None,None,None,None,None,None,2020-07-28,1509
+Champions,2020-08-12,2000,Atalanta,PSG,2.76,3.65,2.25,None,None,None,None,None,None,None,2020-07-28,1509
+Champions,2020-08-13,2000,RB Leipzig,Atletico de Madrid,3.25,3.15,2.2,None,None,None,None,None,None,None,2020-07-28,1509

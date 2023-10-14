@@ -1,0 +1,9 @@
+
+-Como para épocas antigas, há casas de apostas q às vezes não tinham Odds para ceros jogos e 
+a própria folha não diz as médias, decidi, por agr, não usar esses dados.
+Vão ficar em standby. (Vou assinalar com "----" os ficheiros onde começa a ter média)
+
+- Tenho de atualizar a função date, para funcionar com folhas q já estão só em datetime certa
+
+- adicionar um parâmetro ao check_wrongdate: para também ver se acontecesse porcaria qnd temos uma str
+e o parâmetro atrás é datetime

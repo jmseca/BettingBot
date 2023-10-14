@@ -1,0 +1,63 @@
+HT,AT,League,Date,FTHG,FTAG,HxG,AxG,HShots,AShots,HST,AST,HDEEP,ADEEP,HPPDA,APPDA,HxPTS,AxPTS
+Burnley,Tottenham,Premier_League,2020-10-26,0,1,0.95,0.8,13,9,4,3,4,6,14.87,9.78,1.46,1.2
+Burnley,Chelsea,Premier_League,2020-10-31,0,3,0.41,1.23,5,14,0,9,1,12,16.92,8.96,0.6,2.11
+Newcastle United,Everton,Premier_League,2020-11-01,2,1,2.63,1.22,11,15,4,4,5,8,34.25,8.79,2.45,0.39
+Schalke 04,VfB Stuttgart,Bundesliga,2020-10-30,1,1,0.73,1.57,9,20,2,8,2,10,8.93,6.93,0.63,2.1
+Manchester United,Arsenal,Premier_League,2020-11-01,0,1,0.39,1.0,8,7,2,2,10,7,17.65,11.85,0.62,2.06
+Nantes,Paris Saint Germain,Ligue_1,2020-10-31,0,3,1.63,2.73,6,13,1,4,4,8,24.52,12.52,0.6,2.19
+Celta Vigo,Real Sociedad,La_Liga,2020-11-01,1,4,2.12,2.28,9,9,2,7,5,7,7.62,6.39,1.24,1.48
+Angers,Nice,Ligue_1,2020-11-01,0,3,0.4,2.78,11,12,5,5,7,6,7.85,13.95,0.07,2.89
+Athletic Club,Sevilla,La_Liga,2020-10-31,2,1,1.33,1.15,16,7,5,3,3,6,13.5,6.39,1.52,1.17
+Wolverhampton Wanderers,Crystal Palace,Premier_League,2020-10-30,2,0,1.35,0.8,15,11,5,2,8,4,13.85,16.71,1.82,0.89
+Udinese,AC Milan,Serie_A,2020-11-01,1,2,0.96,1.02,9,12,2,4,4,9,14.21,8.43,1.3,1.33
+Sampdoria,Genoa,Serie_A,2020-11-01,1,1,0.86,1.18,9,11,3,4,7,5,7.48,13.04,1.05,1.64
+Villarreal,Real Valladolid,La_Liga,2020-11-02,2,0,1.85,0.79,11,11,5,1,6,3,7.13,10.79,2.23,0.56
+Dijon,Lorient,Ligue_1,2020-11-01,0,0,0.38,1.15,11,9,2,1,3,3,10.25,10.46,0.52,2.2
+Osasuna,Atletico Madrid,La_Liga,2020-10-31,1,3,1.43,3.06,8,11,3,6,2,9,16.55,10.36,0.35,2.5
+FC Rotor Volgograd,CSKA Moscow,RFPL,2020-11-01,0,1,0.26,1.44,7,22,2,6,1,14,27.54,6.38,0.43,2.33
+FC Ufa,Ural,RFPL,2020-11-01,1,2,0.63,1.88,13,11,3,5,7,6,9.71,7.11,0.41,2.41
+Real Betis,Elche,La_Liga,2020-11-01,3,1,3.06,0.48,17,4,10,2,13,2,8.76,29.14,2.85,0.09
+Rubin Kazan,Arsenal Tula,RFPL,2020-10-31,3,1,2.53,0.53,16,17,3,4,6,10,19.5,8.35,2.69,0.21
+Roma,Fiorentina,Serie_A,2020-11-01,2,0,3.63,0.37,17,8,6,1,9,3,9.69,7.18,2.94,0.03
+FC Cologne,Bayern Munich,Bundesliga,2020-10-31,1,2,0.68,0.99,10,6,2,4,2,9,28.86,5.75,0.91,1.72
+Real Madrid,SD Huesca,La_Liga,2020-10-31,4,1,2.24,0.8,13,9,6,2,9,0,9.3,20.56,2.41,0.42
+Monaco,Bordeaux,Ligue_1,2020-11-01,4,0,3.94,0.2,17,5,6,0,10,5,11.52,21.57,2.99,0.0
+Freiburg,Bayer Leverkusen,Bundesliga,2020-11-01,2,4,1.18,1.34,8,18,5,7,4,5,22.44,12.42,1.24,1.46
+Spartak Moscow,FC Rostov,RFPL,2020-10-31,0,1,1.09,0.28,11,8,2,1,7,0,4.71,7.91,2.15,0.55
+Khimki,Zenit St. Petersburg,RFPL,2020-11-01,0,2,0.7,1.41,11,9,5,2,5,6,17.4,12.0,0.69,2.03
+Napoli,Sassuolo,Serie_A,2020-11-01,0,2,2.14,1.52,22,8,6,4,9,2,16.18,25.22,1.8,0.94
+Eintracht Frankfurt,Werder Bremen,Bundesliga,2020-10-31,1,1,2.49,0.73,15,11,5,4,8,1,5.04,31.15,2.53,0.33
+Bayer Leverkusen,Augsburg,Bundesliga,2020-10-26,3,1,2.63,0.34,16,6,8,3,6,3,7.5,19.88,2.85,0.09
+Lille,Lyon,Ligue_1,2020-11-01,1,1,0.44,0.42,15,8,6,1,9,6,7.94,13.8,1.25,1.25
+Tottenham,Brighton,Premier_League,2020-11-01,2,1,1.97,0.32,9,6,3,2,3,7,9.57,14.79,2.69,0.19
+PFC Sochi,Lokomotiv Moscow,RFPL,2020-10-31,2,1,1.1,0.29,14,9,4,2,1,7,26.0,8.06,2.08,0.6
+CSKA Moscow,Arsenal Tula,RFPL,2020-10-26,5,1,2.66,0.84,23,6,8,2,21,4,8.33,17.73,2.6,0.26
+Borussia M.Gladbach,RasenBallsport Leipzig,Bundesliga,2020-10-31,1,0,0.62,0.7,5,15,3,3,6,5,11.46,10.06,1.24,1.35
+FK Akhmat,FC Krasnodar,RFPL,2020-10-31,2,0,1.59,0.21,11,9,6,2,3,6,8.8,8.73,2.69,0.18
+Verona,Benevento,Serie_A,2020-11-02,3,1,2.52,1.6,14,15,6,5,8,5,7.0,6.12,2.03,0.76
+Alaves,Barcelona,La_Liga,2020-10-31,1,1,1.11,2.08,4,25,3,9,0,24,21.22,5.88,0.68,2.07
+Fulham,West Bromwich Albion,Premier_League,2020-11-02,2,0,1.62,0.48,13,10,6,1,4,3,12.48,5.05,2.34,0.46
+Eibar,Cadiz,La_Liga,2020-10-30,0,2,0.47,0.93,9,6,3,4,3,3,4.69,21.75,0.82,1.83
+Crotone,Atalanta,Serie_A,2020-10-31,1,2,0.52,3.5,6,19,1,6,0,16,13.67,5.24,0.07,2.89
+Saint-Etienne,Montpellier,Ligue_1,2020-11-01,0,1,0.48,0.94,8,10,0,2,5,7,8.56,12.62,0.88,1.77
+Brighton,West Bromwich Albion,Premier_League,2020-10-26,1,1,0.55,0.3,5,9,3,3,4,4,10.71,14.42,1.58,0.94
+Granada,Levante,La_Liga,2020-11-01,1,1,0.23,0.81,5,19,2,4,4,15,35.17,5.06,0.7,1.88
+Augsburg,Mainz 05,Bundesliga,2020-10-31,3,1,1.79,1.01,13,9,6,4,6,5,16.6,8.2,2.01,0.73
+Inter,Parma Calcio 1913,Serie_A,2020-10-31,2,2,3.05,0.76,25,5,9,3,10,2,4.03,28.11,2.72,0.19
+Bologna,Cagliari,Serie_A,2020-10-31,3,2,1.47,1.27,22,7,9,3,11,9,11.0,6.54,1.5,1.24
+Leeds,Leicester,Premier_League,2020-11-02,1,4,1.75,3.08,11,10,4,8,7,5,6.74,36.9,0.52,2.3
+Liverpool,West Ham,Premier_League,2020-10-31,2,1,1.56,0.27,9,4,5,3,12,0,6.91,35.38,2.56,0.27
+Arminia Bielefeld,Borussia Dortmund,Bundesliga,2020-10-31,0,2,0.26,2.76,5,21,2,10,0,18,26.5,7.57,0.09,2.85
+Valencia,Getafe,La_Liga,2020-11-01,2,2,1.76,2.36,11,16,5,5,4,8,6.72,3.25,0.91,1.85
+Nimes,Metz,Ligue_1,2020-11-01,0,1,0.78,0.86,16,8,2,5,6,1,6.57,15.9,1.22,1.43
+Torino,Lazio,Serie_A,2020-11-01,3,4,2.47,1.76,11,12,4,5,2,9,23.43,7.09,1.93,0.83
+AC Milan,Roma,Serie_A,2020-10-26,3,3,2.82,2.36,13,12,8,7,11,7,13.42,17.0,1.68,1.08
+Levante,Celta Vigo,La_Liga,2020-10-26,1,1,1.19,0.82,10,11,3,3,10,3,6.03,8.41,1.72,0.95
+Aston Villa,Southampton,Premier_League,2020-11-01,3,4,2.45,1.0,19,9,10,4,5,2,7.0,7.45,2.39,0.44
+Hoffenheim,Union Berlin,Bundesliga,2020-11-02,1,3,1.49,3.66,10,9,5,6,15,9,8.0,19.29,0.2,2.71
+Rennes,Brest,Ligue_1,2020-10-31,2,1,1.4,1.04,24,9,8,4,10,3,14.12,27.89,1.59,1.11
+FC Tambov,Dinamo Moscow,RFPL,2020-11-01,1,2,1.79,2.54,6,26,3,10,1,14,16.19,3.89,0.85,1.9
+Spezia,Juventus,Serie_A,2020-11-01,1,4,0.55,2.88,16,7,3,4,4,11,15.08,11.5,0.12,2.81
+Reims,Strasbourg,Ligue_1,2020-11-01,2,1,0.91,1.42,12,8,4,2,6,4,9.0,17.06,0.84,1.86
+Sheffield United,Manchester City,Premier_League,2020-10-31,0,1,0.69,1.9,4,16,1,8,3,9,18.71,15.67,0.42,2.36
+Hertha Berlin,Wolfsburg,Bundesliga,2020-11-01,1,1,1.25,0.4,20,11,5,4,5,7,12.47,6.24,2.09,0.62

@@ -1,0 +1,220 @@
+AAD,ABS,ACCC,ACorn,AF,AOff,AP,APass,AR,AS,ASOT,AST,ASaves,AT,ATack,AY,Attendance,Date,FTAG,FTHG,GameID,HAD,HBS,HCCC,HCorn,HF,HOff,HP,HPass,HR,HS,HSOT,HST,HSaves,HT,HTack,HY,League
+0,1,0,5,13,0,42.6,0,0,9,6,2,5,Livingston,0,1,"15,553.","3:00pm, Saturday 22nd February 2020.",1,1,411385,0,4,0,11,7,0,57.4,0,0,12,2,6,1,Hibernian,0,1, Scottish Premiership
+0,1,0,3,14,0,54.9,0,0,8,2,5,2,Celtic,0,2,"14,135.","12:00pm, Sunday 16th February 2020.",2,1,411376,0,1,0,5,10,0,45.1,0,0,9,5,3,3,Aberdeen,0,2, Scottish Premiership
+0,0,0,2,11,0,59,0,0,8,3,5,1,Ross County,0,1,"14,860.","3:00pm, Saturday 22nd February 2020.",2,1,411382,0,0,0,4,12,0,41,0,1,9,7,2,3,Aberdeen,0,0, Scottish Premiership
+0,1,0,2,9,0,24.9,0,1,3,1,1,10,Kilmarnock,0,1,"58,883.","3:00pm, Sunday 23rd February 2020.",1,3,411383,0,11,0,7,7,0,75.1,0,0,33,9,13,0,Celtic,0,1, Scottish Premiership
+0,3,0,5,15,0,45.8,0,1,11,3,5,3,Motherwell,0,3,"2,531.","3:00pm, Saturday 22nd February 2020.",0,0,411384,0,8,0,5,16,0,54.2,0,0,18,7,3,5,Hamilton Academical,0,2, Scottish Premiership
+0,2,0,6,9,0,49,0,0,9,4,3,5,St Mirren,0,5,"3,636.","7:45pm, Tuesday 25th February 2020.",2,1,411379,0,3,0,11,13,0,51,0,0,14,5,6,1,Motherwell,0,1, Scottish Premiership
+53.5,1,1,3,16,0,32.1,68.6,0,8,6,1,3,Cologne,78.6,2,,"7:30pm, Wednesday 17th June 2020.",1,3,413013,46.5,0,3,7,12,3,67.9,85.2,0,13,7,6,0,Bayer Leverkusen,75,2, German Bundesliga
+66.7,2,0,6,5,1,55.6,82.3,0,12,8,2,3,Reims,75,1,"24,868.","2:00pm, Sunday 23rd February 2020.",1,1,408621,33.3,3,1,8,14,0,44.4,78.7,0,7,0,4,1,St Etienne,58.8,1, French Ligue 1
+44.2,3,1,4,13,0,36.8,67.2,0,13,7,3,1,Reading,64.7,0,,"3:00pm, Saturday 18th July 2020.",3,4,409877,55.8,5,1,5,15,2,63.2,80.5,0,17,7,5,0,Blackburn Rovers,44.4,1, Sky Bet Championship
+40.5,0,2,3,16,7,36.1,74,1,7,2,5,2,Schalke,76.9,3,,"5:30pm, Wednesday 17th June 2020.",1,2,413016,59.5,3,4,5,9,1,63.9,83.6,0,14,7,4,3,Eintracht Frankfurt,64.7,3, German Bundesliga
+0,7,0,6,5,0,70.5,0,0,23,8,8,3,Rangers,0,0,"8,286.","1:30pm, Sunday 23rd February 2020.",2,2,411386,0,1,0,5,9,0,29.5,0,0,9,3,5,6,St. Johnstone,0,1, Scottish Premiership
+57.7,2,2,4,18,0,52,86,0,18,10,6,2,Espanyol,61.5,4,,"8:00pm, Thursday 16th July 2020.",0,1,416011,42.3,4,2,4,9,1,48,84.3,1,9,2,3,6,Valencia,61.5,2, Spanish La Liga
+58.6,4,2,4,6,3,68.9,81,0,14,7,3,1,Brentford,71.4,0,,"12:30pm, Saturday 18th July 2020.",0,1,409886,41.4,2,0,0,14,2,31.1,56.7,0,6,2,2,3,Stoke City,48,2, Sky Bet Championship
+63.3,2,0,6,17,2,48.3,72.6,0,7,5,0,1,New York Red Bulls,71.4,2,,"3:30am, Friday 17th July 2020.",0,2,425341,36.7,1,3,5,14,0,51.7,77,0,11,7,3,0,Columbus Crew,50,2, American MLS League
+51.9,1,1,2,13,3,62.3,83.3,0,8,4,3,4,Sevilla,55.6,2,,"8:00pm, Thursday 16th July 2020.",0,0,416000,48.1,4,1,3,16,1,37.7,75.6,0,11,3,4,3,Real Sociedad,66.7,1, Spanish La Liga
+55.2,8,2,8,16,1,57.7,86.3,0,23,7,8,2,Burnley,53.8,0,,"5:30pm, Saturday 18th July 2020.",2,0,408346,44.8,2,0,6,9,1,42.3,75.4,2,6,2,2,7,Norwich City,66.7,0, Premier League
+61.1,10,0,13,10,0,71,90.4,0,24,8,6,1,Leicester City,50,1,,"4:00pm, Sunday 19th July 2020.",0,3,408348,38.9,3,1,4,15,4,29,71.9,0,7,1,3,6,Tottenham Hotspur,70.6,2, Premier League
+53.8,4,1,5,9,3,50.6,76.4,0,16,9,3,1,Groningen,64.7,4,"13,607.","7:00pm, Friday 28th February 2020.",1,3,408960,46.2,0,2,5,10,3,49.4,74.8,0,9,5,4,2,Willem II,72.2,0, Dutch Eredivisie
+38.9,3,0,1,10,0,29.8,69.9,0,7,3,1,1,Sparta Rotterdam,60,0,"20,624.","11:15am, Sunday 8th March 2020.",1,5,408975,61.1,2,3,7,5,1,70.2,86.3,0,15,7,6,0,FC Utrecht,58.3,0, Dutch Eredivisie
+76.2,1,1,2,19,3,35,73.3,0,9,7,1,7,PEC Zwolle,53.3,2,"15,306.","1:30pm, Sunday 23rd February 2020.",0,2,408952,23.8,3,2,7,11,2,65,82.9,0,17,5,9,1,AZ Alkmaar,68.2,0, Dutch Eredivisie
+47.4,1,1,6,13,1,43.9,78.5,0,15,6,8,4,Vitesse Arnhem,66.7,2,"13,088.","6:45pm, Saturday 29th February 2020.",3,4,408963,52.6,3,2,7,17,3,56.1,82.1,0,15,4,8,5,PEC Zwolle,66.7,0, Dutch Eredivisie
+65.2,6,4,2,8,4,46.6,72.3,0,13,5,2,2,FC Twente,71.4,2,"18,491.","11:15am, Sunday 23rd February 2020.",1,2,408956,34.8,2,0,7,12,2,53.4,79.4,0,13,7,4,1,FC Utrecht,58.3,2, Dutch Eredivisie
+48.4,4,1,8,9,4,39.4,72.6,0,20,5,11,6,Heerenveen,66.7,1,"27,000.","7:45pm, Saturday 29th February 2020.",3,2,408962,51.6,1,1,8,8,0,60.6,82,0,14,5,8,8,FC Twente,55.6,0, Dutch Eredivisie
+40.6,1,5,1,10,1,38.2,77.4,0,12,5,6,5,AZ Alkmaar,52.2,2,"52,707.","7:00pm, Sunday 1st March 2020.",2,0,408965,59.4,6,0,9,4,1,61.8,86.5,0,20,9,5,4,Ajax,50,0, Dutch Eredivisie
+55.6,1,0,4,11,2,58,80.6,0,7,4,2,3,Fortuna Sittard,61.1,3,"7,115.","6:45pm, Saturday 29th February 2020.",0,0,408964,44.4,5,0,2,16,1,42,74,0,13,5,3,2,VVV-Venlo,57.1,2, Dutch Eredivisie
+42.9,3,5,9,5,4,62.5,77.2,0,14,4,7,3,Ajax,65,1,"25,950.","7:45pm, Saturday 7th March 2020.",3,1,408973,57.1,1,1,3,9,2,37.5,69.3,0,8,2,5,4,Heerenveen,52,1, Dutch Eredivisie
+51.6,4,1,9,9,0,73.5,87.1,0,12,5,3,3,Emmen,55.6,2,"10,600.","3:45pm, Sunday 1st March 2020.",1,5,408968,48.4,2,3,2,8,0,26.5,62.9,0,12,3,7,2,Sparta Rotterdam,40,0, Dutch Eredivisie
+37.5,3,1,2,9,2,44.4,73.7,0,12,7,2,3,FC Utrecht,50,0,"5,134.","11:15am, Sunday 1st March 2020.",1,2,408967,62.5,4,1,3,9,0,55.6,80.7,0,14,5,5,0,RKC Waalwijk,75,3, Dutch Eredivisie
+57.6,1,2,4,17,0,54,78.9,0,13,7,5,1,PEC Zwolle,50,2,"10,071.","7:00pm, Friday 6th March 2020.",1,1,408971,42.4,2,0,4,11,1,46,78.3,0,9,5,2,4,Fortuna Sittard,61.5,2, Dutch Eredivisie
+33.3,3,1,8,8,5,49.1,83.1,0,13,4,6,1,Feyenoord,80,2,"35,000.","1:30pm, Sunday 1st March 2020.",1,1,408966,66.7,5,2,3,11,1,50.9,83.1,0,12,5,2,5,PSV Eindhoven,68.8,1, Dutch Eredivisie
+50,4,0,5,20,1,58.5,74.3,0,12,5,3,4,Heracles Almelo,58.3,2,"11,207.","5:30pm, Saturday 29th February 2020.",0,0,408961,50,3,1,4,15,0,41.5,62.6,1,9,2,4,3,ADO Den Haag,61.1,1, Dutch Eredivisie
+36.4,3,1,2,13,3,53.1,76.5,0,8,3,2,1,FC Twente,50,3,"14,210.","6:45pm, Saturday 7th March 2020.",0,1,408972,63.6,2,1,4,16,6,46.9,74.3,0,9,5,2,2,Vitesse Arnhem,65.2,3, Dutch Eredivisie
+46.8,6,0,7,13,3,52.6,76.2,0,16,6,4,1,Atalanta,62.5,1,,"8:45pm, Friday 24th July 2020.",1,1,419429,53.2,4,0,3,17,2,47.4,74.1,0,10,4,2,3,AC Milan,47.1,1, Italian Serie A
+44.4,3,0,4,13,4,40.2,72,0,7,4,0,3,VVV-Venlo,58.8,1,"8,100.","6:45pm, Saturday 7th March 2020.",0,3,408969,55.6,3,5,5,11,2,59.8,79.7,0,17,8,6,0,Emmen,62.5,0, Dutch Eredivisie
+50,1,0,2,9,2,24.2,69.6,0,6,4,1,4,ADO Den Haag,73.3,3,"16,117.","5:30pm, Saturday 7th March 2020.",0,4,408970,50,5,0,6,9,2,75.8,88.3,0,16,3,8,1,AZ Alkmaar,63.6,1, Dutch Eredivisie
+54.8,2,0,6,11,2,43.2,75.6,0,7,3,2,4,PSV Eindhoven,80,0,"19,116.","3:45pm, Sunday 8th March 2020.",1,0,408974,45.2,4,0,11,5,0,56.8,78.9,0,13,5,4,1,Groningen,58.3,1, Dutch Eredivisie
+56.5,1,0,3,12,2,42.2,75.6,0,3,2,0,1,Willem II,68.2,1,"47,500.","1:30pm, Sunday 8th March 2020.",0,2,408976,43.5,4,3,6,15,0,57.8,80.7,0,12,5,3,0,Feyenoord,84.6,4, Dutch Eredivisie
+25,2,0,4,11,2,41.5,76.3,0,11,5,4,6,RKC Waalwijk,52.6,3,"10,412.","1:30pm, Sunday 8th March 2020.",2,4,408977,75,4,8,7,11,3,58.5,82.9,0,23,9,10,2,Heracles Almelo,53.3,2, Dutch Eredivisie
+57.1,0,1,1,19,2,49.4,77.8,0,5,3,2,0,Everton,70,3,,"6:00pm, Monday 20th July 2020.",1,0,408347,42.9,5,0,7,11,1,50.6,78.8,0,8,3,0,1,Sheffield United,64.7,1, Premier League
+45,3,0,2,15,1,46.6,77.7,0,7,1,3,3,Crystal Palace,38.5,1,,"8:15pm, Monday 20th July 2020.",0,2,408350,55,3,2,5,11,0,53.4,81.7,0,11,3,5,3,Wolverhampton Wanderers,50,2, Premier League
+41.4,10,3,8,11,3,76.9,89.9,0,26,6,10,1,Manchester City,45.5,0,,"6:00pm, Tuesday 21st July 2020.",4,0,408349,58.6,0,0,0,14,4,23.1,66.4,0,2,2,0,6,Watford,50,2, Premier League
+52.6,5,3,6,11,1,57,69,0,16,3,8,3,Southampton,54.5,2,,"2:00pm, Sunday 19th July 2020.",2,0,408342,47.4,4,0,12,12,2,43,60.4,0,11,4,3,6,Bournemouth,41.2,2, Premier League
+54.2,3,0,3,9,1,42.8,79.1,0,12,6,3,3,West Ham United,30,1,,"6:00pm, Wednesday 22nd July 2020.",1,1,408345,45.8,2,1,2,10,3,57.2,86.5,0,11,5,4,2,Manchester United,66.7,3, Premier League
+48.3,7,1,7,12,1,37.5,76.5,0,12,4,1,3,Newcastle United,53.3,2,,"6:00pm, Monday 20th July 2020.",0,0,408343,51.7,3,1,9,13,1,62.5,88,0,11,5,3,1,Brighton and Hove Albion,58.3,4, Premier League
+40.5,3,1,7,13,1,37,67.1,0,13,6,4,0,Aston Villa,23.1,1,,"4:00pm, Sunday 26th July 2020.",1,1,408360,59.5,3,0,0,16,0,63,81.5,0,10,6,1,3,West Ham United,53.3,2, Premier League
+53.1,3,0,4,5,1,74.7,89,0,14,5,6,1,Liverpool,41.7,0,,"4:00pm, Sunday 26th July 2020.",3,1,408358,46.9,0,1,2,11,3,25.3,65.5,0,3,1,2,3,Newcastle United,65.2,1, Premier League
+55.9,2,3,1,16,2,27.9,61.9,0,5,0,3,1,Sheffield United,75,1,,"4:00pm, Sunday 26th July 2020.",1,3,408359,44.1,6,0,9,9,2,72.1,85.8,0,13,3,4,2,Southampton,90.9,0, Premier League
+52.2,1,0,3,11,2,54.2,82.2,0,7,3,3,3,Manchester United,57.1,5,,"4:00pm, Sunday 26th July 2020.",2,0,408356,47.8,4,0,3,12,2,45.8,80.9,1,14,7,3,1,Leicester City,47.8,1, Premier League
+51.6,3,1,9,19,1,69,88.4,0,7,4,0,2,Arsenal,100,4,,"8:15pm, Tuesday 21st July 2020.",0,1,408341,48.4,1,1,8,13,1,31,75.8,0,8,4,3,0,Aston Villa,56.3,2, Premier League
+43.8,0,2,0,4,2,26.9,71.6,0,5,1,4,4,Norwich City,35.7,1,,"4:00pm, Sunday 26th July 2020.",0,5,408357,56.3,9,1,9,7,0,73.1,91.6,0,31,12,10,4,Manchester City,66.7,1, Premier League
+51.2,4,1,5,9,1,30,67,0,13,2,7,4,Bournemouth,72.2,0,,"4:00pm, Sunday 26th July 2020.",3,1,408355,48.8,3,2,2,11,0,70,85.7,0,13,5,5,4,Everton,61.5,1, Premier League
+43.3,2,0,2,13,0,52.8,83,0,7,3,2,1,Tottenham Hotspur,80.8,2,,"4:00pm, Sunday 26th July 2020.",1,1,408354,56.7,2,1,7,11,1,47.2,79.9,0,13,9,2,1,Crystal Palace,54.5,3, Premier League
+42.3,0,4,0,11,3,50,83.7,0,10,5,5,2,Chelsea,44.4,0,,"8:15pm, Wednesday 22nd July 2020.",3,5,408344,57.7,1,4,6,8,0,50,81.2,0,10,2,7,2,Liverpool,42.1,1, Premier League
+55.3,3,0,3,16,1,37.1,69.2,0,5,1,1,1,Wolverhampton Wanderers,72.7,3,,"4:00pm, Sunday 26th July 2020.",0,2,408353,44.7,3,1,3,10,3,62.9,82.8,0,11,5,3,1,Chelsea,63.3,2, Premier League
+61,5,2,7,11,2,45.8,77.5,0,15,6,4,1,Brighton and Hove Albion,66.7,0,,"4:00pm, Sunday 26th July 2020.",2,1,408352,39,3,3,6,11,3,54.2,74.9,0,13,8,2,2,Burnley,55,3, Premier League
+41.2,1,1,2,13,1,43.3,85.2,0,8,3,4,5,Villarreal,36.4,2,,"8:00pm, Thursday 16th July 2020.",1,2,415999,58.8,1,1,4,13,2,56.7,88.6,0,12,4,7,3,Real Madrid,53.8,3, Spanish La Liga
+62.2,6,5,8,12,3,48.9,83.7,0,19,7,6,2,Watford,71.4,3,,"4:00pm, Sunday 26th July 2020.",2,3,408351,37.8,4,1,4,9,1,51.1,83.3,0,13,4,5,4,Arsenal,57.1,3, Premier League
+57.4,4,1,6,18,3,47.3,74.4,0,14,4,6,4,Granada,71.4,5,,"8:00pm, Thursday 16th July 2020.",2,1,415997,42.6,6,1,5,14,0,52.7,80.7,2,18,7,5,4,Real Mallorca,55.6,5, Spanish La Liga
+48.8,1,4,6,18,3,27.3,68.9,1,8,3,4,6,Alaves,53.8,4,,"8:00pm, Thursday 16th July 2020.",2,1,415998,51.2,3,3,6,14,2,72.7,87.8,1,14,4,7,2,Real Betis,66.7,6, Spanish La Liga
+38.5,4,3,12,13,4,50.4,68.3,0,17,5,8,4,Real Valladolid,72.7,0,,"5:30pm, Thursday 16th July 2020.",1,3,415995,61.5,1,1,3,19,0,49.6,70,0,13,5,7,8,Eibar,50,4, Spanish La Liga
+44.7,6,3,3,11,1,39.2,76.6,0,16,6,4,3,Leganes,56.3,3,,"8:00pm, Thursday 16th July 2020.",2,0,415992,55.3,2,1,3,11,3,60.8,84.4,1,10,5,3,2,Athletic Bilbao,72.7,2, Spanish La Liga
+44,1,3,4,15,1,42.9,74.5,1,8,3,4,4,Levante,57.1,0,,"8:00pm, Thursday 16th July 2020.",3,2,415994,56,4,2,8,11,3,57.1,80.1,1,17,7,6,1,Celta Vigo,58.3,1, Spanish La Liga
+44.8,0,1,2,14,1,20.4,61.4,1,9,4,5,1,Osasuna,62.5,1,,"8:00pm, Thursday 16th July 2020.",2,1,415993,55.2,4,1,10,7,2,79.6,90,0,18,12,2,3,Barcelona,70,4, Spanish La Liga
+61.1,0,2,2,11,0,64.8,88.9,0,7,3,4,5,Real Madrid,59.1,1,,"8:00pm, Sunday 19th July 2020.",2,2,416006,38.9,4,2,5,9,2,35.2,75.7,0,15,4,7,2,Leganes,55,4, Spanish La Liga
+60,1,1,5,10,1,56.3,84.6,0,12,7,4,3,Real Mallorca,50,0,,"8:00pm, Sunday 19th July 2020.",2,2,416008,40,1,1,3,17,0,43.7,80.1,0,12,6,5,2,Osasuna,73.7,2, Spanish La Liga
+45.9,2,0,7,6,3,37.6,78.9,0,8,4,2,3,Valencia,66.7,1,,"8:00pm, Sunday 19th July 2020.",0,1,416010,54.1,2,1,4,11,1,62.4,87.4,0,16,10,4,2,Sevilla,50,0, Spanish La Liga
+48.4,1,1,4,11,2,50.3,78.5,0,9,5,3,1,Celta Vigo,68.4,3,,"8:00pm, Sunday 19th July 2020.",0,0,416004,51.6,0,0,1,11,6,49.7,75.7,0,8,7,1,3,Espanyol,59.1,2, Spanish La Liga
+50,4,1,8,11,3,43.5,63.7,0,13,5,4,4,Getafe,47.4,4,,"8:00pm, Sunday 19th July 2020.",0,1,416007,50,2,4,6,10,4,56.5,74.3,0,14,7,5,4,Levante,50,2, Spanish La Liga
+49.1,3,1,3,11,4,63.2,77.4,0,11,5,3,5,Atletico Madrid,72.2,2,,"8:00pm, Thursday 16th July 2020.",2,0,415996,50.9,2,0,4,14,2,36.8,62,1,16,8,6,1,Getafe,68.4,1, Spanish La Liga
+51.1,2,0,3,9,0,57,83.8,0,10,5,3,2,Real Sociedad,70,2,,"8:00pm, Sunday 19th July 2020.",1,1,416003,48.9,0,1,2,16,2,43,78.3,0,6,3,3,3,Atletico Madrid,80,1, Spanish La Liga
+45.7,1,1,3,11,0,64,82.1,0,10,6,3,2,Athletic Bilbao,69.2,2,,"8:00pm, Sunday 19th July 2020.",0,4,416005,54.3,2,3,2,9,3,36,68.5,0,11,3,6,3,Granada,45.5,1, Spanish La Liga
+59.3,1,1,4,9,1,30.8,72.2,0,12,7,4,1,Eibar,66.7,0,,"5:30pm, Sunday 19th July 2020.",0,4,416012,40.7,3,6,4,4,3,69.2,90.3,0,12,4,5,3,Villarreal,36.4,0, Spanish La Liga
+50,3,0,5,10,1,71.3,91.3,0,10,4,3,2,Real Betis,77.8,2,,"5:30pm, Sunday 19th July 2020.",0,2,416009,50,3,0,3,17,2,28.7,76.4,0,13,6,4,3,Real Valladolid,66.7,2, Spanish La Liga
+66.7,0,7,1,15,2,68.2,90.9,0,16,8,8,0,Barcelona,66.7,0,,"4:00pm, Sunday 19th July 2020.",5,0,416002,33.3,4,0,2,17,2,31.8,80.1,0,8,4,0,3,Alaves,60,0, Spanish La Liga
+51.4,5,3,6,15,2,55.6,85.4,0,12,3,4,2,Inter Milan,50,3,,"6:30pm, Saturday 25th July 2020.",3,0,419427,48.6,1,0,4,12,0,44.4,79.8,0,9,6,2,1,Genoa,53.8,2, Italian Serie A
+42.9,2,2,3,13,2,58.4,87.7,0,14,6,6,6,Parma,76.9,0,,"4:15pm, Saturday 25th July 2020.",2,1,419425,57.1,1,3,5,15,0,41.6,80.9,0,12,4,7,4,Brescia,56.3,4, Italian Serie A
+53.3,2,5,5,13,1,37.4,81.3,1,14,7,5,4,Sampdoria,100,3,,"8:45pm, Sunday 26th July 2020.",0,2,419428,46.7,2,3,5,17,3,62.6,89.8,0,16,7,7,5,Juventus,55.6,4, Italian Serie A
+47.4,2,0,5,7,1,43.7,77.2,0,13,5,6,3,Lazio,58.8,2,,"6:30pm, Sunday 26th July 2020.",5,1,419433,52.6,5,1,8,16,1,56.3,81.9,0,17,8,4,1,Verona,56.3,2, Italian Serie A
+53.8,4,0,10,17,1,44.4,83.7,0,20,10,6,0,Torino,72.7,3,,"6:30pm, Sunday 26th July 2020.",1,1,419432,46.2,5,0,0,11,1,55.6,84.1,0,7,1,1,5,Spal,66.7,2, Italian Serie A
+44.4,6,1,3,14,2,40.1,80.7,0,10,3,1,4,Fiorentina,64.7,4,,"6:30pm, Sunday 26th July 2020.",1,2,419431,55.6,9,2,8,13,2,59.9,85.7,0,22,7,6,0,Roma,73.3,1, Italian Serie A
+22.2,2,1,4,10,6,49.7,87.6,0,7,3,2,6,Sassuolo,75,3,,"8:45pm, Saturday 25th July 2020.",0,2,419430,77.8,5,3,7,4,1,50.3,88.1,0,21,8,8,2,Napoli,62.5,1, Italian Serie A
+66.7,5,0,8,17,1,50.8,85.6,0,15,4,6,6,Udinese,53.8,1,,"6:30pm, Sunday 26th July 2020.",1,0,419426,33.3,4,2,5,10,3,49.2,85.4,0,16,6,6,5,Cagliari,55.6,2, Italian Serie A
+52.2,3,3,8,17,3,48.6,87.1,0,15,6,6,2,Roma,45.5,3,,"8:45pm, Wednesday 29th July 2020.",3,2,419441,47.8,4,1,4,8,1,51.4,87.3,0,9,1,4,3,Torino,60,2, Italian Serie A
+48.3,13,0,9,12,4,66.4,89.9,0,34,11,10,3,Juventus,36.4,1,,"8:45pm, Wednesday 29th July 2020.",0,2,419434,51.7,1,1,1,13,1,33.6,75.2,0,11,5,5,10,Cagliari,46.7,2, Italian Serie A
+60.7,4,1,6,8,2,44.4,83.6,0,25,11,10,7,Lecce,66.7,1,,"4:15pm, Sunday 26th July 2020.",2,3,419424,39.3,11,4,9,15,4,55.6,89.1,0,28,7,10,7,Bologna,85.7,1, Italian Serie A
+56.5,4,1,5,11,3,53.3,85.5,0,12,6,2,2,Bologna,46.7,1,,"8:45pm, Wednesday 29th July 2020.",0,4,419435,43.5,1,2,3,14,1,46.7,83.7,0,14,6,7,2,Fiorentina,47.4,2, Italian Serie A
+55.6,4,2,3,16,2,57.6,85.3,0,14,6,4,2,Atalanta,54.5,1,,"6:30pm, Tuesday 28th July 2020.",2,1,419438,44.4,6,2,3,17,3,42.4,79.6,0,14,4,4,2,Parma,35,2, Italian Serie A
+40.9,1,1,5,11,2,53.7,90,0,14,6,7,2,Lecce,73.3,4,,"6:30pm, Wednesday 29th July 2020.",2,1,419442,59.1,2,2,5,12,1,46.3,86.2,0,10,5,3,5,Udinese,60,1, Italian Serie A
+66.7,8,2,9,8,1,58.9,90.7,0,18,8,2,4,Napoli,44.4,1,,"8:45pm, Tuesday 28th July 2020.",0,2,419436,33.3,0,0,3,16,4,41.1,85.8,0,8,2,6,2,Inter Milan,100,4, Italian Serie A
+67.6,2,0,1,13,1,45.9,82.1,0,14,7,5,7,Spal,50,1,,"6:30pm, Wednesday 29th July 2020.",0,3,419443,32.4,1,3,7,15,3,54.1,85.2,0,17,6,10,5,Verona,42.9,1, Italian Serie A
+0,4,0,3,19,0,60.7,0,0,7,1,2,2,Hearts,0,2,"5,662.","7:45pm, Wednesday 11th March 2020.",0,1,411387,0,1,0,5,16,0,39.3,0,0,9,5,3,2,St Mirren,0,0, Scottish Premiership
+50,4,6,6,6,3,57.1,85.2,0,20,7,9,5,AC Milan,80,1,,"6:30pm, Wednesday 29th July 2020.",4,1,419439,50,2,1,4,5,2,42.9,81.9,0,19,11,6,5,Sampdoria,37.5,1, Italian Serie A
+76.9,3,1,3,5,2,45.5,84.8,0,12,7,2,3,Genoa,69.2,1,,"6:30pm, Wednesday 29th July 2020.",0,5,419440,23.1,4,3,2,11,1,54.5,87.2,0,18,6,8,2,Sassuolo,72.7,1, Italian Serie A
+44.4,6,1,6,10,0,39.4,77.8,0,13,5,2,10,Brescia,66.7,2,,"6:30pm, Wednesday 29th July 2020.",0,2,419437,55.6,6,5,5,12,2,60.6,86.7,0,29,11,12,2,Lazio,23.1,1, Italian Serie A
+50,3,3,0,19,0,43.7,64,0,16,7,6,2,Wigan Athletic,33.3,3,,"12:30pm, Saturday 18th July 2020.",2,2,409878,50,4,3,8,13,6,56.3,71.2,0,15,7,4,4,Charlton Athletic,66.7,1, Sky Bet Championship
+28,6,2,5,10,7,54.1,87.8,0,23,9,8,1,Leeds United,66.7,0,,"2:00pm, Sunday 19th July 2020.",3,1,409879,72,3,1,4,8,0,45.9,80.1,0,10,5,2,6,Derby County,55.6,1, Sky Bet Championship
+55.9,6,0,4,11,2,55.4,84,0,19,9,4,6,Fulham,65,4,,"7:30pm, Wednesday 22nd July 2020.",1,1,409899,44.1,1,2,5,14,2,44.6,79.7,0,13,5,7,3,Wigan Athletic,83.3,3, Sky Bet Championship
+60.3,4,0,1,11,3,36.6,56.5,0,8,3,1,4,Nottingham Forest,61.1,1,,"3:00pm, Sunday 19th July 2020.",0,1,409876,39.7,5,3,9,9,2,63.4,76.5,0,20,8,7,1,Barnsley,66.7,0, Sky Bet Championship
+42.9,2,3,8,10,1,64,84.8,0,20,10,8,5,Swansea City,57.1,0,,"7:30pm, Wednesday 22nd July 2020.",4,1,409896,57.1,3,1,4,17,1,36,76.7,1,19,10,6,4,Reading,71.4,1, Sky Bet Championship
+43.8,3,2,4,13,0,37.9,67.2,0,10,3,4,3,Stoke City,80,1,,"7:30pm, Wednesday 22nd July 2020.",4,1,409895,56.3,5,4,6,9,1,62.1,82.8,0,16,6,5,1,Nottingham Forest,54.5,0, Sky Bet Championship
+51.1,3,0,6,12,1,67.4,80.1,0,14,7,4,0,Blackburn Rovers,45.5,1,,"7:30pm, Wednesday 22nd July 2020.",2,3,409893,48.9,1,1,2,10,1,32.6,61.6,0,8,6,1,2,Luton Town,45.5,4, Sky Bet Championship
+38.9,3,1,3,9,0,49.5,74.6,0,7,1,3,4,Queens Park Rangers,36.4,0,,"7:30pm, Wednesday 22nd July 2020.",2,2,409898,61.1,2,5,5,13,2,50.5,76,0,16,8,6,1,West Bromwich Albion,60,0, Sky Bet Championship
+28.6,3,1,2,14,0,57.5,85.2,0,7,2,2,5,Huddersfield Town,45,0,,"7:30pm, Wednesday 22nd July 2020.",1,4,409894,71.4,3,1,9,14,1,42.5,81.7,0,15,3,9,1,Millwall,27.3,1, Sky Bet Championship
+46.2,1,1,2,11,0,37.2,54,0,10,5,4,3,Middlesbrough,35.3,0,,"7:30pm, Wednesday 22nd July 2020.",2,1,409897,53.8,8,2,10,11,0,62.8,74.5,0,18,6,4,2,Sheffield Wednesday,68.4,0, Sky Bet Championship
+60.8,4,1,5,16,6,48.1,78.2,0,8,2,2,4,Hull City,68.8,0,,"7:30pm, Wednesday 22nd July 2020.",0,3,409891,39.2,1,1,4,16,0,51.9,78.5,0,14,6,7,2,Cardiff City,80,0, Sky Bet Championship
+57.1,6,2,7,11,0,48.5,73.3,0,22,10,6,5,Preston North End,50,0,,"7:30pm, Wednesday 22nd July 2020.",1,1,409890,42.9,3,1,4,10,3,51.5,75.4,0,13,4,6,5,Bristol City,50,0, Sky Bet Championship
+60,2,1,4,10,4,32.7,69.5,0,10,4,4,4,Charlton Athletic,50,0,,"7:30pm, Wednesday 22nd July 2020.",0,4,409892,40,5,2,10,14,3,67.3,85.3,0,21,8,8,4,Leeds United,58.3,1, Sky Bet Championship
+49,4,1,3,17,2,38.5,58.8,0,11,4,3,2,Barnsley,60,3,,"7:30pm, Wednesday 22nd July 2020.",2,1,409889,51,6,1,3,11,3,61.5,72.7,0,12,3,3,1,Brentford,54.5,3, Sky Bet Championship
+62.2,4,1,3,14,4,42.2,73,1,12,5,3,6,Brentford,47.1,3,,"6:30pm, Sunday 26th July 2020.",0,1,426357,37.8,2,0,1,10,4,57.8,78.1,0,14,5,7,3,Swansea City,62.5,3, Sky Bet Championship Play-Offs Semi-Final
+45.3,1,2,4,5,1,56.8,80.6,0,7,1,5,3,Derby County,77.3,0,,"7:30pm, Wednesday 22nd July 2020.",3,1,409888,54.7,3,0,4,14,3,43.2,75.5,0,13,6,4,2,Birmingham City,78.6,1, Sky Bet Championship
+55.6,4,1,4,9,4,62.9,87.1,0,13,5,4,3,Fulham,54.5,0,,"7:45pm, Monday 27th July 2020.",2,0,426358,44.4,3,0,0,17,4,37.1,74.6,0,6,0,3,2,Cardiff City,76.9,2, Sky Bet Championship Play-Offs Semi-Final
+45.7,1,1,3,10,2,57.1,79.1,0,7,1,5,2,Swansea City,64.7,4,,"7:45pm, Wednesday 29th July 2020.",1,3,426359,54.3,2,2,3,11,4,42.9,78.4,0,16,9,5,4,Brentford,38.5,2, Sky Bet Championship Play-Offs Semi-Final
+53.8,1,0,1,9,1,44.4,75.8,0,10,6,3,2,Minnesota United FC,61.1,2,,"3:30am, Saturday 18th July 2020.",0,0,425343,46.2,4,1,4,13,2,55.6,82.4,0,10,4,2,3,Real Salt Lake,60.9,3, American MLS League
+63.2,1,3,2,11,1,41.2,83.9,0,8,1,6,3,Toronto FC,33.3,0,,"1:00am, Friday 17th July 2020.",4,3,425339,36.8,1,2,7,11,3,58.8,88.8,0,12,5,6,2,Montreal Impact,70,1, American MLS League
+64.7,2,0,1,11,3,40.3,76.5,2,8,2,4,5,Colorado Rapids,73.7,4,,"1:00am, Saturday 18th July 2020.",2,3,425344,35.3,5,3,5,15,1,59.7,84.8,0,19,5,9,2,Sporting Kansas City,64.3,2, American MLS League
+42.9,4,1,6,14,5,39.6,76.2,0,10,4,2,5,New England Revolution,38.1,2,,"2:00pm, Tuesday 21st July 2020.",0,0,425352,57.1,3,2,5,11,1,60.4,83.5,0,14,6,5,2,Toronto FC,84.6,1, American MLS League
+34.6,2,1,4,7,0,52.1,83.4,0,8,4,2,4,Vancouver Whitecaps,33.3,2,,"3:30am, Monday 20th July 2020.",0,3,425351,65.4,5,3,8,13,2,47.9,83.3,0,17,5,7,2,Seattle Sounders FC,57.1,1, American MLS League
+61.3,5,0,7,8,0,51,77.9,0,18,8,5,2,New England Revolution,55.6,0,,"1:00am, Saturday 18th July 2020.",1,1,425342,38.7,3,0,5,15,3,49,80.1,0,6,0,3,4,D.C. United,72.2,3, American MLS League
+52,4,1,5,11,1,62.7,80.2,0,11,4,3,3,San Jose Earthquakes,63.6,3,,"1:00am, Monday 20th July 2020.",2,0,426050,48,2,0,3,23,2,37.3,71.7,0,8,3,3,1,Chicago Fire,46.7,5, American MLS League
+37.5,2,0,3,17,2,41.8,68.8,0,6,1,3,6,Los Angeles Galaxy,76.5,4,,"3:30am, Sunday 19th July 2020.",2,6,425345,62.5,2,2,5,9,2,58.2,78.9,0,19,5,12,2,Los Angeles Football Club,60,3, American MLS League
+50,4,0,3,11,2,41.9,80,0,10,2,4,1,Sporting Kansas City,65,3,,"2:00pm, Wednesday 22nd July 2020.",2,0,425355,50,2,0,2,11,1,58.1,86.9,0,5,2,1,3,Real Salt Lake,50,4, American MLS League
+48,11,0,5,19,0,46.6,81,1,24,9,4,5,Houston Dynamo,66.7,2,,"1:00am, Sunday 19th July 2020.",1,2,425346,52,2,0,2,9,2,53.4,85.7,0,13,4,7,3,Portland Timbers,52.9,2, American MLS League
+41.4,2,1,5,21,3,59.4,82.6,0,7,3,2,2,New York City FC,66.7,3,,"2:00pm, Monday 20th July 2020.",1,0,426052,58.6,3,0,2,21,3,40.6,75.2,1,8,3,2,1,Inter Miami CF,68.8,1, American MLS League
+50,1,3,6,12,0,53.7,82.7,0,10,2,7,3,Orlando City SC,81.8,2,,"1:00am, Tuesday 21st July 2020.",1,1,426053,50,3,1,3,11,1,46.3,83.1,0,12,5,4,6,Philadelphia Union,64.7,2, American MLS League
+45.2,3,0,3,12,3,52.6,86.2,0,12,6,3,1,D.C. United,71.4,2,,"3:30am, Wednesday 22nd July 2020.",0,1,425354,54.8,2,1,4,15,1,47.4,83.8,0,7,3,2,3,Montreal Impact,64.3,3, American MLS League
+64,1,2,0,7,2,38.3,76.8,0,4,1,2,4,Vancouver Whitecaps,87.5,1,,"2:00pm, Thursday 23rd July 2020.",2,0,426051,36,7,3,11,14,2,61.7,85.1,0,27,15,5,0,Chicago Fire,70,2, American MLS League
+52.8,6,2,9,13,1,67.7,86.6,0,19,9,4,1,New York Red Bulls,57.1,1,,"1:00am, Thursday 23rd July 2020.",0,2,425357,47.2,0,0,1,14,1,32.3,70.5,0,4,2,2,4,FC Cincinnati,52.6,1, American MLS League
+27.3,2,1,5,23,1,44.7,84.7,0,9,4,3,6,Columbus Crew,42.9,4,,"1:00am, Wednesday 22nd July 2020.",1,0,425353,72.7,5,0,6,20,0,55.3,87,0,15,4,6,2,Atlanta United FC,60,2, American MLS League
+44.4,6,2,5,15,0,55.4,85.6,0,18,4,8,3,Minnesota United FC,61.5,5,,"3:30am, Thursday 23rd July 2020.",2,2,425356,55.6,3,3,4,13,1,44.6,86,0,14,6,5,6,Colorado Rapids,56.3,3, American MLS League
+66.7,1,4,4,15,2,36.6,71,0,7,3,3,1,Portland Timbers,85.7,3,,"3:30am, Friday 24th July 2020.",2,2,425359,33.3,4,1,4,10,0,63.4,83.8,0,19,12,3,1,Los Angeles Football Club,77.8,1, American MLS League
+52.9,1,1,1,13,1,36.1,70.9,0,12,7,4,5,Houston Dynamo,54.5,3,,"1:00am, Friday 24th July 2020.",1,1,425358,47.1,3,1,10,14,0,63.9,83.5,0,14,5,6,3,Los Angeles Galaxy,75,1, American MLS League
+71.4,4,0,3,7,1,32.8,75.7,1,7,3,0,5,Club Brugge,62.5,0,"70,397.","8:00pm, Thursday 27th February 2020.",0,5,421763,28.6,10,3,8,7,3,67.2,88.7,0,27,7,10,0,Manchester United,50,0, Europa League Round of 32
+52.2,4,0,10,6,0,49.2,86.9,0,10,2,4,6,Ludogorets,50,1,,"8:00pm, Thursday 27th February 2020.",1,2,421758,47.8,4,2,7,8,2,50.8,86.5,0,16,4,8,3,Inter Milan,38.5,1, Europa League Round of 32
+46.7,1,1,5,11,1,38.2,62.6,0,7,3,3,3,FC Copenhagen,68.4,1,"56,172.","8:00pm, Thursday 27th February 2020.",3,1,421754,53.3,10,0,9,13,4,61.8,75.9,0,15,1,4,0,Celtic,73.7,1, Europa League Round of 32
+47.4,3,2,7,8,4,39.4,82,0,12,5,4,3,Olympiakos FC,72.2,2,"60,242.","8:00pm, Thursday 27th February 2020.",2,1,421751,52.6,7,1,9,9,1,60.6,88.5,0,19,8,4,2,Arsenal,68.8,0, Europa League Round of 32
+26.7,2,3,4,14,1,50.1,82.7,0,13,3,8,4,Shakhtar Donetsk,66.7,3,"48,302.","8:00pm, Thursday 27th February 2020.",3,3,421753,73.3,4,3,8,10,0,49.9,85.1,0,16,5,7,6,Benfica,56.3,1, Europa League Round of 32
+55.8,2,2,4,14,2,30.7,55.3,0,9,6,1,1,Getafe,73.3,5,"51,487.","8:00pm, Thursday 27th February 2020.",1,2,421750,44.2,2,2,5,14,3,69.3,78.8,0,8,4,2,0,Ajax,50,5, Europa League Round of 32
+56.8,2,2,2,12,1,37.3,77.8,0,9,4,3,3,Wolverhampton Wanderers,91.7,3,"14,525.","5:55pm, Thursday 27th February 2020.",2,3,421755,43.2,1,1,8,7,4,62.7,87.3,0,13,6,6,1,Espanyol,50,3, Europa League Round of 32
+48.1,5,3,4,16,2,46.8,78.8,0,14,5,4,2,Wolfsburg,73.3,1,"20,500.","5:55pm, Thursday 27th February 2020.",3,0,421762,51.9,3,1,3,12,1,53.2,77.8,0,10,5,2,1,Malmo FF,40,1, Europa League Round of 32
+41.3,0,4,2,15,3,53.6,79.7,0,8,2,6,0,Bayer Leverkusen,65.2,4,"30,292.","5:55pm, Thursday 27th February 2020.",3,1,421756,58.7,0,0,6,13,1,46.4,76.9,1,5,4,1,3,FC Porto,40.9,6, Europa League Round of 32
+44,3,1,5,21,1,44.2,80.2,0,20,10,7,5,Sporting Lisbon,66.7,2,"5,892.","5:55pm, Thursday 27th February 2020.",1,4,421759,56,4,2,6,11,7,55.8,84.3,0,21,8,9,5,Istanbul Buyuksehir,60,4, Europa League Round of 32
+61.8,1,0,12,10,3,64,78.9,0,11,9,1,2,AZ Alkmaar,44.4,1,"12,855.","5:55pm, Thursday 27th February 2020.",0,2,421761,38.2,2,1,2,26,2,36,68.6,1,12,6,4,1,Linz ASK,65.2,1, Europa League Round of 32
+51.5,3,1,6,13,1,44.6,76,0,10,6,1,5,Roma,53.3,2,"17,557.","5:55pm, Thursday 27th February 2020.",1,1,421760,48.5,7,2,4,11,3,55.4,83.4,0,23,10,6,0,AA Gent ,55,5, Europa League Round of 32
+46.7,2,0,3,14,1,35.9,79.5,0,5,2,1,4,Apoel Nicosia,56.3,5,"14,428.","5:55pm, Thursday 27th February 2020.",0,1,421752,53.3,2,1,2,10,3,64.1,86.3,0,10,3,5,1,Basel,66.7,1, Europa League Round of 32
+38.9,2,0,6,14,0,64.7,86.9,0,13,3,8,2,Bayer Leverkusen,71.4,4,"47,494.","8:00pm, Thursday 12th March 2020.",3,1,423802,61.1,3,2,5,11,0,35.3,76.2,0,9,3,3,4,Rangers,70,3, Europa League Round of 16
+35.5,1,0,1,7,2,48.6,84.5,0,9,2,6,3,Shakhtar Donetsk,72.7,0,,"8:00pm, Thursday 12th March 2020.",2,1,423805,64.5,5,1,3,15,2,51.4,82.3,0,16,7,4,4,Wolfsburg,54.5,3, Europa League Round of 16
+48.9,1,3,3,16,2,36.8,58.2,0,12,3,8,4,Eintracht Frankfurt,75,3,"29,000.","5:00pm, Friday 28th February 2020.",2,2,421757,51.1,4,1,10,7,1,63.2,73.8,0,19,9,6,6,Red Bull Salzburg,66.7,3, Europa League Round of 32
+63.6,1,1,7,13,0,48.8,86.7,0,13,8,4,2,Wolverhampton Wanderers,62.5,3,,"8:00pm, Thursday 12th March 2020.",1,1,423801,36.4,2,1,1,7,3,51.2,84.9,1,6,1,3,3,Olympiakos FC,61.5,1, Europa League Round of 16
+61.5,1,0,4,14,2,54,80.8,0,5,3,1,2,FC Copenhagen,85.7,1,"12,205.","5:55pm, Thursday 12th March 2020.",0,1,423799,38.5,2,1,4,18,4,46,77.3,0,7,2,3,1,Istanbul Buyuksehir,77.8,3, Europa League Round of 16
+48.3,0,3,2,9,0,36.1,73.8,0,12,7,5,4,Basel,64.7,3,,"5:55pm, Thursday 12th March 2020.",3,0,423804,51.7,3,0,5,14,2,63.9,82.3,0,14,7,4,2,Eintracht Frankfurt,66.7,1, Europa League Round of 16
+60,1,5,5,12,2,56.3,77.3,0,22,11,10,0,Manchester United,66.7,1,,"5:55pm, Thursday 12th March 2020.",5,0,423800,40,5,0,4,18,2,43.7,68.2,0,9,4,0,5,Linz ASK,73.3,4, Europa League Round of 16
+67.9,3,1,4,16,0,50.7,77.9,0,10,2,5,2,Wolfsburg,85.2,3,,"2:30pm, Saturday 20th June 2020.",4,1,413024,32.1,3,0,2,12,0,49.3,80.9,0,11,5,3,1,Schalke,55.2,4, German Bundesliga
+31.8,1,5,1,7,3,52.8,85.9,0,11,3,7,4,Borussia Dortmund,57.9,3,,"2:30pm, Saturday 20th June 2020.",2,0,413027,68.2,4,1,4,13,0,47.2,87.3,0,16,8,4,5,RB Leipzig,52.6,3, German Bundesliga
+41.7,5,1,8,15,3,60.8,80.8,0,18,7,6,8,Werder Bremen,57.1,3,,"2:30pm, Saturday 20th June 2020.",1,3,413022,58.3,2,1,7,13,2,39.2,78.9,0,20,6,12,5,Mainz,53.8,2, German Bundesliga
+37.5,3,5,5,13,4,50.8,86.6,0,22,8,11,0,M'gladbach,60.7,2,,"2:30pm, Saturday 20th June 2020.",3,1,413028,62.5,4,1,3,11,1,49.2,84.1,1,11,6,1,8,SC Paderborn 07,57.1,2, German Bundesliga
+51.4,1,2,4,15,1,40.9,76.2,0,7,4,2,4,1. FC Union Berlin,50,3,,"2:30pm, Saturday 20th June 2020.",0,4,413029,48.6,4,1,6,10,1,59.1,83.8,0,16,4,8,2,Hoffenheim,55.6,1, German Bundesliga
+50,2,0,4,15,3,68.6,86.5,0,12,8,2,3,Bayer Leverkusen,62.5,3,,"2:30pm, Saturday 20th June 2020.",0,2,413026,50,3,3,5,14,3,31.4,64.7,0,14,6,5,2,Hertha Berlin,57.9,4, German Bundesliga
+65.4,2,1,9,15,0,61.8,76.4,0,9,4,3,1,Eintracht Frankfurt,58.8,2,,"2:30pm, Saturday 20th June 2020.",1,1,413021,34.6,2,0,5,8,5,38.2,68.2,0,4,0,2,2,Cologne,66.7,1, German Bundesliga
+45.5,0,5,6,9,1,61.1,85.9,0,16,7,9,4,Bayern Munich,45,0,,"2:30pm, Saturday 27th June 2020.",4,0,413038,54.5,1,1,3,13,1,38.9,78.2,1,12,7,4,6,Wolfsburg,50,1, German Bundesliga
+60,4,1,3,12,2,42.9,72.8,0,11,4,3,1,FC Augsburg,69.2,0,,"2:30pm, Saturday 20th June 2020.",1,1,413025,40,2,0,5,14,0,57.1,80.9,0,8,4,2,2,Fortuna Dusseldorf,62.5,1, German Bundesliga
+31.6,6,0,5,5,1,43.8,85.6,0,22,10,6,4,Schalke,72.7,0,,"2:30pm, Saturday 27th June 2020.",0,4,413037,68.4,4,1,1,14,3,56.2,86.9,0,15,3,8,6,SC Freiburg,41.7,1, German Bundesliga
+52.9,1,0,5,16,1,47.1,78.6,0,6,3,2,3,Cologne,75,2,,"2:30pm, Saturday 27th June 2020.",1,6,413036,47.1,5,3,7,22,1,52.9,83.6,0,18,4,9,1,Werder Bremen,50,1, German Bundesliga
+32.3,1,2,2,8,2,39,79.6,0,11,7,3,6,SC Freiburg,84.6,0,,"2:30pm, Saturday 20th June 2020.",1,3,413023,67.7,6,1,8,13,1,61,86.6,0,23,8,9,2,Bayern Munich,50,0, German Bundesliga
+32.1,3,2,2,3,2,39,74.8,0,17,9,5,1,SC Paderborn 07,75,1,,"2:30pm, Saturday 27th June 2020.",2,3,413034,67.9,4,3,6,13,3,61,85.2,0,13,5,4,3,Eintracht Frankfurt,53.3,0, German Bundesliga
+21.1,1,1,3,15,2,44.2,81.3,0,5,2,2,6,Hertha Berlin,85.7,2,,"2:30pm, Saturday 27th June 2020.",1,2,413033,78.9,6,3,3,7,0,55.8,86,0,23,9,8,1,M'gladbach,72.7,1, German Bundesliga
+61.5,4,2,8,10,3,65.3,83.4,0,14,5,5,0,RB Leipzig,70.6,1,,"2:30pm, Saturday 27th June 2020.",2,1,413035,38.5,3,0,2,12,1,34.7,73.1,0,5,1,1,3,FC Augsburg,43.3,4, German Bundesliga
+58.3,5,5,5,5,0,40.9,85.6,0,16,4,7,4,Hoffenheim,70,0,,"2:30pm, Saturday 27th June 2020.",4,0,413032,41.7,2,0,2,7,0,59.1,89,0,7,1,4,3,Borussia Dortmund,58.3,1, German Bundesliga
+57.1,1,0,4,10,3,33,73.6,0,6,4,1,1,Mainz,38.5,1,,"2:30pm, Saturday 27th June 2020.",0,1,413031,42.9,8,2,11,10,3,67,89.1,0,13,3,2,1,Bayer Leverkusen,63.2,1, German Bundesliga
+63.9,14,0,10,6,1,57.5,79.4,0,27,11,2,2,Fortuna Dusseldorf,66.7,1,,"2:30pm, Saturday 27th June 2020.",0,3,413030,36.1,2,4,6,15,2,42.5,69.3,0,11,4,5,2,1. FC Union Berlin,58.8,0, German Bundesliga
+56.8,0,2,3,12,5,59.4,87.3,0,11,7,4,2,Rennes,40,1,"13,301.","7:00pm, Saturday 29th February 2020.",2,0,408632,43.2,5,0,9,13,1,40.6,78.7,0,15,8,2,2,Toulouse,73.3,3, French Ligue 1
+53.1,3,3,9,14,1,52.1,74.8,0,13,6,4,4,Marseille,57.7,3,"13,755.","7:45pm, Friday 28th February 2020.",3,2,408630,46.9,4,3,8,15,1,47.9,72.5,0,16,6,6,1,Nimes,65.2,4, French Ligue 1
+24.1,5,1,2,13,4,42.9,80.7,0,16,3,8,6,Reims,68.8,3,"4,237.","7:00pm, Saturday 29th February 2020.",1,1,408627,75.9,6,1,3,20,1,57.1,82.9,0,19,6,7,7,Monaco,75,2, French Ligue 1
+56.1,2,1,3,10,0,40.9,67,0,13,5,6,5,Metz,66.7,1,"12,375.","7:00pm, Saturday 29th February 2020.",1,0,408623,43.9,1,1,6,17,1,59.1,77.9,0,12,6,5,5,Amiens,66.7,2, French Ligue 1
+62.5,1,0,0,9,1,35.1,77.4,0,6,3,2,4,Angers,87.5,1,"13,313.","7:00pm, Saturday 29th February 2020.",1,0,408625,37.5,5,0,12,12,1,64.9,87.6,0,16,7,4,1,Brest,60,3, French Ligue 1
+52.6,4,1,7,15,1,54.6,84.4,0,15,4,7,8,Strasbourg,55.6,2,"11,799.","7:00pm, Saturday 29th February 2020.",0,3,408628,47.4,3,2,5,8,0,45.4,83.4,0,23,9,11,7,Montpellier,80,1, French Ligue 1
+47.8,0,0,0,3,1,30.3,81.3,0,9,6,3,7,Dijon,70,0,"47,542.","4:30pm, Saturday 29th February 2020.",0,4,408631,52.2,2,5,8,7,2,69.7,90.1,0,23,10,11,3,Paris Saint-Germain,46.2,1, French Ligue 1
+66.7,1,0,3,12,0,58.8,87.4,0,9,4,4,3,Nice,63.6,3,"15,799.","4:00pm, Sunday 1st March 2020.",1,1,408624,33.3,3,3,10,18,2,41.2,82.7,0,12,5,4,3,Bordeaux,31.3,3, French Ligue 1
+56.4,3,2,4,17,4,44.5,77.7,0,12,6,3,4,Amiens,40,2,"49,748.","8:00pm, Friday 6th March 2020.",2,2,408636,43.6,3,1,4,13,0,55.5,81.6,0,13,4,6,1,Marseille,73.9,2, French Ligue 1
+45.1,1,1,4,14,0,33.9,69.8,0,8,3,4,7,St Etienne,37.5,4,"52,772.","8:00pm, Sunday 1st March 2020.",0,2,408626,54.9,3,2,5,15,4,66.1,85.2,0,16,4,9,4,Lyon,60,4, French Ligue 1
+61.7,4,4,12,13,3,48.7,72.1,0,15,6,5,3,Lille,64.3,3,"20,704.","2:00pm, Sunday 1st March 2020.",1,0,408629,38.3,1,0,3,13,2,51.3,70.8,0,6,2,3,4,Nantes,60,4, French Ligue 1
+48.4,2,0,5,13,0,51.7,85.9,0,12,6,4,2,Brest,40,2,"11,062.","7:00pm, Saturday 7th March 2020.",0,1,408639,51.6,2,1,5,7,1,48.3,84.4,1,12,7,3,4,Reims,61.5,1, French Ligue 1
+64.7,3,2,3,15,0,49.2,84.6,1,14,7,4,3,Monaco,60,4,"21,001.","7:00pm, Saturday 7th March 2020.",1,2,408638,35.3,4,2,6,11,1,50.8,87.4,0,12,3,5,3,Nice,64.7,1, French Ligue 1
+76.5,3,2,6,6,1,54.9,84.1,0,15,8,4,1,Nantes,63.2,3,"12,132.","7:00pm, Saturday 7th March 2020.",0,2,408633,23.5,3,1,4,9,3,45.1,79.8,0,8,2,3,4,Angers,56.5,0, French Ligue 1
+54.4,5,2,6,11,1,43.4,69.6,0,16,4,7,3,Nimes,50,0,"14,797.","7:00pm, Saturday 7th March 2020.",1,2,408637,45.6,2,2,8,9,2,56.6,75.9,0,14,7,5,6,Metz,82.4,0, French Ligue 1
+32.6,2,1,1,17,1,43.8,72.9,0,6,2,2,1,Toulouse,66.7,2,"12,549.","7:00pm, Saturday 7th March 2020.",1,2,408634,67.4,4,0,5,14,2,56.2,81,0,14,7,3,1,Dijon,60,2, French Ligue 1
+73.3,5,1,7,10,0,45.6,85.2,0,11,5,1,4,Montpellier,44.4,3,"24,818.","4:00pm, Sunday 8th March 2020.",0,5,408640,26.7,2,3,2,9,0,54.4,88.6,0,16,5,9,1,Rennes,78.6,2, French Ligue 1
+43.6,3,0,4,17,2,47.9,77.4,0,8,3,2,3,Bordeaux,50,3,"24,912.","2:00pm, Sunday 8th March 2020.",1,1,408641,56.4,5,1,7,14,1,52.1,80.4,1,11,2,4,1,St Etienne,66.7,2, French Ligue 1
+47.1,3,0,1,17,1,40.1,82,0,7,4,0,5,Galatasaray,76.9,6,"46,509.","8:00pm, Wednesday 11th December 2019.",0,5,420414,52.9,0,6,3,17,6,59.9,89.4,0,14,4,10,0,Paris Saint-Germain,73.9,1, UEFA Champions League Group A
+45,2,2,3,13,2,56.7,79,0,9,5,2,2,Lyon,60.9,3,"40,164.","8:00pm, Sunday 8th March 2020.",0,1,408635,55,1,4,4,21,0,43.3,73.2,0,12,8,3,2,Lille,87.5,1, French Ligue 1
+45,0,1,2,9,2,46.1,83.4,0,6,4,2,1,Juventus,60,0,"29,542.","8:00pm, Wednesday 11th December 2019.",2,0,420431,55,6,3,6,14,2,53.9,87.2,0,14,7,1,0,Bayer Leverkusen,37.5,0, UEFA Champions League Group D
+36,2,2,5,10,0,56.9,85.8,0,11,4,5,1,Real Madrid,50,2,"27,308.","8:00pm, Wednesday 11th December 2019.",3,1,420412,64,2,0,6,12,5,43.1,82.9,0,8,4,2,2,Club Brugge,63.2,3, UEFA Champions League Group A
+39.6,3,0,2,11,1,29.4,62.3,0,8,3,2,8,Crvena Zvezda,63.6,4,"31,898.","8:00pm, Wednesday 11th December 2019.",0,1,420433,60.4,2,3,9,15,6,70.6,83.5,0,27,16,9,2,Olympiakos FC,77.8,4, UEFA Champions League Group B
+45.7,2,0,0,15,1,32.3,74.1,0,3,0,1,4,Lokomotiv Moscow,57.9,2,"58,426.","8:00pm, Wednesday 11th December 2019.",0,2,420430,54.3,8,2,5,13,4,67.7,89,0,23,9,6,1,Atletico Madrid,61.1,1, UEFA Champions League Group D
+27.6,1,2,1,9,2,30,70.4,0,7,1,5,8,Tottenham Hotspur,72.7,1,"66,353.","8:00pm, Wednesday 11th December 2019.",1,3,420413,72.4,4,0,9,9,2,70,88.5,0,24,9,11,4,Bayern Munich,73.7,1, UEFA Champions League Group B
+35.7,7,1,7,17,5,56.8,84,0,16,4,5,5,RB Leipzig,54.5,3,"60,095.","8:00pm, Wednesday 19th February 2020.",1,0,421728,64.3,2,1,6,11,2,43.2,79.8,0,12,5,5,4,Tottenham Hotspur,60,3, UEFA Champions League First Knockout Round
+50,1,7,2,6,1,75.4,93.3,0,13,5,7,1,Manchester City,45.5,0,"29,385.","5:55pm, Wednesday 11th December 2019.",4,1,420432,50,1,0,5,8,1,24.6,75.4,0,6,3,2,3,Dinamo Zagreb,56,1, UEFA Champions League Group C
+52.2,2,1,3,16,2,50.5,86.5,0,17,7,8,2,Atalanta,58.8,3,"26,536.","5:55pm, Wednesday 11th December 2019.",3,0,420434,47.8,3,0,5,11,3,49.5,84.3,1,9,4,2,5,Shakhtar Donetsk,41.7,2, UEFA Champions League Group C
+64.3,2,1,3,11,3,53,89,0,10,5,3,1,Paris Saint-Germain,46.2,4,"66,099.","8:00pm, Tuesday 18th February 2020.",1,2,421719,35.7,2,1,3,13,2,47,87.7,0,12,7,3,2,Borussia Dortmund,50,1, UEFA Champions League First Knockout Round
+84.6,2,2,1,11,2,66.9,90.8,1,8,4,2,3,Barcelona,60,3,"44,388.","8:00pm, Tuesday 25th February 2020.",1,1,421727,15.4,1,1,2,7,1,33.1,84.9,0,7,2,4,1,Napoli,58.3,2, UEFA Champions League First Knockout Round
+51.4,5,1,3,8,3,63.7,87.7,0,14,9,0,1,Juventus,58.3,0,"57,335.","8:00pm, Wednesday 26th February 2020.",0,1,421726,48.6,4,1,5,17,1,36.3,77.9,0,12,6,2,0,Lyon,50,2, UEFA Champions League First Knockout Round
+44.4,2,1,7,13,1,72.6,85.4,0,8,6,0,1,Liverpool,50,2,"67,443.","8:00pm, Tuesday 18th February 2020.",0,1,421724,55.6,0,1,2,11,5,27.4,67.8,0,7,5,2,0,Atletico Madrid,47.6,1, UEFA Champions League First Knockout Round
+51.5,4,4,4,8,3,48.7,81.3,0,18,10,4,1,Valencia,52.2,0,"44,236.","8:00pm, Wednesday 19th February 2020.",1,4,421718,48.5,1,3,6,19,1,51.3,79.2,0,11,5,5,3,Atalanta,68.8,1, UEFA Champions League First Knockout Round
+53.3,2,6,5,10,0,63.3,88.2,0,16,8,6,3,Bayern Munich,56.3,2,"36,761.","8:00pm, Tuesday 25th February 2020.",3,0,421725,46.7,0,1,3,7,2,36.7,80.2,1,9,6,3,3,Chelsea,47.6,1, UEFA Champions League First Knockout Round
+69.6,2,1,2,12,1,40.7,73.1,0,11,4,5,4,Atalanta,50,1,,"8:00pm, Tuesday 10th March 2020.",4,3,421723,30.4,3,3,9,13,3,59.3,80.9,0,16,6,7,1,Valencia,78.6,4, UEFA Champions League First Knockout Round
+56.5,3,4,4,10,0,51.3,88,0,16,5,8,2,Manchester City,44.4,1,"75,615.","8:00pm, Wednesday 26th February 2020.",2,1,421720,43.5,2,2,1,13,0,48.7,86.5,1,9,4,3,6,Real Madrid,56.3,2, UEFA Champions League First Knockout Round
+56.5,3,0,4,17,0,53.1,85.6,1,11,6,2,2,Borussia Dortmund,75,2,,"8:00pm, Wednesday 11th March 2020.",0,2,421722,43.5,2,2,5,13,2,46.9,87.4,0,8,2,4,2,Paris Saint-Germain,42.9,5, UEFA Champions League First Knockout Round
+0,4,0,7,19,0,45.7,0,0,11,3,4,0,Hearts,0,2,"20,197.","7:45pm, Tuesday 3rd March 2020.",3,1,411388,0,3,0,5,12,0,54.3,0,0,10,5,2,1,Hibernian,0,3, Scottish Premiership
+25.9,1,0,3,12,1,45.8,80.8,0,6,2,3,2,Tottenham Hotspur,66.7,4,"42,146.","8:00pm, Tuesday 10th March 2020.",0,3,421733,74.1,4,0,6,21,3,54.2,80.3,0,13,4,5,3,RB Leipzig,53.1,2, UEFA Champions League First Knockout Round
+0,2,0,5,15,0,45.5,0,1,10,7,1,4,St. Johnstone,0,1,"4,287.","7:45pm, Wednesday 4th March 2020.",0,0,411393,0,4,0,9,9,0,54.5,0,0,17,9,4,1,St Mirren,0,2, Scottish Premiership
+0,3,0,7,14,0,42.6,0,0,9,3,3,2,Livingston,0,2,"3,008.","3:00pm, Saturday 7th March 2020.",0,1,411399,0,2,0,5,11,0,57.4,0,0,5,0,3,3,St. Johnstone,0,1, Scottish Premiership
+0,2,0,1,17,0,52.3,0,0,9,3,4,7,Aberdeen,0,5,"4,217.","7:45pm, Wednesday 4th March 2020.",2,2,411389,0,3,0,10,10,0,47.7,0,0,18,6,9,2,Kilmarnock,0,0, Scottish Premiership
+0,2,0,5,13,0,35,0,0,7,1,4,4,Ross County,0,3,"3,191.","7:45pm, Wednesday 4th March 2020.",1,4,411391,0,6,0,8,10,0,65,0,0,17,3,8,3,Motherwell,0,2, Scottish Premiership
+0,2,0,1,9,0,23.2,0,0,9,3,4,8,Hamilton Academical,0,1,"48,167.","7:45pm, Wednesday 4th March 2020.",1,0,411392,0,8,0,16,6,0,76.8,0,0,32,16,8,3,Rangers,0,1, Scottish Premiership
+0,3,0,5,12,0,43.4,0,0,14,5,6,1,Motherwell,0,3,"17,339.","3:00pm, Saturday 7th March 2020.",1,1,411397,0,3,0,7,11,0,56.6,0,0,13,7,3,5,Hearts,0,2, Scottish Premiership
+0,3,0,9,11,0,59.2,0,0,15,8,4,2,Kilmarnock,0,2,"2,145.","3:00pm, Saturday 7th March 2020.",0,1,411396,0,2,0,6,11,0,40.8,0,1,11,6,3,4,Hamilton Academical,0,2, Scottish Premiership
+57.6,0,2,3,17,4,29,59.2,0,10,4,6,9,Atletico Madrid,54.5,2,"52,267.","8:00pm, Wednesday 11th March 2020.",3,2,421732,42.4,7,1,16,17,2,71,83.6,0,34,16,11,3,Liverpool,66.7,1, UEFA Champions League First Knockout Round
+0,2,0,0,12,0,46.1,0,1,7,1,4,3,Hibernian,0,2,"14,388.","3:00pm, Saturday 7th March 2020.",1,3,411394,0,7,0,7,11,0,53.9,0,0,18,6,5,3,Aberdeen,0,0, Scottish Premiership
+0,2,0,1,5,0,38,0,0,8,2,4,11,St Mirren,0,2,"58,998.","3:00pm, Saturday 7th March 2020.",0,5,411395,0,0,0,10,9,0,62,0,0,19,3,16,4,Celtic,0,1, Scottish Premiership
+0,8,0,15,8,0,67.7,0,0,19,4,7,2,Rangers,0,0,"6,406.","12:00pm, Sunday 8th March 2020.",1,0,411398,0,2,0,5,13,0,32.3,0,0,5,1,2,6,Ross County,0,4, Scottish Premiership

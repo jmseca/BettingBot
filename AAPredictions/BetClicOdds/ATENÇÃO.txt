@@ -1,0 +1,8 @@
+Ás vezes, quando fazemos Scrape a página demora tempo a carregar
+
+E como está predefinido o Scraper estar 2seg por página
+Falha info das páginas q demora a carregar
+
+SOLUÇÃO:
+
+Definir o tempo para 5seg ou mais por página

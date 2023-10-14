@@ -1,0 +1,21 @@
+Coisa q podemos ter atenção
+
+1. Parece q os o Modelo LION em Logit e SVM dão valores diferentes
+Até agr parece q:
+ - Se aparece em ambos, dá certo (maior parte das vezes)
+
+2. O Modelo LION SVM parece dar indicações para jogos com Odds mais altas
+Enquanto q o LOGIT dá indicações para todas
+
+3. SVM e LOGit parecem ser uma boa merda, quase não reagem a alterações dos dados (pelo menos nas odds)
+Estive a tentar com o BigLion, a verdade é que há jogos com diferentes probabilidades, mas há pequenas alterações 
+muito importantes que o modelo não nota (Por exemplo os counter). Parece q tem de ser uma cadeia de alterações
+Apesar de parecer funcionar +/-, é melhor usar outros métodos, vamos pensar nas ÁRVORES
+NOTA: Também pode ser pq usamos vários parâmetros com escalas diferentes
+
+
+4. Ficheiros com os dados das equipas têm como últimos caracteres 3 '_'
+É de propósito, assim conseguimos encontrá-los
+
+5. Só a partir de 2017/18 é que a Eredivisie e a Liga Portuguesa começaram a ter dados
+de s/st 

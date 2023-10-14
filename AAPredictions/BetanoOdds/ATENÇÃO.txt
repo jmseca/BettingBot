@@ -1,0 +1,11 @@
+Ainda falta adicionar as ligas 
+- eredivisie
+- Bundesliga 
+- Ligue 1
+
+
+Há jogos, que como ainda são num futuro "disante" (+/- 1 semana)
+Ainda não têm as Odds Bth_scored e Hipótese_dupla (este último nao está no sítio certo)
+Por isso, aparece Null nestas apostas
+Até agr só aconteceu na MLS
+Mas penso q quando estiver mais próxima a data do jogo, as odds aparecem

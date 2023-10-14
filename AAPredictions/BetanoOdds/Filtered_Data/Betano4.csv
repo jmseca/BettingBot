@@ -1,0 +1,59 @@
+League,Date,Time,HT,AT,ODDH,ODDD,ODDA,ODD_25+,ODD_25-,ODD_BthScore_Yes,ODD_BthScore_No,ODD_1X,ODD_12,ODD_X2,Scrape_Date,Scrape_Time
+Primeira_Liga,2020-07-24,1900,Santa Clara,Vitoria Guimaraes,3.1,3.3,2.2,1.63,1.95,1.50,2.18,1.60,1.26,1.32,2020-07-24,1527
+Serie_A,2020-07-24,2045,AC Milao,Atalanta,2.86,3.85,2.35,1.44,2.37,1.36,2.52,1.57,1.21,1.38,2020-07-24,1529
+Primeira_Liga,2020-07-24,2115,Gil Vicente,Pacos Ferreira,2.58,3.35,2.92,1.91,1.67,1.67,1.87,1.38,1.27,1.47,2020-07-24,1527
+Serie_A,2020-07-25,1830,Genova,Inter de Milao,4.7,3.95,1.63,1.47,2.2,1.50,2.16,2.15,1.18,1.15,2020-07-24,1529
+Primeira_Liga,2020-07-25,1900,Boavista,Rio Ave,4.35,3.8,1.7,1.70,1.85,1.67,1.87,2.04,1.19,1.18,2020-07-24,1527
+Primeira_Liga,2020-07-25,1900,Maritimo,Famalicao,3.65,3.55,1.91,1.80,1.75,1.70,1.85,1.78,1.23,1.24,2020-07-24,1527
+Serie_A,2020-07-25,2045,Napoles,Sassuolo,1.53,4.33,5.05,1.42,2.35,1.50,2.18,1.13,1.16,2.33,2020-07-24,1529
+Primeira_Liga,2020-07-25,2115,SC Braga,FC Porto,2.67,3.55,2.35,1.55,2.05,1.47,2.2,1.53,1.22,1.42,2020-07-24,1527
+Primeira_Liga,2020-07-25,2115,SL Benfica,Sporting CP,1.9,3.45,3.8,1.72,1.83,1.61,1.95,1.22,1.24,1.8,2020-07-24,1527
+MLS,2020-07-26,100,Orlando City SC,Montreal Impact,1.88,3.65,3.65,None,None,None,None,None,None,None,2020-07-24,1528
+MLS,2020-07-26,330,Philadelphia Union,New England Revolution,2.5,3.45,2.56,None,None,None,None,None,None,None,2020-07-24,1528
+Premier_League,2020-07-26,1600,Burnley,Brighton,2.25,3.35,2.96,1.75,1.8,1.61,1.95,1.35,1.25,1.57,2020-07-24,1531
+Premier_League,2020-07-26,1600,Southampton,Sheffield United,2.11,3.35,3.25,1.72,1.83,1.60,2.0,1.30,1.25,1.65,2020-07-24,1531
+Premier_League,2020-07-26,1600,Crystal Palace FC,Tottenham,5.8,4.05,1.5,1.65,1.91,1.72,1.83,2.37,1.18,1.1,2020-07-24,1531
+Premier_League,2020-07-26,1600,Chelsea,Wolverhampton,1.8,3.6,4.05,1.75,1.78,1.67,1.87,1.20,1.22,1.9,2020-07-24,1531
+Premier_League,2020-07-26,1600,West Ham,Aston Villa,3.0,3.4,2.2,1.55,2.05,1.45,2.25,1.60,1.24,1.33,2020-07-24,1531
+Premier_League,2020-07-26,1600,Newcastle,Liverpool,7.15,4.8,1.36,1.45,2.25,1.65,1.91,2.86,1.12,1.06,2020-07-24,1531
+Premier_League,2020-07-26,1600,Arsenal,Watford,1.88,3.75,3.55,1.53,2.12,1.50,2.19,1.25,1.2,1.83,2020-07-24,1531
+Premier_League,2020-07-26,1600,Manchester City,Norwich City,1.07,10.0,23.0,1.16,3.75,2.05,1.55,-,1.03,7.25,2020-07-24,1531
+Premier_League,2020-07-26,1600,Everton,Bournemouth,2.2,3.6,2.86,1.47,2.2,1.42,2.37,1.36,1.22,1.6,2020-07-24,1531
+Premier_League,2020-07-26,1600,Leicester,Manchester United,3.1,3.3,2.2,1.72,1.83,1.57,2.02,1.60,1.26,1.31,2020-07-24,1531
+Serie_A,2020-07-26,1615,Bolonha,US Lecce,2.37,3.5,2.68,1.45,2.25,1.38,2.45,1.42,1.23,1.53,2020-07-24,1529
+Serie_A,2020-07-26,1830,Spal,Torino,5.35,4.1,1.55,1.55,2.05,1.63,1.95,2.33,1.17,1.12,2020-07-24,1529
+Championship,2020-07-26,1830,Swansea City,Brentford FC,3.65,3.25,2.0,None,None,None,None,None,None,None,2020-07-24,1522
+Serie_A,2020-07-26,1830,Cagliari,Udinese,3.55,3.35,2.0,1.75,1.8,1.61,1.95,1.72,1.25,1.25,2020-07-24,1529
+Serie_A,2020-07-26,1830,AS Roma,Fiorentina,1.63,4.1,4.55,1.44,2.3,1.47,2.2,1.17,1.17,2.16,2020-07-24,1529
+Serie_A,2020-07-26,1830,Hellas Verona,Lazio,3.35,3.4,2.05,1.55,2.05,1.47,2.2,1.70,1.24,1.28,2020-07-24,1529
+Primeira_Liga,2020-07-26,1930,Vitoria Setubal,Belenenses SAD,1.61,3.75,5.2,1.75,1.78,1.75,1.78,1.12,1.2,2.18,2020-07-24,1527
+Primeira_Liga,2020-07-26,1930,Moreirense,Tondela,3.15,2.56,2.68,2.20,1.47,1.80,1.75,1.42,1.4,1.31,2020-07-24,1527
+Primeira_Liga,2020-07-26,1930,Portimonense,Desp. Aves,1.15,6.4,19.5,1.63,1.95,None,None,None,None,None,2020-07-24,1527
+Serie_A,2020-07-26,2045,Juventus,Sampdoria,1.26,5.8,9.0,1.44,2.3,1.83,1.72,1.03,1.12,3.5,2020-07-24,1529
+MLS,2020-07-27,130,Toronto FC,New York City FC,2.13,3.65,2.98,None,None,None,None,None,None,None,2020-07-24,1528
+MLS,2020-07-27,400,Sporting Kansas City,Vancouver Whitecaps FC,1.5,4.45,5.3,None,None,None,None,None,None,None,2020-07-24,1528
+Championship,2020-07-27,1945,Cardiff,Fulham,2.68,3.0,2.66,None,None,None,None,None,None,None,2020-07-24,1522
+MLS,2020-07-28,130,San Jose Earthquakes,Real Salt Lake,2.0,3.7,3.25,None,None,None,None,None,None,None,2020-07-24,1528
+MLS,2020-07-28,400,Seattle Sounders,Los Angeles FC,3.15,3.9,2.0,None,None,None,None,None,None,None,2020-07-24,1528
+MLS,2020-07-29,100,Columbus Crew,Minnesota United,2.25,3.5,2.82,None,None,None,None,None,None,None,2020-07-24,1528
+MLS,2020-07-29,330,Portland Timbers,FC Cincinnati,1.83,3.8,3.7,None,None,None,None,None,None,None,2020-07-24,1528
+Premiership,2020-08-01,1500,Hibernian FC,Kilmarnock FC,2.1,3.4,3.25,1.83,1.65,1.67,1.8,1.28,1.23,1.65,2020-07-24,1523
+Premiership,2020-08-01,1500,St Mirren,Livingston FC,2.54,3.2,2.68,2.02,1.53,1.75,1.72,1.40,1.26,1.45,2020-07-24,1523
+Premiership,2020-08-01,1500,Dundee United,FC St Johnstone,2.68,3.2,2.54,2.02,1.53,1.75,1.72,1.45,1.25,1.4,2020-07-24,1523
+Premiership,2020-08-01,1730,Aberdeen FC,Rangers,6.55,4.45,1.42,1.57,1.95,1.75,1.72,2.65,1.13,1.07,2020-07-24,1523
+Premiership,2020-08-02,1630,Celtic,Hamilton Academical,1.11,7.95,18.5,1.31,2.58,2.11,1.47,-,1.05,5.55,2020-07-24,1523
+Premiership,2020-08-03,1945,Ross County,Motherwell FC,2.92,3.4,2.25,1.80,1.67,1.65,1.85,1.55,1.23,1.36,2020-07-24,1523
+Liga_Europa,2020-08-05,1755,Shakhtar Donetsk,Wolfsburgo,2.56,3.35,2.56,None,None,None,None,None,None,None,2020-07-24,1524
+Liga_Europa,2020-08-05,1755,FC Copenhagen,Istanbul Basaksehir,2.2,3.2,3.15,None,None,None,None,None,None,None,2020-07-24,1524
+Liga_Europa,2020-08-05,2000,Manchester United,Linz,1.28,5.45,8.5,None,None,None,None,None,None,None,2020-07-24,1524
+Liga_Europa,2020-08-05,2000,Inter de Milao,Getafe,2.0,3.25,3.75,None,None,None,None,None,None,None,2020-07-24,1524
+Liga_Europa,2020-08-06,1755,Bayer Leverkusen,Rangers,1.65,3.9,4.55,None,None,None,None,None,None,None,2020-07-24,1524
+Liga_Europa,2020-08-06,1755,Sevilha,AS Roma,2.4,3.2,2.84,None,None,None,None,None,None,None,2020-07-24,1524
+Liga_Europa,2020-08-06,2000,Wolverhampton,Olympiacos,1.83,3.35,4.3,None,None,None,None,None,None,None,2020-07-24,1524
+Liga_Europa,2020-08-06,2000,Basileia,Eintracht Frankfurt,2.58,3.35,2.54,None,None,None,None,None,None,None,2020-07-24,1524
+Champions,2020-08-07,2000,Manchester City,Real Madrid,1.67,4.2,4.05,None,None,None,None,None,None,None,2020-07-24,1525
+Champions,2020-08-07,2000,Juventus,Lyon,1.4,4.4,7.2,None,None,None,None,None,None,None,2020-07-24,1525
+Champions,2020-08-08,2000,Bayern Munique,Chelsea,1.55,4.25,5.1,None,None,None,None,None,None,None,2020-07-24,1525
+Champions,2020-08-08,2000,Barcelona,Napoles,1.6,3.75,5.35,None,None,None,None,None,None,None,2020-07-24,1525
+Champions,2020-08-12,2000,Atalanta,PSG,3.2,3.6,2.05,None,None,None,None,None,None,None,2020-07-24,1525
+Champions,2020-08-13,2000,RB Leipzig,Atletico de Madrid,3.3,3.1,2.2,None,None,None,None,None,None,None,2020-07-24,1525

@@ -1,0 +1,74 @@
+League,Date,Time,HT,AT,ODDH,ODDD,ODDA,ODD_25+,ODD_25-,ODD_BthScore_Yes,ODD_BthScore_No,ODD_1X,ODD_12,ODD_X2,Scrape_Date,Scrape_Time
+RFPL,2020-07-22,1700,Rubin Kazan,Spartak Moscovo,2.68,2.8,2.2,2.00,1.47,1.75,1.65,1.50,1.27,1.33,2020-07-22,1450
+RFPL,2020-07-22,1700,Dinamo Moscovo,FK Gazovik Orenburg,1.53,3.15,4.8,1.95,1.5,1.91,1.53,1.09,1.21,2.15,2020-07-22,1450
+RFPL,2020-07-22,1700,FC Ufa,Arsenal Tula,2.4,2.82,2.45,2.00,1.47,1.75,1.65,1.40,1.27,1.42,2020-07-22,1450
+RFPL,2020-07-22,1700,CSKA Moscovo,Tambov,1.26,4.65,5.8,1.53,1.9,1.85,1.57,1.05,1.08,3.05,2020-07-22,1450
+RFPL,2020-07-22,1700,Ural Sverdlovskaya Oblast,Lokomotiv Moscovo,3.1,3.3,1.8,1.50,1.95,1.45,2.04,1.75,1.2,1.25,2020-07-22,1450
+RFPL,2020-07-22,1700,Krasnodar,FC Akhmat Grozny,1.3,3.85,6.6,1.67,1.72,1.95,1.5,1.03,1.17,2.86,2020-07-22,1450
+RFPL,2020-07-22,1700,Rostov,Zenit Sao Petersburgo,2.17,3.05,2.56,1.53,1.9,1.42,2.1,1.36,1.23,1.5,2020-07-22,1450
+Premier_League,2020-07-22,1800,Manchester United,West Ham,1.27,6.45,9.5,1.36,2.54,1.72,1.83,1.04,1.11,3.55,2020-07-22,1457
+Serie_A,2020-07-22,1830,Parma,Napoles,7.1,4.7,1.47,1.53,2.18,1.63,1.95,2.60,1.15,1.08,2020-07-22,1456
+Championship,2020-07-22,1930,Leeds United,Charlton,1.6,4.0,4.85,1.50,2.05,1.55,2.0,1.14,1.16,2.2,2020-07-22,1448
+Championship,2020-07-22,1930,Reading,Swansea City,3.6,3.55,1.91,1.57,1.95,1.47,2.1,1.78,1.21,1.25,2020-07-22,1448
+Championship,2020-07-22,1930,Cardiff,Hull City,1.42,4.5,6.45,1.47,2.1,1.65,1.85,1.08,1.13,2.65,2020-07-22,1448
+Championship,2020-07-22,1930,West Brom,Queens Park Rangers,1.26,5.7,9.0,1.42,2.25,1.80,1.67,1.03,1.11,3.5,2020-07-22,1448
+Championship,2020-07-22,1930,Sheffield Wednesday,Middlesbrough,2.37,3.25,2.86,1.72,1.75,1.57,1.95,1.36,1.25,1.53,2020-07-22,1448
+Championship,2020-07-22,1930,Bristol City,Preston,2.84,3.25,2.37,1.57,1.95,1.45,2.17,1.50,1.25,1.38,2020-07-22,1448
+Championship,2020-07-22,1930,Birmingham,Derby County,2.33,3.35,2.86,1.72,1.75,1.57,1.95,1.36,1.23,1.53,2020-07-22,1448
+Championship,2020-07-22,1930,Luton Town,Blackburn Rovers,1.88,3.5,3.8,1.61,1.9,1.53,2.02,1.22,1.21,1.83,2020-07-22,1448
+Championship,2020-07-22,1930,Millwall FC,Huddersfield,2.25,3.15,3.15,1.78,1.7,1.60,1.91,1.31,1.26,1.57,2020-07-22,1448
+Championship,2020-07-22,1930,Wigan,Fulham,2.7,3.5,2.35,1.53,2.02,1.44,2.19,1.53,1.21,1.4,2020-07-22,1448
+Championship,2020-07-22,1930,Brentford FC,Barnsley FC,1.42,4.6,6.3,1.50,2.05,1.67,1.8,1.08,1.12,2.64,2020-07-22,1448
+Championship,2020-07-22,1930,Nottingham Forest,Stoke City,2.14,3.25,3.3,1.87,1.63,1.67,1.8,1.28,1.25,1.63,2020-07-22,1448
+Premier_League,2020-07-22,2015,Liverpool,Chelsea,2.07,3.85,3.86,1.55,2.1,1.47,2.2,1.25,1.23,1.75,2020-07-22,1457
+Serie_A,2020-07-22,2045,Torino,Hellas Verona,2.45,3.3,2.72,1.67,1.88,1.53,2.1,1.40,1.26,1.47,2020-07-22,1456
+Serie_A,2020-07-22,2045,Sampdoria,Genova,2.4,3.15,2.9,1.83,1.72,1.63,1.95,1.36,1.28,1.5,2020-07-22,1456
+Serie_A,2020-07-22,2045,Inter de Milao,Fiorentina,1.5,4.8,6.05,1.44,2.37,1.53,2.1,1.11,1.14,2.5,2020-07-22,1456
+Serie_A,2020-07-22,2045,US Lecce,Brescia Calcio,1.63,4.15,4.45,1.4,2.4,1.42,2.33,1.17,1.16,2.14,2020-07-22,1456
+Serie_A,2020-07-22,2045,Spal,AS Roma,9.0,6.15,1.3,1.35,2.67,1.65,1.91,3.40,1.08,1.04,2020-07-22,1456
+MLS,2020-07-23,100,FC Cincinnati,New York Red Bulls,3.55,3.2,2.05,1.57,1.9,1.47,2.1,1.70,1.25,1.25,2020-07-22,1455
+MLS,2020-07-23,330,Colorado Rapids,Minnesota United,3.0,3.6,2.14,1.55,1.95,1.45,2.11,1.63,1.21,1.33,2020-07-22,1455
+MLS,2020-07-23,1400,Chicago Fire,Vancouver Whitecaps FC,1.61,4.05,4.7,1.55,1.95,1.57,1.9,1.15,1.16,2.18,2020-07-22,1455
+Serie_A,2020-07-23,1830,Udinese,Juventus,5.25,3.95,1.57,1.63,1.95,1.65,1.91,2.25,1.18,1.12,2020-07-22,1456
+Serie_A,2020-07-23,2045,Lazio,Cagliari,1.47,4.4,5.6,1.45,2.25,1.57,2.02,1.11,1.15,2.45,2020-07-22,1456
+MLS,2020-07-24,100,Los Angeles Galaxy,Houston Dynamo,2.5,4.0,2.33,1.25,2.78,1.24,2.82,1.53,1.17,1.47,2020-07-22,1455
+MLS,2020-07-24,330,Los Angeles FC,Portland Timbers,1.6,4.05,4.8,1.33,2.45,1.36,2.35,1.15,1.16,2.2,2020-07-22,1455
+Primeira_Liga,2020-07-24,1900,Santa Clara,Vitoria Guimaraes,3.0,3.4,2.2,1.67,1.88,1.55,2.05,1.60,1.24,1.33,2020-07-22,1454
+Primeira_Liga,2020-07-24,2115,Gil Vicente,Pacos Ferreira,2.37,3.15,2.92,2.05,1.55,1.80,1.75,1.36,1.28,1.5,2020-07-22,1454
+Primeira_Liga,2020-07-25,1900,Boavista,Rio Ave,3.9,3.7,1.8,1.70,1.85,1.65,1.91,1.88,1.21,1.21,2020-07-22,1454
+Primeira_Liga,2020-07-25,1900,Maritimo,Famalicao,3.65,3.4,1.95,1.83,1.72,1.67,1.87,1.72,1.25,1.25,2020-07-22,1454
+Primeira_Liga,2020-07-25,2115,SL Benfica,Sporting CP,1.91,3.6,3.55,1.72,1.83,1.63,1.95,1.25,1.22,1.78,2020-07-22,1454
+Primeira_Liga,2020-07-25,2115,SC Braga,FC Porto,2.58,3.5,2.45,1.55,2.05,1.47,2.2,1.47,1.23,1.44,2020-07-22,1454
+Premier_League,2020-07-26,1600,Crystal Palace FC,Tottenham,5.6,3.9,1.55,1.67,1.87,1.72,1.83,2.30,1.19,1.11,2020-07-22,1457
+Premier_League,2020-07-26,1600,Burnley,Brighton,2.33,3.25,2.92,1.83,1.72,1.63,1.95,1.36,1.26,1.53,2020-07-22,1457
+Premier_League,2020-07-26,1600,Newcastle,Liverpool,6.85,5.4,1.33,1.50,2.14,1.80,1.75,3.00,1.09,1.07,2020-07-22,1457
+Premier_League,2020-07-26,1600,Manchester City,Norwich City,1.07,10.0,21.0,1.18,3.5,2.10,1.53,-,1.03,7.1,2020-07-22,1457
+Premier_League,2020-07-26,1600,Leicester,Manchester United,3.15,3.4,2.14,1.72,1.83,1.60,2.0,1.63,1.25,1.31,2020-07-22,1457
+Premier_League,2020-07-26,1600,Southampton,Sheffield United,2.16,3.35,3.15,1.80,1.75,1.65,1.91,1.31,1.25,1.61,2020-07-22,1457
+Premier_League,2020-07-26,1600,Everton,Bournemouth,2.2,3.65,2.86,1.53,2.1,1.45,2.25,1.36,1.22,1.6,2020-07-22,1457
+Premier_League,2020-07-26,1600,Arsenal,Watford,1.91,3.7,3.5,1.53,2.1,1.47,2.2,1.26,1.21,1.78,2020-07-22,1457
+Premier_League,2020-07-26,1600,West Ham,Aston Villa,2.98,3.55,2.17,1.55,2.05,1.45,2.25,1.61,1.22,1.35,2020-07-22,1457
+Premier_League,2020-07-26,1600,Chelsea,Wolverhampton,1.88,3.55,3.75,1.75,1.8,1.65,1.91,1.23,1.23,1.8,2020-07-22,1457
+Primeira_Liga,2020-07-26,1930,Moreirense,Tondela,2.9,3.15,2.4,1.95,1.61,1.75,1.8,1.50,1.28,1.36,2020-07-22,1454
+Primeira_Liga,2020-07-26,1930,Portimonense,Desp. Aves,1.17,5.9,18.0,1.70,1.85,2.78,1.3,-,1.09,4.45,2020-07-22,1454
+Primeira_Liga,2020-07-26,1930,Vitoria Setubal,Belenenses SAD,1.67,3.7,4.75,1.85,1.7,1.80,1.75,1.15,1.21,2.05,2020-07-22,1454
+Premiership,2020-08-01,1500,Hibernian FC,Kilmarnock FC,2.1,3.4,3.25,1.83,1.65,1.67,1.8,1.28,1.23,1.65,2020-07-22,1449
+Premiership,2020-08-01,1500,St Mirren,Livingston FC,2.54,3.2,2.68,2.02,1.53,1.75,1.72,1.40,1.26,1.45,2020-07-22,1449
+Premiership,2020-08-01,1500,Dundee United,FC St Johnstone,2.68,3.2,2.54,2.02,1.53,1.75,1.72,1.45,1.25,1.4,2020-07-22,1449
+Premiership,2020-08-01,1730,Aberdeen FC,Rangers,6.55,4.45,1.42,1.57,1.95,1.75,1.72,2.65,1.13,1.07,2020-07-22,1449
+Premiership,2020-08-02,1630,Celtic,Hamilton Academical,1.11,7.95,18.5,1.31,2.58,2.11,1.47,-,1.05,5.55,2020-07-22,1449
+Premiership,2020-08-03,1945,Ross County,Motherwell FC,2.92,3.4,2.25,1.80,1.67,1.65,1.85,1.55,1.23,1.36,2020-07-22,1449
+Liga_Europa,2020-08-05,1755,FC Copenhagen,Istanbul Basaksehir,2.2,3.2,3.15,None,None,None,None,None,None,None,2020-07-22,1451
+Liga_Europa,2020-08-05,1755,Shakhtar Donetsk,Wolfsburgo,2.56,3.35,2.56,None,None,None,None,None,None,None,2020-07-22,1451
+Liga_Europa,2020-08-05,2000,Manchester United,Linz,1.28,5.35,8.5,None,None,None,None,None,None,None,2020-07-22,1451
+Liga_Europa,2020-08-05,2000,Inter de Milao,Getafe,2.0,3.25,3.7,None,None,None,None,None,None,None,2020-07-22,1451
+Liga_Europa,2020-08-06,1755,Bayer Leverkusen,Rangers,1.65,3.9,4.55,None,None,None,None,None,None,None,2020-07-22,1451
+Liga_Europa,2020-08-06,1755,Sevilha,AS Roma,2.4,3.2,2.84,None,None,None,None,None,None,None,2020-07-22,1451
+Liga_Europa,2020-08-06,2000,Wolverhampton,Olympiacos,1.83,3.35,4.3,None,None,None,None,None,None,None,2020-07-22,1451
+Liga_Europa,2020-08-06,2000,Basileia,Eintracht Frankfurt,2.58,3.35,2.54,None,None,None,None,None,None,None,2020-07-22,1451
+Champions,2020-08-07,2000,Juventus,Lyon,1.4,4.4,7.2,None,None,None,None,None,None,None,2020-07-22,1453
+Champions,2020-08-07,2000,Manchester City,Real Madrid,1.7,4.2,4.0,None,None,None,None,None,None,None,2020-07-22,1453
+Champions,2020-08-08,2000,Bayern Munique,Chelsea,1.55,4.25,5.1,None,None,None,None,None,None,None,2020-07-22,1453
+Champions,2020-08-08,2000,Barcelona,Napoles,1.6,3.75,5.35,None,None,None,None,None,None,None,2020-07-22,1453
+Champions,2020-08-12,2000,Atalanta,PSG,3.2,3.6,2.05,None,None,None,None,None,None,None,2020-07-22,1453
+Champions,2020-08-13,2000,RB Leipzig,Atletico de Madrid,3.3,3.1,2.2,None,None,None,None,None,None,None,2020-07-22,1453
