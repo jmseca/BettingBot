@@ -9,3 +9,5 @@ Before this project, I had only done a few, but very small, so this was a really
 Furthermore, because I started this almost has a complete beginner, I had no Refactoring habits. This lead to the desorganization you can see.
 I plan to organize it, one day.
 
+And the comments are all in Portuguese (Pt) :(
+
