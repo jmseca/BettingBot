@@ -19,7 +19,7 @@ To facilitate, I have listed some files where you can see what I did.
 | ----------|---------- |
 | **Feature Engineering** | [ALL/AAPredictions/**Add_HUSKY6.py**](ALL/AAPredictions/Add_HUSKY6.py) |
 | **Random Forest** | [ALL/AAPredictions/**Multi_DeForest_Husky_C.py**](ALL/AAPredictions/Multi_DeForest_Husky_C.py) |
-| **Analysing Test Results** | [ALL/**Analyse_Husky2.ipynb**](ALL/Analyse_Husky2.ipynb) |
+| **Analysing Test Results** | [ALL/**Analyse_Husky2.ipynb**](ALL/Analyze_Husky2.ipynb) |
 
 Below is an image of the test analysis. All values are in percentage.
 - TLNN_FLMM -> NN (threshold for accepting a prediction in a tree), MM (threshold for accepting a prediction in a forest).
@@ -31,6 +31,6 @@ Below is an image of the test analysis. All values are in percentage.
 ![image](https://github.com/jmseca/BettingBot/assets/82723911/e26abefe-1821-41e3-b77c-50589d220b30)
 
 
-The best results happened when 60 <= NN <= 80. You can find the entire table on [ALL/**Analyse_Husky2.ipynb**](ALL/Analyse_Husky2.ipynb)
+The best results happened when 60 <= NN <= 80. You can find the entire table on [ALL/**Analyse_Husky2.ipynb**](ALL/Analyze_Husky2.ipynb)
 
 
