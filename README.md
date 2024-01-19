@@ -20,6 +20,7 @@ To facilitate, I have listed some files where you can see what I did.
 | **Feature Engineering** | [ALL/AAPredictions/**Add_HUSKY6.py**](ALL/AAPredictions/Add_HUSKY6.py) |
 | **Random Forest** | [ALL/AAPredictions/**Multi_DeForest_Husky_C.py**](ALL/AAPredictions/Multi_DeForest_Husky_C.py) |
 | **Analysing Test Results** | [ALL/**Analyse_Husky2.ipynb**](ALL/Analyze_Husky2.ipynb) |
+| **Betting Decisions** | [ALL/AAPredictions/**Master.py**](ALL/AAPredictions/Master.py) |
 
 Below is an image of the test analysis. All values are in percentage.
 - TLNN_FLMM -> NN (threshold for accepting a prediction in a tree), MM (threshold for accepting a prediction in a forest).
